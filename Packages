@@ -12936,6 +12936,22 @@ Description: 可以设定设置App的背景图/模糊等，让设置App变得更
 Author: Luki
 Name: April 中文版(rootless)
 
+Package: com.dao.autoscroll
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: pxcex
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
+Filename: rootless/AutoScroll 自动滚动(rootless).deb
+Size: 5396
+MD5sum: 72f17e9ef1490477a5cfe6e324d13855
+SHA1: d86341939729bc531024632fc9c300c213df8186
+SHA256: 5e02e50b608fbc6cfed3ab57429bdd33c93ebdcef3041eb9a89746cd3fb2c2f8
+Section: 嗨-工具
+Description: 防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
+Author: pxcex
+Name: AutoScroll 自动滚动(rootless)
+
 Package: com.dao.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64
