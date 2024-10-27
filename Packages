@@ -13546,13 +13546,30 @@ Architecture: iphoneos-arm64
 Maintainer: mikifp
 Depends: mobilesubstrate
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: rootless/Griddy 随意摆(rootless).deb
+Filename: rootless/Griddy 随意摆(rootless)_1.0.3.deb
 Size: 17704
 MD5sum: 1f1f898931088066f699d9150836fe7a
 SHA1: 43b7810df2a0445be32f68354c63e9313dd3c40a
 SHA256: f54d0628d3f5e5872cdedecaafd959e08e5f9da08db31a5d4e98ab152727e904
 Section: 嗨-工具
 Description: 让你的程序图标在桌面随意摆放！
+Author: mikifp
+Name: Griddy 随意摆(rootless)
+
+Package: com.dao.griddy
+Version: 1.0.3-5
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: rootless/Griddy 随意摆(rootless)_1.0.3-5.deb
+Size: 19004
+MD5sum: fff11dfc37c2fdd38a0f06f1fc411cf6
+SHA1: f57174fbd9da91e0939c812bba73dfaef60fc965
+SHA256: d82d231684d0a892ff42684a31945188f2b3c9af5cda989134bb32b52bf8dcff
+Section: 嗨-工具
+Description: 让你的程序图标在桌面随意摆放！根据开源编译，合入Hello Folder和PrimalFolder2插件修复。
 Author: mikifp
 Name: Griddy 随意摆(rootless)
 
