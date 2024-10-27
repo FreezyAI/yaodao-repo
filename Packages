@@ -14018,6 +14018,21 @@ Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好�
 Author: Ruphane
 Name: PodsGrant(rootless)
 
+Package: com.dao.popbuttons.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/PopOutButtons 简体中文包(rootless).deb
+Size: 1300
+MD5sum: 4f8c37fe22bc8bbd909668bbfc50edd8
+SHA1: 7c43c7f0e743f28c0fba31856bc5ef6aca92adad
+SHA256: 97883f24cb4ef9dbb834b7b336751d901fab668ec2bc6945458ccfa76c6d2e1c
+Section: 嗨-汉化
+Description: PopOutButtons 简体中文包(rootless)。
+Author: 妖刀
+Name: PopOutButtons 简体中文包(rootless)
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm64
