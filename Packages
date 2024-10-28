@@ -13722,6 +13722,22 @@ Description: Prysm控制中心自定义。
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade(rootless)
 
+Package: com.dao.jade
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Conflicts: com.nightwind.jade
+Filename: rootless/Jade(rootless)_1.0.3.deb
+Size: 308304
+MD5sum: 17dc89b3cba1223df387f702ab5bb1a1
+SHA1: a9cc2cf6399dfbc847c5d732d3fc0adbb0118c00
+SHA256: 6eb45dc354d775280ec1b93789f0196b2a8b2160617e9b135b4fd343f59b3aee
+Section: 嗨-工具
+Description: Prysm控制中心自定义。
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Name: Jade(rootless)
+
 Package: com.dao.kanoads
 Version: 0.1
 Architecture: iphoneos-arm64
