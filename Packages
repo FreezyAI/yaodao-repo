@@ -3012,6 +3012,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootful/Kayoko_2.6.deb
+Size: 126752
+MD5sum: 143ee056b2788fa2a65e43960207198b
+SHA1: dddc0494cc826deec36191245b5e1b4b2b5f0bf6
+SHA256: c20f3b690ef8648cb1b242b03b9fde00c3899c84c03c51890e2e6d340d53d81b
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -13855,6 +13872,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.6.deb
+Size: 126544
+MD5sum: af6ec3ecc804a94a9ab4e33aab89245f
+SHA1: 38466894061e3739778d3d7e3a769abcfa5d4720
+SHA256: fff508e8b3f4ec86f8f8479bfbea682ef86ccd3af5fbd7249008cf4dfbcb4649
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.lpmnotification
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -16876,6 +16910,23 @@ Size: 126256
 MD5sum: 142288b639bfee23284cb58974a15c0a
 SHA1: d476049a8ec99e9bda69a133ed4f988189d5de03
 SHA256: 807ae517911bec8a33d836868a9830126e270295327ef115c2bda9a2e27a23db
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.6
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: roothide/Kayoko(RootHide)_2.6.deb
+Size: 126528
+MD5sum: ec7b60aea507dc1e79cb2ca2066400f5
+SHA1: b3e47c0c0b30b80f57a6ebcbc7c9924252c497b1
+SHA256: 3e3dab8a4504474be301ef30529f41e66a60967fd914395902d5db7b85833f7d
 Section: 嗨-工具
 Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
 Author: Alexandra Aurora Göttlicher
