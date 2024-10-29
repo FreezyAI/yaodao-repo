@@ -15678,15 +15678,15 @@ Author: Ball
 Name: NFCWriter XS 简体中文包(rootless)
 
 Package: com.hk.onesettings.cn.rl
-Version: 2.1.1
+Version: 2.1.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/OneSettings 简体中文包(rootless).deb
-Size: 12208
-MD5sum: f94104475431e429e53c4f5a9c476556
-SHA1: 4803b34ec228c1a5cf03fb75ff85f2a98a002312
-SHA256: 33d5d787889099b65dc1c9a1b5f160dfeb919397247c0e5a9fa1719cb53b98fc
+Size: 12436
+MD5sum: 372a73ddc219229d87ecaee0be1a9dcf
+SHA1: 0a9b281a49360c95a58bd5d103a032360f71cf2e
+SHA256: 6b0cd141c33fd54667c1040fd246a67c298e45a24b9547c89c9890b925358690
 Section: 嗨-汉化
 Description: OneSettings 简体中文包(rootless)。
 Author: 妖刀
