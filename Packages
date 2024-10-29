@@ -2945,6 +2945,23 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.griddy
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: rootful/Griddy_1.0.4.deb
+Size: 20932
+MD5sum: 238f16a1b1f83245b150864d25380274
+SHA1: 9ec8de49cb2c4bee17c5b4747c792aaa588a13f3
+SHA256: 4087d7e0010fa90b01367fbea58abe699f91f2adbb656856105bf72b169fc8a5
+Section: 嗨-工具
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Author: mikifp
+Name: Griddy 随意摆
+
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -16831,6 +16848,22 @@ Description: 控制中心调整背景和边框等，基于alias20的CoolCC Rebor
 Author: alias20
 Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
+
+Package: com.dao.griddy
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: roothide/Griddy 随意摆(RootHide)_1.0.4.deb
+Size: 19728
+MD5sum: cb82d117f74967640cb7b9eb1929f444
+SHA1: 1f46533511c368c1fd742a6f31ed43f70c284ed1
+SHA256: 2bad3ab6b108cff9d3a79352e52f354ef116c584c5c389fe9f62d9969c6f8502
+Section: 嗨-工具
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Author: mikifp
+Name: Griddy 随意摆(RootHide)
 
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
