@@ -16,6 +16,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
+   "title": "Kayoko",
+   "package": "com.dao.kayoko",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/axon.png",
    "title": "Axon",
    "package": "com.dao.axon",

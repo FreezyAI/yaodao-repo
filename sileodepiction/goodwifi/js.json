@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。",
+                    "markdown": "更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。</br> </br> iOS16 请使用 GoodWiFi16 中文版！",
                     "useRawFormat": true,
                 },
                 {
