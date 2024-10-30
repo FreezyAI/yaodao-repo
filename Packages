@@ -12955,6 +12955,22 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData(rootless)
 
+Package: com.dao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, netskao.appdata-rootless
+Filename: rootless/AppData(rootless)_1.4.4.deb
+Size: 5051740
+MD5sum: 6bbee649fe5473728e5a24ff27cba57d
+SHA1: 3ee6f19a0e552550b44a59942cbc32a9e9c1bd97
+SHA256: 28ea64a5fb41579bf259b336bb5787ea92ddc876fa375887a0b28301f1e20597
+Section: 嗨-工具
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
+Author: Fouad Raheb
+Name: AppData(rootless)
+
 Package: com.dao.appprotect
 Version: 1.9.3
 Architecture: iphoneos-arm64
@@ -17179,6 +17195,22 @@ Section: 嗨-汉化
 Description: Senri 简体中文包(RootHide)。
 Author: 妖刀
 Name: Senri 简体中文包(RootHide)
+
+Package: com.dao.storeswitcher2
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless, com.yourepo.0xkuj.storeswitcher2rootless, com.hk.storeswitcher2.rl, com.qms.storeswitcher
+Filename: roothide/StoreSwitcher2(RootHide)_1.0.5.deb
+Size: 13624
+MD5sum: 4e6885a517388bd9eba4a6c1b7c87c9e
+SHA1: 4dbb748fa3cf54ba201dd40c7403029d4499ffed
+SHA256: 95e1dea2f388a5a342dc1a57e9bc9f773788754b24af940e9475d13acab451f3
+Section: 嗨-工具
+Description: 点击AppStore帐户页面左上角图标快速切换账号。
+Author: subdiox
+Name: StoreSwitcher2(RootHide)
 
 Package: com.dao.sugarcane
 Version: 1.3
