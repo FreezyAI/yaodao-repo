@@ -3029,6 +3029,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootful/Kayoko_2.7.deb
+Size: 124004
+MD5sum: f4d4ad3175c86447a26ab30ff1aee2c3
+SHA1: 879b7c3209e76ca4c7a7f649d88dc89c78a77b79
+SHA256: 43a5a395b88c001d32989150415bdee5b232bf141e8595481266ae65d33bfcc7
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -13889,6 +13906,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.7.deb
+Size: 124048
+MD5sum: eb471ffec7c6a6aa72e647ca0cfe292c
+SHA1: a97c01d43f489c4ea604b14e76b6941ca7f50448
+SHA256: b3bd6cfb523e13031b15b36800ae6779f715a0b54b889a4249e0f7529a41b592
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.lpmnotification
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -14593,13 +14627,30 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Depends: firmware (>= 11), mobilesubstrate
 Conflicts: com.lenglengyu.storeswitcher2-rootless, com.yourepo.0xkuj.storeswitcher2rootless, com.hk.storeswitcher2.rl
-Filename: rootless/StoreSwitcher2(rootless).deb
+Filename: rootless/StoreSwitcher2(rootless)_1.0.4.deb
 Size: 14416
 MD5sum: 8e6e8ace6b469eb90cf89a33031a8dbb
 SHA1: afb694e09d72f983737d19aa46728065e238a16a
 SHA256: 4e24158a43ebcdd41b03dc3d101493fdee7bc3d04ee2fd849a189e451ed21483
 Section: 嗨-工具
 Description: AppStore帐户页面(左上角图标)中快速切换账号。
+Author: subdiox
+Name: StoreSwitcher2(rootless)
+
+Package: com.dao.storeswitcher2
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: subdiox
+Installed-Size: 184
+Depends: firmware (>= 11), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless, com.yourepo.0xkuj.storeswitcher2rootless, com.hk.storeswitcher2.rl, com.qms.storeswitcher
+Filename: rootless/StoreSwitcher2(rootless)_1.0.5.deb
+Size: 13706
+MD5sum: 2bf7b490b14bd565cf89014091625238
+SHA1: 644b4e7f69bfffc8be2819501091dd6a2b4e500c
+SHA256: c351d70358d2d66083b7a10a772f8e7051fe6326c6e6c568eaac6b9f8bfeb684
+Section: 嗨-工具
+Description: 点击AppStore帐户页面左上角图标快速切换账号。
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
@@ -16933,6 +16984,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: roothide/Kayoko(RootHide)_2.7.deb
+Size: 123996
+MD5sum: a27fc9994b8ff3cf88941e032a15faac
+SHA1: f4f7101a1004be3c81b4e9f6f3f4a004f584c6b4
+SHA256: 26c4b2e49cbb933af1a179f889159a7f6ad72f99ffa33e63cb514c73e5628481
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -17928,20 +17996,4 @@ Section: 嗨-工具
 Description: CPUDasher破解VIP。
 Author: lw
 Name: CPUDasher 破解VIP(RootHide)
-
-Package: cpm.qms.storeswitcher
-Version: 1.2
-Architecture: iphoneos-arm64e
-Maintainer: lw
-Depends: firmware (>= 15.0), ellekit, mobilesubstrate
-Conflicts: StoreSwitcher
-Filename: roothide/AppStore 切换账号(RootHide).deb
-Size: 150328
-MD5sum: 37548f74f8480f412a692f65fbfe56d0
-SHA1: 1b39269f7898cd4e81021e26726535f66c62dbc8
-SHA256: 353f615ced0899ad789e86016a158b1504075807783975a68dc66126ba07e5f2
-Section: 嗨-工具
-Description: AppStore快速切换账号。
-Author: lw
-Name: AppStore 切换账号(RootHide)
 
