@@ -2962,6 +2962,22 @@ Description: HideSerialNumber 简体中文包。
 Author: 妖刀
 Name: HideSerialNumber 简体中文包
 
+Package: com.dao.infuseplus
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: rootful/InfusePlus.deb
+Size: 217584
+MD5sum: 69cac23414502b6c0e10ef24d31d6f08
+SHA1: ee606c52dac31a4d1414dd37a5580f6c370d6f20
+SHA256: cd1f3c79b22b347ea4a5cd358d267c02e2baa8c6e51bbd73477f7ab3f19a4e1a
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus
+
 Package: com.dao.iridium
 Version: 1.2.15-REL-1713319636
 Architecture: iphoneos-arm
@@ -7885,22 +7901,6 @@ Section: 嗨-汉化
 Description: Indy 简体中文包
 Author: Ball
 Name: Indy 简体中文包
-
-Package: com.hk.infuseplus
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: rootful/InfusePlus.deb
-Size: 125324
-MD5sum: 2a16588f2cb43046cf853fd924b9daa6
-SHA1: 4c3dec590904d7ef90f659599c1df80045bf7b62
-SHA256: 8a50932536275c3ad52107a67f155de31fb0ae2663634b4dc39c32f6863d40fe
-Section: 嗨-工具
-Description: Infuse的破解/增强插件。
-Author: dvntm
-Name: Infuse Plus
 
 Package: com.hk.instalauncher2.cn
 Version: 1.8.2
@@ -13775,18 +13775,18 @@ Author: Ivano Bilenchi
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 125292
-MD5sum: 1f86c4646a5e29b4bf01329a2bceafd3
-SHA1: fcf0fb559f767c4ff9b361b8886285dffb4ec888
-SHA256: 7e1b329bd91bca0b1fe4b2a0b51f4acb791895f7e7f269ecfa429486b438b688
+Size: 217816
+MD5sum: c41f779edb32b9a4e58f932998d12378
+SHA1: 211602a154bbb5f131b369f3394a87bb4b5ea32c
+SHA256: 8609f60789711e6204a0fb436538453c2326c4a8a1eb4d23d7ee0f83fa0150f2
 Section: 嗨-工具
-Description: Infuse的破解/增强插件。
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
 Name: Infuse Plus(rootless)
 
@@ -17016,6 +17016,22 @@ Section: 嗨-汉化
 Description: HideSerialNumber 简体中文包(RootHide)。
 Author: 妖刀
 Name: HideSerialNumber 简体中文包(RootHide)
+
+Package: com.dao.infuseplus
+Version: 1.3.0
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: roothide/Infuse Plus(RootHide).deb
+Size: 217064
+MD5sum: fafd1e3061aaaa9603115df512d76e95
+SHA1: 9fa1001b56bd32873621f684b3e7217a750a8a6d
+SHA256: 2266e429b736cf35771f8db8b9e0a090e96707ebb098281dcdb4002447a8740e
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus(RootHide)
 
 Package: com.dao.kayoko
 Version: 2.5
