@@ -14045,7 +14045,7 @@ Architecture: iphoneos-arm64
 Maintainer: ned
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: it.ned.noappthinning
-Filename: rootless/NoAppThinning(rootless).deb
+Filename: rootless/NoAppThinning(rootless)_1.2.deb
 Size: 3708
 MD5sum: 69306c39f5ace92653ef239aa5ffee08
 SHA1: 11ca84fe254323b6f7b28ffe8bbb08b1e3f54fba
@@ -14053,6 +14053,22 @@ SHA256: 7cb09d033b681701b54ef1417e6daf151928db6b5b4db7724e689739dc39adb4
 Section: 嗨-工具
 Description: 让AppStore/TestFlight下载软件为全量包，不经过AppThinning。
 Author: ned
+Name: NoAppThinning(rootless)
+
+Package: com.dao.noappthinning
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: rootless/NoAppThinning(rootless)_1.4.deb
+Size: 4504
+MD5sum: fc0473e4d29eabc8f22415468b5f6be6
+SHA1: 784ac2f9fac55bb4e58a061d9a74ee26615591e3
+SHA256: e5f94e97a2fa259a3f982f9f8d63fa658e2da2037e395ea930359c6eab3863f8
+Section: 嗨-工具
+Description: 让AppStore/TestFlight下载软件为全量包，不经过AppThinning。通俗来说，就是禁止应用瘦身，意味着从AppStore下载的应用，将包含可用的所有架构；这会增加下载体积。再者，可能会让TrollFools等工具找不到框架文件，注入错误，所以除非你懂，不懂就别碰。
+Author: ned & Netskao
 Name: NoAppThinning(rootless)
 
 Package: com.dao.noline
