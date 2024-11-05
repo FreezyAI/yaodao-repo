@@ -3493,6 +3493,22 @@ Description: 综合性 YouTube 多功能插件，可去广告、下载、调节�
 Author: dvntm
 Name: YTLite
 
+Package: com.dao.ytmusicultimate
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Ginsu & dvntm
+Depends: mobilesubstrate
+Conflicts: com.ginsu.ytmusicultimate
+Filename: rootful/YTMusicUltimate.deb
+Size: 6793328
+MD5sum: 1c7f7e51ef5ab788f079579c2e8118f7
+SHA1: 964d800cea706ef29442f88c5a6beca87663422b
+SHA256: 531c85d194475fc933f6e02070417591aafa1136f0cce3abf88f63281c407af1
+Section: 嗨-工具
+Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
+Author: Ginsu & dvntm
+Name: YTMusicUltimate
+
 Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -15018,6 +15034,22 @@ Description: 综合性 YouTube 多功能插件，可去广告、下载、调节�
 Author: dvntm
 Name: YTLite(rootless)
 
+Package: com.dao.ytmusicultimate
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu & dvntm
+Depends: mobilesubstrate
+Conflicts: com.ginsu.ytmusicultimate
+Filename: rootless/YTMusicUltimate(rootless).deb
+Size: 6793280
+MD5sum: 50b1c9cfc2b723a0b3e69d6c12675662
+SHA1: 2dfc749f339f20a260da24026efabcfd0b01305f
+SHA256: 1380f1d11696d76236ce47f1adad3bfd04ac07ef5cf6a84a134736cb35dadc65
+Section: 嗨-工具
+Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
+Author: Ginsu & dvntm
+Name: YTMusicUltimate(rootless)
+
 Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -17495,6 +17527,22 @@ Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
 Name: YTLite(RootHide)
+
+Package: com.dao.ytmusicultimate
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu & dvntm
+Depends: mobilesubstrate
+Conflicts: com.ginsu.ytmusicultimate
+Filename: roothide/YTMusicUltimate(RootHide).deb
+Size: 6790252
+MD5sum: e60bf4b619501aa574d4801906869290
+SHA1: 2f4cfb382b9de25b3c0740ba04d44063d992b54a
+SHA256: 42eec9760f703a382e17c5bf2ccc69e851e021176a553e93880eacd120d1cf14
+Section: 嗨-工具
+Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
+Author: Ginsu & dvntm
+Name: YTMusicUltimate(RootHide)
 
 Package: com.daodao.goodwifi
 Version: 1.0.1
