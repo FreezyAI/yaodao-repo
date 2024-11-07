@@ -14705,16 +14705,16 @@ Name: EeveeSpotify(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
 Package: com.dao.spotify
-Version: 5.7
+Version: 5.8
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 592600
-MD5sum: 2220074d905fd93316b7b4c2a796a4bc
-SHA1: 7425cbac0ef8e508a03a4be3541e64282eaca519
-SHA256: 1a2eabf3814a315814716186f6a6d6940245a9a33fbd1f5d346de8f88d0737b1
+Size: 603944
+MD5sum: dd10521df3513e71822c801b4aabefbf
+SHA1: f459a83f21a950c8cc524918210f47911babc0c0
+SHA256: dafcaab49c3b792d286375b0389661576e14aeaddf6562caf88e7c34dd7a4b1e
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
