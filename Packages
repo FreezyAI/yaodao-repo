@@ -2962,6 +2962,23 @@ Description: HideSerialNumber 简体中文包。
 Author: 妖刀
 Name: HideSerialNumber 简体中文包
 
+Package: com.dao.immortalizer
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: sergy & daodao
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: rootful/Immortalizer_1.0.1.deb
+Size: 29616
+MD5sum: 42d4a0eb896ac7edd38839ca78000566
+SHA1: 03a84750cf3fe1afaa7a21e38e9560650e193158
+SHA256: 4b05fb5fe7a4e6642f799c45c592e86a09f7e4628bdb48b4cf83ae6008db7e8b
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
+Author: sergy
+Name: Immortalizer
+
 Package: com.dao.infuseplus
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -3195,15 +3212,15 @@ Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.safarix.cn
-Version: 1.8.1
+Version: 1.9.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/SafariX_CN.deb
-Size: 6872
-MD5sum: 7fea13c1ad2d051d3eea0db1a4ffabc5
-SHA1: b56236bd727152662b924958b346e01f99bf4fd6
-SHA256: 28d4bafcc623f9ca8a30617fd90d083047a1c011cf6458d9688d1df3c9de0644
+Size: 8420
+MD5sum: 16f188337f4fa502f99f7089fdaf53f2
+SHA1: 7c1e3f150cd54af37cdf10505dd42a9ab032d81b
+SHA256: 01280c0a20a86dfdbf54e2e660d4288f2ccad5c38fb1bd8e0310b4e2cfb769f2
 Section: 嗨-汉化
 Description: SafariX 简体中文包。
 Author: 妖刀
@@ -12660,6 +12677,21 @@ Description: Safari 浏览器多功能增强插件；源内有汉化包；Safari
 Author: 0xkuj
 Name: SafariX-New(rootless)
 
+Package: com.0xkuj.safarix
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: rootless/SafariX-New(rootless)_1.9.0.deb
+Size: 286476
+MD5sum: 6fc5b5dce21b6e7bb493d2be9fa5fffb
+SHA1: 6145e0e75fcf22db8d8d15f0acc15175b02cdcfc
+SHA256: fc90af2e77b834b73c155253962f38ec15b5bc02edce2cf92f52500371631ae3
+Section: 嗨-工具
+Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
+Author: 0xkuj
+Name: SafariX-New(rootless)
+
 Package: com.82flex.noredirect
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -13797,7 +13829,7 @@ Maintainer: sergy & daodao
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
-Filename: rootless/Immortalizer(rootless).deb
+Filename: rootless/Immortalizer(rootless)_1.0.1.deb
 Size: 29720
 MD5sum: 6b647ea6c3c8f286e6cc111ed925a0d0
 SHA1: 7fb474b357f46a811cd871b3719066625202ae1c
@@ -14498,15 +14530,15 @@ Author: 0xkuj
 Name: SafariX(rootless)
 
 Package: com.dao.safarix.cn
-Version: 1.8.1
+Version: 1.9.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/SafariX 简体中文包(rootless).deb
-Size: 6988
-MD5sum: ae39972e2880c4d0b270333c047ca3be
-SHA1: 4c0001e237f45a64f03eb2189262d93e709aa777
-SHA256: 8f031daa62c8efbd0c84a4e0063badace7cc6d09dd6332b2032a9df53d5ed555
+Size: 8496
+MD5sum: d0f45d280b02a7f400fec1bfde359a70
+SHA1: c17679acba89cfb49f70b22579c7df6be5a895bc
+SHA256: 557d478eecb3c584fb27417eee61cf479bd6a97e4d6489442452f3c8c1346eeb
 Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
@@ -17089,7 +17121,7 @@ Maintainer: sergy & daodao
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
-Filename: roothide/Immortalizer(RootHide).deb
+Filename: roothide/Immortalizer(RootHide)_1.0.1.deb
 Size: 29626
 MD5sum: 382c2e133885a84c73df88562e3b9a35
 SHA1: b08542c4b39b4f2de593b548ef7021670efba426
@@ -17283,15 +17315,15 @@ Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.safarix.cn
-Version: 1.8.1
+Version: 1.9.0
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/SafariX 简体中文包(RootHide).deb
-Size: 6940
-MD5sum: 864777d75ef58231b7487076413b30eb
-SHA1: dc7b41a7339cf996459c83a718b100b97f3cb62b
-SHA256: f159ef8e4035b82c4f40dc54098d2c09eb48216f98c1ecd1964c92a5d80f83ab
+Size: 8452
+MD5sum: aba3bc052342b7ffa248d7735d645a13
+SHA1: 44b0ac4df2b685b9cd40d857dd169e39f64ef77f
+SHA256: 3d7072f10d84b2de01f18c95f12ce8f58cc996e35d8589c7fe40d50ce1f64567
 Section: 嗨-汉化
 Description: SafariX 简体中文包(RootHide)。
 Author: 妖刀
