@@ -12971,6 +12971,21 @@ Description: 不可思议的简约控制中心，源内有汉化包。
 Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
+Package: com.dao.appaze3.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/Appaze 3 简体中文包(rootless).deb
+Size: 7472
+MD5sum: c4059a6aa97e6f63a4c42c957c9b99d6
+SHA1: 5a6155e619fa7597ee191ca58843824e5e7a1d1d
+SHA256: 0f02dca735abcc44ac56ba576c7142a71c2e50a1e4ed7a9f7071cd1adf3a49c1
+Section: 嗨-汉化
+Description: Appaze 3 简体中文包(rootless)，仅汉化常规设置部分。
+Author: 妖刀
+Name: Appaze 3 简体中文包(rootless)
+
 Package: com.dao.appdata
 Version: 1.4.2
 Architecture: iphoneos-arm64
