@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5.5",
+                    "text": "1.7",
                     "title": "最新版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 27 日",
+                    "text": "2024 年 11 月 14 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -95,13 +95,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "1.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "提升版本号</br> </br> 自动播放下一个仅支持到 V36.6.0 版本",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "1.5.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步最新源码并汉化</br> </br> 代码重构，功能重新排版；新增一些小功能。</br> </br> 目前看着开发者并没有完全完工，可能个别功能无效！",
+                    "markdown": "同步最新源码并汉化</br> </br> 代码重构，功能重新排版；新增一些小功能。",
                     "useRawFormat": true
                 },
                 {
