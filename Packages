@@ -3015,6 +3015,23 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer
 
+Package: com.dao.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: sergy & daodao
+Installed-Size: 656
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: rootful/Immortalizer_2.0.0.deb
+Size: 43234
+MD5sum: 1134ed629eb7b470df5129048e7b3afe
+SHA1: c4e7abbcb9f5b4c285155c52a6d9259dc5fb0f0e
+SHA256: 7a2134af564945c080929e2b5d9e6c0c71909298ffa72146f0a39b9bf626b176
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译，且汉化。
+Author: sergy
+Name: Immortalizer中文版
+
 Package: com.dao.infuseplus
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -13926,6 +13943,23 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer(rootless)
 
+Package: com.dao.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy & daodao
+Installed-Size: 656
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: rootless/Immortalizer中文版(rootless)_2.0.0.deb
+Size: 43398
+MD5sum: f4aa6b60b232e47d4ccb1df2db397939
+SHA1: 778702830545e437b11ebec2a28ccbd13ec8cae4
+SHA256: 25d28b397b7bc26b8e0b01538eede6dc0e046f563d2df09802f6d69d8171d388
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译，且汉化。
+Author: sergy
+Name: Immortalizer中文版(rootless)
+
 Package: com.dao.infuseplus
 Version: 1.3.1
 Architecture: iphoneos-arm64
@@ -17253,6 +17287,23 @@ Section: 嗨-工具
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
 Author: sergy
 Name: Immortalizer(RootHide)
+
+Package: com.dao.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: sergy & daodao
+Installed-Size: 656
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: roothide/Immortalizer中文版(RootHide)_2.0.0.deb
+Size: 43270
+MD5sum: 3bf1ab4c3c92005043aa2f31ab9cb734
+SHA1: 9091fdfe93a4d7a354c9ad3135f3c82958f2a981
+SHA256: 0812ab2e5e261c291f9bfc10aeb76a5e536fdd0c052ef6e236de61d2d7819da5
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译，且汉化。
+Author: sergy
+Name: Immortalizer中文版(RootHide)
 
 Package: com.dao.infuseplus
 Version: 1.3.1
