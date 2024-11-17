@@ -10283,7 +10283,7 @@ Architecture: iphoneos-arm
 Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
-Filename: rootful/SettingsRevamp.deb
+Filename: rootful/SettingsRevamp_2.1.1.deb
 Size: 97312
 MD5sum: 0a503808e476ed413cfafc68a9dcf8d0
 SHA1: 56254e65de357e34d82d28581e22b4dd47430f0c
@@ -10298,7 +10298,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootful/SettingsRevamp_CN.deb
+Filename: rootful/SettingsRevamp_CN_2.1.1.deb
 Size: 7308
 MD5sum: 07ffd003c33913bd30af1ded90d4d160
 SHA1: ca8ebc2c86a72a1957635ae5e1539b5b6ad19db7
@@ -14771,11 +14771,27 @@ Architecture: iphoneos-arm64
 Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
-Filename: rootless/SettingsRevamp(rootless).deb
+Filename: rootless/SettingsRevamp(rootless)_2.1.1.deb
 Size: 97460
 MD5sum: 5184096c2b3c43b01eeac79a895f719d
 SHA1: abe7d054448bd331995d7a8d9cd62668a2b204f6
 SHA256: 83867fcca805ed2de7a65e628de5970c5a8d8f4f3c5f642c22f1b3cdbc90ee57
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包。
+Author: SOPPPra
+Name: SettingsRevamp(rootless)
+
+Package: com.dao.settingsrevamp
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: rootless/SettingsRevamp(rootless)_3.0.0.deb
+Size: 249368
+MD5sum: f1f48ef2927c85355b9f5fcea32153d0
+SHA1: 9ef9b6b9bd7055f2f7670c16f336c2f116aca7d6
+SHA256: a6ddd1c8a0dd0dfddc78b479e10986c64eaedd5371c7f460e1087a11d2ca37bc
 Section: 嗨-工具
 Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
@@ -16339,11 +16355,26 @@ Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/SettingsRevamp 简体中文包(rootless).deb
+Filename: rootless/SettingsRevamp 简体中文包(rootless)_2.1.1.deb
 Size: 7592
 MD5sum: b9c44dac913dc45711e94a108f69b3b6
 SHA1: 1f48d15454acce167b6ff39d3ae619c6abffd68c
 SHA256: 197c7b0e888de0abbe8f2f564be679424775fe5f7adeb41808eef76b1d4f5171
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包(rootless)。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包(rootless)
+
+Package: com.hk.settingsrevamp.cn.rl
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/SettingsRevamp 简体中文包(rootless)_3.0.0.deb
+Size: 8660
+MD5sum: cc44c8a6cca78dac11e1dd8daa9827c8
+SHA1: 31cdffb325c1ac9e64e9c9d0975baa6e9b44da63
+SHA256: dfd48dd42769f423ce3254b443af4f83c87d81edbcb1fd872218dfb84290f155
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
@@ -18288,7 +18319,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: roothide/SettingsRevamp 简体中文包(RootHide).deb
+Filename: roothide/SettingsRevamp 简体中文包(RootHide)_2.1.1.deb
 Size: 7264
 MD5sum: bea7026426349128840e121f5e19e4c6
 SHA1: ce11e39611df0028c96c9d06187a9747fa120c8c
