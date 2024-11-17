@@ -10324,16 +10324,16 @@ Description: SettingsRevamp 简体中文包。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包
 
-Package: com.hk.settingsrevamp.cn.rl
+Package: com.hk.settingsrevamp.cn
 Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/SettingsRevamp_CN_3.0.0.deb
-Size: 8608
-MD5sum: 1d9e460f6d05bb9cb7e9825b9528051b
-SHA1: 03ee41cae30c00211e177e6e5d95afccced94480
-SHA256: 93b7db9ba2d5df40a6a335da12d78931ad9afb6829dc31b5f64f568abd2230a6
+Size: 8588
+MD5sum: 73ec7386e120ad40098c61e972058b72
+SHA1: cfaca5f8a6d6005ccd13cabf9e495ae96dacffcf
+SHA256: 5ecfe34f37022ba912376cc76140728c4848678e9593c7184a69be0c5e86a95a
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包。
 Author: 妖刀
