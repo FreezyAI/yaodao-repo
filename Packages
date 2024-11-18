@@ -14321,6 +14321,23 @@ Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添
 Author: 0xkuj
 Name: 通知组计数(rootless)
 
+Package: com.dao.ngc
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: rootless/通知组计数(rootless)_1.0.5.deb
+Size: 33430
+MD5sum: efac256644bf1c1bff32f7bda6d46a83
+SHA1: a3a72430f54e66ca8e1fb99769bba9891bf7ba4a
+SHA256: 358fa4ec858b5d8fb17b808c7d089c5e3c60493ea4125d83e05aadf92a3a9d8f
+Section: 嗨-工具
+Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；根据开源编译并汉化。
+Author: 0xkuj
+Name: 通知组计数(rootless)
+
 Package: com.dao.noappthinning
 Version: 1.2
 Architecture: iphoneos-arm64
