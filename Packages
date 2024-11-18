@@ -10309,6 +10309,22 @@ Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp
 
+Package: com.hk.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: rootful/SettingsRevamp_3.0.1.deb
+Size: 242768
+MD5sum: 069df17d7422c65acc8003f217406a06
+SHA1: 071bc638f4f4013ccf5439d1c3b9650a9df59750
+SHA256: 4e5d455985f2173476bfc2fd253a2c186c2fb0464a2de9320bc724be3c12c589
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp
+
 Package: com.hk.settingsrevamp.cn
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -10334,6 +10350,21 @@ Size: 8588
 MD5sum: 73ec7386e120ad40098c61e972058b72
 SHA1: cfaca5f8a6d6005ccd13cabf9e495ae96dacffcf
 SHA256: 5ecfe34f37022ba912376cc76140728c4848678e9593c7184a69be0c5e86a95a
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包
+
+Package: com.hk.settingsrevamp.cn
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/SettingsRevamp_CN_3.0.1.deb
+Size: 8640
+MD5sum: 7a4ff154b29601aed432fa088490a4cd
+SHA1: d1bf63ad6d5ee672dd7cb5fb8eb0805578662662
+SHA256: 29f645d919e4065479524002608443f17a89ab03c1d1133ddd3d6d8dfb7ee267
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包。
 Author: 妖刀
@@ -14828,6 +14859,22 @@ Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
+Package: com.dao.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn.rl
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: rootless/SettingsRevamp(rootless)_3.0.1.deb
+Size: 243420
+MD5sum: 3bd33320cf4836f1add49ebd74f87529
+SHA1: bfcd312e47491c1f89638eb4cfc3895c7053bcea
+SHA256: 013114fafd4cdb628953b75bf31d032a754ef5f175d8e114ae8f07bb5cf7b1d0
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp(rootless)
+
 Package: com.dao.showmytouches
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -16411,6 +16458,21 @@ Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
 
+Package: com.hk.settingsrevamp.cn.rl
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/SettingsRevamp 简体中文包(rootless)_3.0.1.deb
+Size: 8732
+MD5sum: c4e3f7a85773bc901217a9d6079467df
+SHA1: 769dbf5f5148375058e8e4e7db775e5128e457c7
+SHA256: 0c0c05d107094113ff997556958296c096efd858e3901f2d4ce4eed300af50de
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包(rootless)。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包(rootless)
+
 Package: com.hk.sex.cn.rl
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -17664,6 +17726,22 @@ Description: Senri 简体中文包(RootHide)。
 Author: 妖刀
 Name: Senri 简体中文包(RootHide)
 
+Package: com.dao.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn.rl
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: roothide/SettingsRevamp(RootHide)_3.0.1.deb
+Size: 242584
+MD5sum: a29abb2f7dcc549e2b0e6538c114ad76
+SHA1: 594f69948e832d4ef1756581075d1a46ae721224
+SHA256: 07f9b6fe074d9a318d51c41258f8eb8f2f6f87883a75789e4c6926142f6669bf
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp(RootHide)
+
 Package: com.dao.storeswitcher2
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -18370,6 +18448,21 @@ Size: 8616
 MD5sum: 16cfcd6e26f2720188e053c187cef3d7
 SHA1: 05cf19e2dae281ce280f61e09392cc6060f3f1fc
 SHA256: a59091b52ff271d3c8f37baec53e7417d51e4ec2056a0816066ad026a58d452c
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包(RootHide)。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包(RootHide)
+
+Package: com.hk.settingsrevamp.cn.rl
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/SettingsRevamp 简体中文包(RootHide)_3.0.1.deb
+Size: 8668
+MD5sum: 745ff8754c4d10aa024a6d2479bf31e8
+SHA1: 5678930641d606c2bb04a627eda41971ce960997
+SHA256: 65891937e1c591a163a8d69b1c173b362766da2e4b60dc8caec19a2b4a0f5b74
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包(RootHide)。
 Author: 妖刀
