@@ -3068,16 +3068,16 @@ Author: sergy
 Name: Immortalizer中文版
 
 Package: com.dao.infuseplus
-Version: 1.3.1
+Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootful/InfusePlus.deb
-Size: 218036
-MD5sum: fd5431e8163eb436aeb03f0a1d6b0336
-SHA1: 98c4e438ec44028ec869eb11cb11c220b7717a3c
-SHA256: 8b29d2ef5dcc5165f02db7f5bf1780f3ecea831c51b8a72abf5818e94a44279c
+Size: 221596
+MD5sum: 6d0a644c8633d1939706ce7b9a615312
+SHA1: 9aa381b8272734120ac6701e10cd3adacd3381a7
+SHA256: 48ff1b01c39ef54629e19480da11d0dca6e49b41f9fd0f9f8c3c0c4f390a5f25
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -14109,16 +14109,16 @@ Author: sergy
 Name: Immortalizer中文版(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.3.1
+Version: 1.3.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 218028
-MD5sum: d66dfed5f15469190ce56b6d62c87a64
-SHA1: 261f83557dcebf76b26cca90848e5df2216182ff
-SHA256: a49e0a8ea765837e9697213c4b04c28333f75b859b51348b2e7f70c7f9e305ec
+Size: 221456
+MD5sum: 276234dc0712d54f85c9d2ed38856909
+SHA1: 18ad43f3384e3072a0c7b28d19643811f911ecdb
+SHA256: b64f7f4d8e22c96379dae40e077d088025675f7b46136e2a3be90fe95a8a6e3e
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -17568,16 +17568,16 @@ Author: sergy
 Name: Immortalizer中文版(RootHide)
 
 Package: com.dao.infuseplus
-Version: 1.3.1
+Version: 1.3.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: roothide/Infuse Plus(RootHide).deb
-Size: 218324
-MD5sum: fd91f1771cd2a1a5258578d62c6909b6
-SHA1: a5a230f12552e6875dfcb1dc10068f4c22b332a0
-SHA256: cd4c00baf9ecba7785d4cbf1c26761154fa882a49694c542c725f7d4718afe97
+Size: 220504
+MD5sum: a7873dd1409c91140a6c317e05e929ff
+SHA1: 668374095c19aa050fad0b474532fccb4edd7b50
+SHA256: c78281203af43103905768c210858588efe48fdee9279041a83bed8674fb4e9e
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
