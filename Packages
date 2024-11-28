@@ -224,14 +224,14 @@ Package: cn.octoforce.copyvault
 Version: 1.7.0
 Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5360
+Installed-Size: 5348
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
 Filename: rootful/cn.octoforce.copyvault_1.7.0_iphoneos-arm.deb
-Size: 1674218
-MD5sum: fd2b11db48bb346b201cc999df9fd7a9
-SHA1: 7a14d38c316e94bca398a9e065aa1e62b807fb24
-SHA256: 5a79f302b447ff462e231b565233588108a151b28b7a32caae7f4cc87afdcc45
+Size: 1676952
+MD5sum: 7287ac448fda0dfd828cff3468deea51
+SHA1: b2c5a1842313a153a8fcc1eba8a04fc4770faf91
+SHA256: 4646500f5804999619b873dfb25b6b1ec9d4740b251b9c9ff5f3b67bbb7088a4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -12801,14 +12801,14 @@ Package: cn.octoforce.copyvault
 Version: 1.7.0
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5316
+Installed-Size: 5344
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
 Filename: rootless/cn.octoforce.copyvault_1.7.0_iphoneos-arm64.deb
-Size: 1673786
-MD5sum: 62847de908d35d8e8b92e0b221a1697f
-SHA1: 36e856ccb52e49613a72770839df9e2429112ffe
-SHA256: 6ef01a0688e52d6fad9df9fafef7f9d63e2cc6b9958e96cb7bfb42c9b1d41493
+Size: 1678442
+MD5sum: d9914532c573beba7f1991774d0aebc3
+SHA1: 930fa89eb200fb8164d2242eb285d6f753888d4a
+SHA256: 90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -14385,6 +14385,23 @@ Size: 33430
 MD5sum: efac256644bf1c1bff32f7bda6d46a83
 SHA1: a3a72430f54e66ca8e1fb99769bba9891bf7ba4a
 SHA256: 358fa4ec858b5d8fb17b808c7d089c5e3c60493ea4125d83e05aadf92a3a9d8f
+Section: 嗨-工具
+Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；根据开源编译并汉化。
+Author: 0xkuj
+Name: 通知组计数(rootless)
+
+Package: com.dao.ngc
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: rootless/通知组计数(rootless)_1.0.6.deb
+Size: 34402
+MD5sum: 93150267890c41969c4ec0780d474c23
+SHA1: a8600c86fbb829cb410b32a0a460a6f406d538c1
+SHA256: 6dd9337dad5745366ecd4e4ec0168168d0ae68f44700c9717e067ff0dc2532df
 Section: 嗨-工具
 Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；根据开源编译并汉化。
 Author: 0xkuj
@@ -17123,10 +17140,10 @@ Installed-Size: 5260
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
 Filename: roothide/cn.octoforce.copyvault_1.7.0_iphoneos-arm64e.deb
-Size: 1657812
-MD5sum: 1792c20aad80b25ff0fc27c05fa22760
-SHA1: 0d7ca1e63fdfccb8a58033141782021bdf2388fe
-SHA256: 7d3e0eefb399ab8804fd1ce8514c82e9efdfba288537c98783128aabbd60d226
+Size: 1652480
+MD5sum: 268e5c50b7e27545ec7795fcb76889a5
+SHA1: 08697be55450638a18fda9a0a1fadf6c79a6b937
+SHA256: d078771fe872fe26ad9daf3c75f4d132dce1c826092900d24a7a76870626a820
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
