@@ -3588,11 +3588,27 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite, com.hk.ytlite
-Filename: rootful/YTLite.deb
+Filename: rootful/YTLite_5.0.2.deb
 Size: 6105988
 MD5sum: b12063fb3b6da7a380ff6361647a172d
 SHA1: d0b1a5ed64b505b06ec4f9362a073747bfcb78a6
 SHA256: 2a2a882ea3a63f0450a0405e9f1d4ee99fcb80429252d7f6ce090e043553b452
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
+Author: dvntm
+Name: YTLite
+
+Package: com.dao.ytlite
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: rootful/YTLite_5.1.deb
+Size: 6189172
+MD5sum: 16af6cef4622467ce507a9b26c9c8c7c
+SHA1: 2b7fe8ac126c87f0ff3e0dc9fe1cd865b52fdda7
+SHA256: af79e3fedfce9da5aeff2ab632ee4ce44bea608b6ffe349a302fca114234f62a
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -15423,11 +15439,27 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
-Filename: rootless/YTLite(rootless).deb
+Filename: rootless/YTLite(rootless)_5.0.2.deb
 Size: 6098392
 MD5sum: 020de0ec05d31f3b6c1c495d5b3d93fb
 SHA1: 68e96efdbd6d935f86b44311f512da0fa377181a
 SHA256: 413e1ece14d773bcb7b9ef57b96688c2f5440152c6a44957aeee2c9f6ffb040c
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
+Author: dvntm
+Name: YTLite(rootless)
+
+Package: com.dao.ytlite
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: rootless/YTLite(rootless)_5.1.deb
+Size: 6181728
+MD5sum: a749062b2d9cadf6cfcb693256b747d9
+SHA1: 498bfe1bcdb10c9c7015dc681c29a3ac3485be06
+SHA256: 42c432337e11507dbcf7bf1d71a4e56127de70bae3c6211185703cd889f8d5cb
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -18068,11 +18100,27 @@ Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
-Filename: roothide/YTLite(RootHide).deb
+Filename: roothide/YTLite(RootHide)_5.0.2.deb
 Size: 6100652
 MD5sum: 1c7fe5e37b5a8a393aeea9639b012a0a
 SHA1: 2eb4143d9db2bb5dc37be12e1e3914137f09b2af
 SHA256: 56deee6d01e160cd3dc0c9fdf938ee9331a75ff87737d6678c4a4464fd961f82
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
+Author: dvntm
+Name: YTLite(RootHide)
+
+Package: com.dao.ytlite
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: roothide/YTLite(RootHide)_5.1.deb
+Size: 6182440
+MD5sum: e4a0921bb469b7cc247ff309d7c3a73c
+SHA1: 10990767ecae3e4da024833f0fa761ab02835e2f
+SHA256: c47df8904dfc1310b6b427841b94b54b18aee655d5a65e9e81de936ebb697a09
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
