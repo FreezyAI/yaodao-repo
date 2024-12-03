@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.5",
+                    "text": "1.9.7",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 02 日",
+                    "text": "2024 年 12 月 03 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增短信开关免打扰功能（15左滑16右滑），开启后无角标、未读和横幅提醒；</br> 2、新增网络权限设置功能闪退；</br> 3、修复应用加密/解密/隐藏/显示 3DTouch 图标不显示；</br> 4、修复15系统隐藏应用后接收通知崩溃问题。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.9.5",
