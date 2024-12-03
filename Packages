@@ -18613,11 +18613,28 @@ Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring,  com.skypain.ccvpn, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, com.ichitaso.ringertoggle, com.mtac.uptime
-Filename: roothide/CCHide++(RootHide).deb
+Filename: roothide/CCHide++(RootHide)_1.0.1.deb
 Size: 160676
 MD5sum: d15a039cbe5595fd31e52bf288deafdd
 SHA1: b61ad8fb80067ef9bf085d1aef72f52ff4134807
 SHA256: 2266f869f1da8f09ebcdde018f1ef7fc7b8c249b6935bb3666056a99649375e7
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！
+Author: 妖刀
+Name: CCHide++(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cchide/js.json
+
+Package: com.hk.roothide.cc
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring,  com.skypain.ccvpn, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, com.ichitaso.ringertoggle, com.mtac.uptime
+Filename: roothide/CCHide++(RootHide)_1.0.2.deb
+Size: 167420
+MD5sum: 618d18462b7c6fd8a3cef1b7ff3b4f47
+SHA1: 49ed5a9dcdfbfdcc97d672f7029e984b85a20bfe
+SHA256: 826c40a9a41a20e74fae90ee82b89721f6f0bed2666b4438f6b8906937b71813
 Section: 嗨-工具
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！
 Author: 妖刀
