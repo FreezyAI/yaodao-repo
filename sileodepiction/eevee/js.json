@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.1",
+                    "text": "5.8.2",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 19 日",
+                    "text": "2024 年 12 月 06 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,7 +86,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.8.1",
+                    "title": "5.8.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
