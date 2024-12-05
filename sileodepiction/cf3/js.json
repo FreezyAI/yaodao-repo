@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 风格打开文件夹。</br> 刀刀基于 Lizynz 的开源优化版(支持 iOS15+)，简单定制。",
+                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 经典风格打开文件夹。</br> 刀刀基于 Lizynz 的开源(支持 iOS15+)优化版，简单定制、优化。",
                     "useRawFormat": true,
                 },
                 {
@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.5.7",
+                    "text": "3.0.5.8",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 09 月 05 日",
+                    "text": "2024 年 12 月 06 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.5.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步源码，小更新！",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.5.7",
