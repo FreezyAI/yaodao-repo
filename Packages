@@ -2980,6 +2980,22 @@ Description: 自定义程序通知角标的边框颜色和透明度，基于Poom
 Author: PoomSmart
 Name: BlurryBadges 中文版
 
+Package: com.dao.choicy.cn
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Conflicts: com.hk.choicy.cn.rl, com.hk.choicy.cn
+Filename: rootful/Choicy_CN.deb
+Size: 3884
+MD5sum: 2e78de11d17dd3891cda6c665e47b2c2
+SHA1: 440a355d3343beae9ed487236be66f9cf4d39629
+SHA256: e6b427c55bf7a5384d3a1518f9a438de7e921944b51fd044d9f5b55323f02046
+Section: 嗨-汉化
+Description: Choicy 自用中文包。
+Author: 妖刀
+Name: Choicy 自用中文包
+
 Package: com.dao.classicfolders3
 Version: 3.0.5.5
 Architecture: iphoneos-arm
@@ -5969,20 +5985,6 @@ Section: 嗨-汉化
 Description: Cercube for YouTube 简体中文包。
 Author: Sandy0
 Name: Cercube for YouTube 简体中文包
-
-Package: com.hk.choicy.cn
-Version: 1.4.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: rootful/Choicy_CN.deb
-Size: 4028
-MD5sum: bc34e7c4e99875e42798d510efc61275
-SHA1: cc5e84382c4fdf4f54ffa936397a8fcf50b96ff2
-SHA256: acd48a4c960e3e99bdab4341bf69329057b0f3c1cb21d1c624e7d21b9b1a981c
-Section: 嗨-汉化
-Description: Choicy 简体中文包。
-Author: 妖刀
-Name: Choicy 简体中文包
 
 Package: com.hk.chronos.cn
 Version: 0.0.6~Beta1
@@ -13809,6 +13811,22 @@ Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
 
+Package: com.dao.choicy.cn
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Conflicts: com.hk.choicy.cn.rl, com.hk.choicy.cn
+Filename: rootless/Choicy 自用中文包(rootless).deb
+Size: 3924
+MD5sum: 57f3dfb34eb6798605d6dee2e351cf14
+SHA1: 2efd7f0d0fabca939f63f8830d6a968abfd82389
+SHA256: ff95d9b8bcc4ef12c7576d19494f1fb99a5c03f2c043afa3d6be47cc91fe9672
+Section: 嗨-汉化
+Description: Choicy 自用中文包(rootless)。
+Author: 妖刀
+Name: Choicy 自用中文包(rootless)
+
 Package: com.dao.classicfolders3
 Version: 3.0.5.5
 Architecture: iphoneos-arm64
@@ -15923,21 +15941,6 @@ Section: 嗨-汉化
 Description: CCMusicArtwork 简体中文包(rootless)。
 Author: 妖刀
 Name: CCMusicArtwork 简体中文包(rootless)
-
-Package: com.hk.choicy.cn.rl
-Version: 1.4.6
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/Choicy 简体中文包(rootless).deb
-Size: 4316
-MD5sum: 92a237223740c28120efc9d319bb2079
-SHA1: 097606c122ce31264afc8f696008698501481619
-SHA256: 641a8abc6fc4aab0f1155c8f7c85feb7e130f4cd0e6c650851f93f17456e082e
-Section: 嗨-汉化
-Description: Choicy 简体中文包(rootless)。
-Author: 妖刀
-Name: Choicy 简体中文包(rootless)
 
 Package: com.hk.classicfolders3.cn.rl
 Version: 3.0.5
