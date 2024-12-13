@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.2",
+                    "text": "5.8.3",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 06 日",
+                    "text": "2024 年 12 月 13 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "5.8.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步更新，参与者内容也汉化了！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "5.8.2",
                     "useBoldText": true,
                     "useBottomMargin": false
@@ -93,17 +104,6 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步更新",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "4.8",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "支持多语言",
                     "useRawFormat": true
                 }
             ]
