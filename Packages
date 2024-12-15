@@ -2963,6 +2963,23 @@ Author: Bandar Alruwaili
 Name: BHTwitter 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
+Package: com.dao.bhtwitter
+Version: 4.3-5
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootful/BHTwitter_4.3-5.deb
+Size: 7611804
+MD5sum: 7ad960fb0f2efdb9607c5601a45e733e
+SHA1: 2853df76ab36d950eaec38bddfef9779de8f531f
+SHA256: e2714476f8a72fe5ca898aa0a3fa472cb7e3870f7fbd9aa9a0db24f1a4ac8f62
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
 Package: com.dao.blurrybadges
 Version: 1.5.2.1
 Architecture: iphoneos-arm
@@ -13728,6 +13745,23 @@ Author: Bandar Alruwaili
 Name: BHTwitter 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
+Package: com.dao.bhtwitter
+Version: 4.3-5
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootless/BHTwitter 中文版(rootless)_4.3-5.deb
+Size: 7614220
+MD5sum: 1dbc4cb066f352f6effe58583ae1f3da
+SHA1: b4feb1bae9725cca9e0d4b8520576b2701cfb035
+SHA256: 0b87bef3cba0f5ede92710683b94a7ff654ca4bd552bedf6f4e961e4a5b44cf6
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
 Package: com.dao.bigshotsnapper3plugin
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17572,6 +17606,23 @@ Size: 7615916
 MD5sum: 7c76676b6b7bb52e02b29653a447d330
 SHA1: efab07d2d7fabddc4f3ec9b08e60c54395e8f4f8
 SHA256: dd6c603413f3161da13554dbf761eee26e52a0103b9cc36b132b6d4e53e1da44
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
+Package: com.dao.bhtwitter
+Version: 4.3-5
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: roothide/BHTwitter 中文版(RootHide)_4.3-5.deb
+Size: 7613280
+MD5sum: 919ac21147af615b517baccdce4cf5b5
+SHA1: 44d42f2a9498fc5db7a2314da06a381c3fadc9c7
+SHA256: 1f7c7c3a997712e2417d5f249fb46611b63678c3269371a24c338c8f3d8cc880
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
