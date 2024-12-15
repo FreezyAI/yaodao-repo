@@ -3289,13 +3289,29 @@ Architecture: iphoneos-arm
 Maintainer: Ruphane
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.lns.pogr
-Filename: rootful/PodsGrant.deb
+Filename: rootful/PodsGrant_0.4.0-1.deb
 Size: 80244
 MD5sum: e753c92e030d631001a966df0d31a840
 SHA1: 069a767735ba3142693156243ec5dd01f0a5df63
 SHA256: b351beb79eb404dd0eb1c3a0b7fd1345df37e987f89e327e2813d3e627eecf08
 Section: 嗨-工具
 Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.dao.pogr
+Version: 0.4.0~prerelease2
+Architecture: iphoneos-arm
+Maintainer: Ruphane
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: rootful/PodsGrant_0.4.0-2.deb
+Size: 80160
+MD5sum: 21342fcce6d4b64d464e2a4564c6c7ef
+SHA1: 6c941aeafdc39564e0771fefc83b78d10cef073f
+SHA256: e8e3183b0daf1d2509f2dc0d711334f5fb5ea19755e5a6d7e301259350c59f43
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。New：支持AirPods4(未测试)！
 Author: Ruphane
 Name: PodsGrant
 
@@ -14847,13 +14863,29 @@ Architecture: iphoneos-arm64
 Maintainer: Ruphane
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.lns.pogr
-Filename: rootless/PodsGrant(rootless).deb
+Filename: rootless/PodsGrant(rootless)_0.4.0-1.deb
 Size: 80080
 MD5sum: 56ec604691fd17c963287a20dc928663
 SHA1: 0532bbd70db0ac3d868fbffd74a90cd70fbbb8a5
 SHA256: a47d914d1332baf44b32bd1840229c07b828fe0b53867a7df42a78e9b78eb993
 Section: 嗨-工具
 Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。
+Author: Ruphane
+Name: PodsGrant(rootless)
+
+Package: com.dao.pogr
+Version: 0.4.0~prerelease2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: rootless/PodsGrant(rootless)_0.4.0-2.deb
+Size: 74544
+MD5sum: a2b0581a03ed3aa0d5f15eb990b20621
+SHA1: 5eb166ab7bed68d3759f4cc1a0e74b8b37d3a788
+SHA256: b74be209d40c92b5c8c648ff60865d4bedf2f760de4b13bde45a1d74a45743c8
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。New：支持AirPods4(未测试)！
 Author: Ruphane
 Name: PodsGrant(rootless)
 
