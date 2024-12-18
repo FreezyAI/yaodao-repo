@@ -13866,12 +13866,12 @@ Maintainer: 0x530c
 Depends: mobilesubstrate, preferenceloader
 Conflicts: xyz.cypwn.catvnc, com.catvnc.server
 Filename: rootless/CatVNC(rootless).deb
-Size: 1193644
-MD5sum: 3abbd502ae39cde23aad470b6b867068
-SHA1: ccc06a6f5b76c69891b327c82419834bece1490c
-SHA256: 685e14b111a19672fa6f6852a66c6d04d564cfbc2998764a41d2bee243780406
+Size: 1194112
+MD5sum: bc49ef5a4ea97480d2771f3dd47b7f0d
+SHA1: 4fa4229755997ed67f5dfca3fdd493474f910a24
+SHA256: d97179e126f27a749815f74983e514349bf4312be19e85bb3c085822171aff99
 Section: 嗨-工具
-Description: CatVNC是iOS平台上的VNC服务器。可以使用电脑上的VNC客户端（如UltraVNC）连接到CatVNC，从而远程控制iOS设备。
+Description: CatVNC是iOS平台上的VNC服务器，不需要使用的时候关闭插件；可以使用电脑上的VNC客户端（如UltraVNC）连接到iOS设备，从而远程控制iOS设备。
 Author: 0x530c
 Name: CatVNC(rootless)
 
@@ -15147,6 +15147,22 @@ Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、�
 Author: SoCuul
 Name: SCInsta 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
+
+Package: com.dao.screendump
+Version: 0.0.3d-1
+Architecture: iphoneos-arm64
+Maintainer: julioverne, Sharat M R
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump, xyz.cypwn.screendump
+Filename: rootless/screendump(rootless).deb
+Size: 1220112
+MD5sum: e36ce79f385958f19c1cf5827d031b56
+SHA1: 50a776f1f544d517d55fdbb14d64b06640b14034
+SHA256: 3fd58b78f58b1849e5aa393a943791b4287f7039195499125c618fb201c7b3b7
+Section: 嗨-工具
+Description: 支持iOS的VNC服务器；可以使用电脑上的VNC客户端（如UltraVNC）连接iOS设备，从而远程控制iOS设备。
+Author: julioverne, Sharat M R
+Name: screendump(rootless)
 
 Package: com.dao.senri.cn
 Version: 1.1
