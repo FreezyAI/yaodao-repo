@@ -13859,6 +13859,22 @@ Description: 在 CarPlay 中打开任何应用程序！
 Author: leftyfl1p <carbridge@havoc.app>
 Name: CarBridge(rootless)
 
+Package: com.dao.catvnc
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 0x530c
+Depends: mobilesubstrate, preferenceloader
+Conflicts: xyz.cypwn.catvnc, com.catvnc.server
+Filename: rootless/CatVNC(rootless).deb
+Size: 1193644
+MD5sum: 3abbd502ae39cde23aad470b6b867068
+SHA1: ccc06a6f5b76c69891b327c82419834bece1490c
+SHA256: 685e14b111a19672fa6f6852a66c6d04d564cfbc2998764a41d2bee243780406
+Section: 嗨-工具
+Description: CatVNC是iOS平台上的VNC服务器。可以使用电脑上的VNC客户端（如UltraVNC）连接到CatVNC，从而远程控制iOS设备。
+Author: 0x530c
+Name: CatVNC(rootless)
+
 Package: com.dao.ccborder
 Version: 1.1.6
 Architecture: iphoneos-arm64
