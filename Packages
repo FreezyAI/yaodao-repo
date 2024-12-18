@@ -15148,22 +15148,6 @@ Author: SoCuul
 Name: SCInsta 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
 
-Package: com.dao.screendump
-Version: 0.0.3d-1
-Architecture: iphoneos-arm64
-Maintainer: julioverne, Sharat M R
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.cosmosgenius.screendump, xyz.cypwn.screendump
-Filename: rootless/screendump(rootless).deb
-Size: 1220112
-MD5sum: e36ce79f385958f19c1cf5827d031b56
-SHA1: 50a776f1f544d517d55fdbb14d64b06640b14034
-SHA256: 3fd58b78f58b1849e5aa393a943791b4287f7039195499125c618fb201c7b3b7
-Section: 嗨-工具
-Description: 支持iOS的VNC服务器；可以使用电脑上的VNC客户端（如UltraVNC）连接iOS设备，从而远程控制iOS设备。
-Author: julioverne, Sharat M R
-Name: screendump(rootless)
-
 Package: com.dao.senri.cn
 Version: 1.1
 Architecture: iphoneos-arm64
