@@ -17449,6 +17449,23 @@ Description: ACTikTok 简体中文包(RootHide)。
 Author: 妖刀
 Name: ACTikTok 简体中文包(RootHide)
 
+Package: com.dao.apptools15
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: roothide/AppTools15-16(RootHide)_1.3.1.deb
+Size: 634240
+MD5sum: 77103b85f6fc9a68d57911fafbc216d0
+SHA1: b56ab898f3ee7ef97e5d338cf628c9cbd0f83a7a
+SHA256: 73e45bc4508172d512604cd09cacf25b22621d123849f314032fb46db51d2974
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64e
