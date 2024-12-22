@@ -14263,18 +14263,18 @@ Package: com.dao.griddy
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: mikifp
-Installed-Size: 204
 Depends: mobilesubstrate
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
 Filename: rootless/Griddy 随意摆(rootless)_1.0.5.deb
-Size: 19588
-MD5sum: 8bbdf94e32f06cd1056f30c89de0c7f1
-SHA1: 43d8debc8d37ecad5ae71a7b128683d67bdd65c8
-SHA256: 6a0e145a68390f95436b4e1d84b74e6a248f9d1e94a93ead811e7d73a21be8c3
+Size: 19684
+MD5sum: 092bad858bbdc33ddb2a6204eb9db950
+SHA1: d06a183b8e7eee1a168736568170c32294c05cda
+SHA256: 1cbe224479ac9f68e2fef42a261fe97758df68505a29f47a25aec6e3d4dfe5a7
 Section: 嗨-工具
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
 Author: mikifp
 Name: Griddy 随意摆(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
@@ -17877,14 +17877,15 @@ Maintainer: mikifp
 Depends: mobilesubstrate
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
 Filename: roothide/Griddy 随意摆(RootHide)_1.0.5.deb
-Size: 18476
-MD5sum: 8f091f1b4f4fd02816a8f29ee5dfeb00
-SHA1: bec7e78757e45377016da3ae96c61f453d03a095
-SHA256: 844934a14d7d1eed944204981b90d71a54d6f90b02f58de124a4a83abf548f70
+Size: 18516
+MD5sum: 0c89d3deb265d7a307e3bbaa190a2f2f
+SHA1: ffe4661cf28547d2e48c29bd43f6f89513042966
+SHA256: 0f7e3f39b699b9d3935d70adf3e520f1a140400506fea4207b6e36b9b2c94bd4
 Section: 嗨-工具
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
 Author: mikifp
 Name: Griddy 随意摆(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
