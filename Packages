@@ -13901,11 +13901,27 @@ Architecture: iphoneos-arm64
 Maintainer: 0x530c
 Depends: mobilesubstrate, preferenceloader
 Conflicts: xyz.cypwn.catvnc, com.catvnc.server
-Filename: rootless/CatVNC(rootless).deb
+Filename: rootless/CatVNC(rootless)_0.0.2.deb
 Size: 1194112
 MD5sum: bc49ef5a4ea97480d2771f3dd47b7f0d
 SHA1: 4fa4229755997ed67f5dfca3fdd493474f910a24
 SHA256: d97179e126f27a749815f74983e514349bf4312be19e85bb3c085822171aff99
+Section: 嗨-工具
+Description: CatVNC是iOS平台上的VNC服务器，不需要使用的时候关闭插件；可以使用电脑上的VNC客户端（如UltraVNC）连接到iOS设备，从而远程控制iOS设备。
+Author: 0x530c
+Name: CatVNC(rootless)
+
+Package: com.dao.catvnc
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 0x530c
+Depends: mobilesubstrate, preferenceloader
+Conflicts: xyz.cypwn.catvnc, com.catvnc.server
+Filename: rootless/CatVNC(rootless)_1.2.0.deb
+Size: 1359092
+MD5sum: 78578e0a5afcfec7aa9f372ee08c796f
+SHA1: bd3de60f208be8e01d117a30e398e4d210e23dcf
+SHA256: 2c623c6998b327f42212d27ea7714d736d60540903e191b37b8e2c2bf692186b
 Section: 嗨-工具
 Description: CatVNC是iOS平台上的VNC服务器，不需要使用的时候关闭插件；可以使用电脑上的VNC客户端（如UltraVNC）连接到iOS设备，从而远程控制iOS设备。
 Author: 0x530c
