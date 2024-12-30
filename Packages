@@ -2916,6 +2916,38 @@ Description: BHTikTok 简体中文包。
 Author: 妖刀
 Name: BHTikTok 简体中文包
 
+Package: com.dao.bhtkplus
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: raul saeed & 刀刀
+Depends: mobilesubstrate, com.dao.bhtkplus.cn
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootful/BHTikTok++_1.8.deb
+Size: 136964
+MD5sum: b15f380948ee61f937465e8297149af2
+SHA1: 986f68fb57c0ff992d1696813a722e022dd58bb6
+SHA256: a117d6569e0334252b403bc600ffab769caf55233cdac4f909552dbbe20e6cb8
+Section: 嗨-工具
+Description: raulsaeed制作的全新的TikTok多功能插件，新版没开源，无法制作中文版，需要安装中文包插件。
+Author: raul saeed & 刀刀
+Name: BHTikTok++ 原版
+
+Package: com.dao.bhtkplus.cn
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: rootful/BHTikTok++_CN.deb
+Size: 8608
+MD5sum: c2f8d919fd898aa4c4efcbcd1717e073
+SHA1: 020fd5fb8cd4ce4541e0caad7cce39d6fa0a2eff
+SHA256: 18b5254b8d2d81e8905608c58f57a1c159e23ea5d21e3bbc5cae21affc9fdb82
+Section: 嗨-工具
+Description: BHTikTok++ 简体中文包。
+Author: 妖刀
+Name: BHTikTok++ 简体中文包
+
 Package: com.dao.bhtwitter
 Version: 4.3-1
 Architecture: iphoneos-arm
@@ -13731,6 +13763,38 @@ Section: 嗨-工具
 Description: Dayanch96基于BandarHL开源的BHTikTok优化再开发的Plus版本，支持TikTok去广告、自动下一条、纯净模式、切换地区等、伪造粉丝数，视频下载等。
 Author: Bandar Alruwaili
 Name: BHTikTok Plus(rootless)
+
+Package: com.dao.bhtkplus
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Depends: mobilesubstrate, com.dao.bhtkplus.cn
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok++ 原版(rootless)_1.8.deb
+Size: 137420
+MD5sum: bebe89db508d814e778bfde129e4798a
+SHA1: 8e73c69401cb912a9fbf1ce41935f04caa06f33f
+SHA256: f925fd33426ee357ee6ca52285427fa1bae3dbaf4df130d749314c4c3f36ad4a
+Section: 嗨-工具
+Description: raulsaeed制作的全新的TikTok多功能插件，新版没开源，无法制作中文版，需要安装中文包插件。
+Author: raul saeed & 刀刀
+Name: BHTikTok++ 原版(rootless)
+
+Package: com.dao.bhtkplus.cn
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: rootless/BHTikTok++ 简体中文包(rootless).deb
+Size: 8588
+MD5sum: e598728876ebcc16aabb70cbaa22da32
+SHA1: e9f4425e409a69976ef6140c028ca7bb3a5c6cfe
+SHA256: 93dcf2b4e7874027b49d4b1d6299bc61c7d36b6823b3f0333c19f0f56369af2f
+Section: 嗨-工具
+Description: BHTikTok++ 简体中文包(rootless)。
+Author: 妖刀
+Name: BHTikTok++ 简体中文包(rootless)
 
 Package: com.dao.bhtwitter
 Version: 4.3-1
