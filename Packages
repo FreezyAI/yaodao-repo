@@ -13975,6 +13975,22 @@ Description: CatVNC是iOS平台上的VNC服务器，不需要使用的时候关�
 Author: 0x530c
 Name: CatVNC(rootless)
 
+Package: com.dao.catvnc
+Version: 1.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: 0x530c
+Depends: mobilesubstrate, preferenceloader
+Conflicts: xyz.cypwn.catvnc, com.catvnc.server
+Filename: rootless/CatVNC(rootless)_1.2.0-1.deb
+Size: 1336404
+MD5sum: 3fdedb432c208fc551d0a3aeb08a5a23
+SHA1: 2ceaaf67ce2f0f4d96562371a69a5fb041275253
+SHA256: 6a66cae89d6cc5447d0cdae17c88f8e72c0e8f62da46c0d445fc0789aa6404ae
+Section: 嗨-工具
+Description: CatVNC是iOS平台上的VNC服务器，不需要使用的时候关闭插件；可以使用电脑上的VNC客户端（如UltraVNC、RealVNC等软件）连接到iOS设备，从而远程控制iOS设备；如果遇到bug（黑屏等）请重启用户空间！
+Author: 0x530c
+Name: CatVNC(rootless)
+
 Package: com.dao.ccborder
 Version: 1.1.6
 Architecture: iphoneos-arm64
