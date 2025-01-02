@@ -13540,6 +13540,23 @@ Author: aReo
 Name: AppTools15-16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: rootless/AppTools15-16(rootless)_1.3.4.deb
+Size: 639460
+MD5sum: 9543e5e537f7e787e0d1927d504d4b5d
+SHA1: ff466be2c8df05933ab1b650466339224dd2b475
+SHA256: 0f0495e60213715e3fd3e5f4b86704fa1b36f9f18200a494702482c8f9ba5296
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -17679,6 +17696,23 @@ Size: 627240
 MD5sum: 011b6f8b146dd1cb6af600ccc0742e7f
 SHA1: 39893fdb37b5fea3a6d21c87179ee6810d7d7ec8
 SHA256: 70aa81a2edf606606aeac0283c701ac517af21f01c339d73bbdef9c063ea3d02
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Version: 1.3.4
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: roothide/AppTools15-16(RootHide)_1.3.4.deb
+Size: 627948
+MD5sum: 8690a6b1549e921d96d2d7267f5ffcae
+SHA1: 276c252641e12a982147d0248990c94848b2b66a
+SHA256: 8f22561c31bc282b91bd95a8b729ff5542c54fe15886737a7a3b9883f8d28b0a
 Section: 嗨-付费
 Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
