@@ -13420,6 +13420,23 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Version: 1.9.8
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
+Filename: rootless/AppProtect 隐私保护(rootless)_1.9.8.deb
+Size: 509976
+MD5sum: 0e5896ba9dce0f3d0dde1e5346268f61
+SHA1: 99ca82ebaf49b0c9d8fd94662160a5eab315308d
+SHA256: 43db39895a09973c002dcef9e477598119c7c3f43e80f991d96d5e85678b436b
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appsyncunified
 Version: 112.0
 Architecture: iphoneos-arm64
@@ -17650,6 +17667,23 @@ Section: 嗨-汉化
 Description: ACTikTok 简体中文包(RootHide)。
 Author: 妖刀
 Name: ACTikTok 简体中文包(RootHide)
+
+Package: com.dao.appprotect
+Version: 1.9.8
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
+Filename: roothide/AppProtect 隐私保护(RootHide)_1.9.8.deb
+Size: 491476
+MD5sum: 673b4613d3ba61f0a4311be91464d181
+SHA1: cf26317422eb11057d2a6145263e91456511de74
+SHA256: d35ae80a74c837104dc4b353687dab3ac917abe98e5062e411ccb7ed14519fcf
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
 Package: com.dao.apptools15
 Version: 1.3.1
