@@ -3168,6 +3168,23 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer中文版
 
+Package: com.dao.immortalizer
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: rootful/Immortalizer_2.0.1.deb
+Size: 49234
+MD5sum: a85339372ce58288e408805495a1cca2
+SHA1: a4bd530fdff8ab97cf10d044591e5817d945a1d8
+SHA256: f3b265fbd4190583af267e4dc0436fc1e0defaf80b41a0ec98aab499abc8ce65
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Name: Immortalizer
+
 Package: com.dao.infuseplus
 Version: 1.3.2
 Architecture: iphoneos-arm
@@ -14543,6 +14560,23 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer中文版(rootless)
 
+Package: com.dao.immortalizer
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: rootless/Immortalizer(rootless)_2.0.1.deb
+Size: 49556
+MD5sum: 3831721692f1552ab8ec6a677c8b4891
+SHA1: 83122264a388a47147ba098315769cfc5348a0cb
+SHA256: 5e9580f77896d9a8a5fea260ae77b5e5c34267c58581434fa17c6a118902ca7b
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Name: Immortalizer(rootless)
+
 Package: com.dao.infuseplus
 Version: 1.3.2
 Architecture: iphoneos-arm64
@@ -18207,6 +18241,23 @@ Section: 嗨-工具
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译，且汉化。
 Author: sergy
 Name: Immortalizer中文版(RootHide)
+
+Package: com.dao.immortalizer
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: roothide/Immortalizer(RootHide)_2.0.1.deb
+Size: 46668
+MD5sum: 0f83d68d2fc494d45c1e7dba168dd9b8
+SHA1: 3a162546e1ad8757492d7d5622dbe8d5b4511606
+SHA256: 9829b74f67982727d189fa579c8e732109c87bb9d7a825d3fc698db89a97d51b
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Name: Immortalizer(RootHide)
 
 Package: com.dao.infuseplus
 Version: 1.3.2
