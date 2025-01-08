@@ -2932,6 +2932,22 @@ Description: raulsaeed制作的全新的TikTok多功能插件，新版没开源�
 Author: raul saeed & 刀刀
 Name: BHTikTok++ 原版
 
+Package: com.dao.bhtkplus
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: raul saeed & 刀刀
+Depends: mobilesubstrate
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn
+Filename: rootful/BHTikTok++_1.9.3.deb
+Size: 201004
+MD5sum: 5ca0c6c05d18039ebcd66f17714143c2
+SHA1: 3b649c8e690c6faa30b2a7cd937169836c84a7d7
+SHA256: cd78a9b83e8aa1d9cb0344944830fd3366c487dd1c886c7fd0741870c5c1423b
+Section: 嗨-工具
+Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
+Author: raul saeed & 刀刀
+Name: BHTikTok++ 原版
+
 Package: com.dao.bhtkplus.cn
 Version: 1.8
 Architecture: iphoneos-arm
@@ -13591,6 +13607,23 @@ Author: aReo
 Name: AppTools15-16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: rootless/AppTools15-16(rootless)_1.3.5.deb
+Size: 641016
+MD5sum: 9f2be21f9a9a1d511b4914d82c92ef38
+SHA1: f818514404141080c7cb14dd95146380ea5e211a
+SHA256: 62c6c14a5f97907b5d609dbb1d8a565098ea716ffe4c83acdc37a1c4f55817b3
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -13862,6 +13895,22 @@ SHA1: 8e73c69401cb912a9fbf1ce41935f04caa06f33f
 SHA256: f925fd33426ee357ee6ca52285427fa1bae3dbaf4df130d749314c4c3f36ad4a
 Section: 嗨-工具
 Description: raulsaeed制作的全新的TikTok多功能插件，新版没开源，无法制作中文版，需要安装中文包插件。
+Author: raul saeed & 刀刀
+Name: BHTikTok++ 原版(rootless)
+
+Package: com.dao.bhtkplus
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Depends: mobilesubstrate
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn
+Filename: rootless/BHTikTok++ 原版(rootless)_1.9.3.deb
+Size: 198904
+MD5sum: 3c248787030d6da647674ef8baa1802e
+SHA1: a330e8dac6ec942975f3e72324daebf1c0271b07
+SHA256: 79657de30d260dc5a903b1b032767af8864c607289f06e541893438f745e4519
+Section: 嗨-工具
+Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
 Author: raul saeed & 刀刀
 Name: BHTikTok++ 原版(rootless)
 
@@ -14550,7 +14599,7 @@ Maintainer: sergy & daodao
 Installed-Size: 656
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
-Filename: rootless/Immortalizer中文版(rootless)_2.0.0.deb
+Filename: rootless/Immortalizer(rootless)_2.0.0.deb
 Size: 43398
 MD5sum: f4aa6b60b232e47d4ccb1df2db397939
 SHA1: 778702830545e437b11ebec2a28ccbd13ec8cae4
@@ -17787,6 +17836,23 @@ Author: aReo
 Name: AppTools15-16(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Version: 1.3.5
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: roothide/AppTools15-16(RootHide)_1.3.5.deb
+Size: 628592
+MD5sum: 9b581125928620dc868a7074a5448074
+SHA1: 64fc15848b2a4f97a711b65c8e4b8b04fc857b6c
+SHA256: 098247a5d867b8804fb331e07ce4010efdaac596169cf7ea1754e5aa69f0e0f7
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64e
@@ -18232,7 +18298,7 @@ Maintainer: sergy & daodao
 Installed-Size: 656
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
-Filename: roothide/Immortalizer中文版(RootHide)_2.0.0.deb
+Filename: roothide/Immortalizer(RootHide)_2.0.0.deb
 Size: 43270
 MD5sum: 3bf1ab4c3c92005043aa2f31ab9cb734
 SHA1: 9091fdfe93a4d7a354c9ad3135f3c82958f2a981
