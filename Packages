@@ -2792,96 +2792,6 @@ Author: NoisyFlake
 Name: BetterAlarm中文版
 
 Package: com.dao.bhtiktok++
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.3.deb
-Size: 94508
-MD5sum: 117e310c6a12dadf38c79b6494947b4e
-SHA1: 64c5701cc18d6e420e337dc93efc3f8dc115818b
-SHA256: 32363f33b8303331773b5333dc83e76a65f177d44c4d1d02f72d4b9b39fe7fdf
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.3.5
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.3.5.deb
-Size: 95752
-MD5sum: 9dff78f31c5b54d926b5a1617bbb64df
-SHA1: f8e7112f9ab80925976878a466ab3e49d84b7d82
-SHA256: a8c14e84740829ca3400ac5551de77712a9aca685ab6b1efc3b2c9a5221bce6c
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.5.deb
-Size: 95646
-MD5sum: fbd1ac94f20249909a15b35fedcedb99
-SHA1: 832c4ca99272673cafe5ba855928cc7b7cef18f8
-SHA256: 134b72d5a6ba4dd5b5105c6e035a05e22cf5cff35b74130a8b125489ebd7e97c
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.5.5
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.5.5.deb
-Size: 102438
-MD5sum: ae06ce03c79e61848d4adb7327c9d63f
-SHA1: 7b21d88d9f312d9b033ad55d2f55da2ac85c09c5
-SHA256: c81364ae77b5945c3b66a9f2187a570bd91ded4934d4843d1af810da1f7c2f9f
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Installed-Size: 604
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.7.deb
-Size: 93920
-MD5sum: 9aaac6edd2d210945f6bbf4b8379f690
-SHA1: e6d4956445a2d052e59e5e333a07a2975095fae1
-SHA256: 6a4f0ce4036e7d0a31df2236393210e7714552595639ed97643c0d2d6e2e1cfc
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
 Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: raul saeed & 刀刀
@@ -2937,12 +2847,12 @@ Version: 1.9.3
 Architecture: iphoneos-arm
 Maintainer: raul saeed & 刀刀
 Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn, com.dao.bhtiktok++
 Filename: rootful/BHTikTok++_1.9.3.deb
-Size: 201004
-MD5sum: 5ca0c6c05d18039ebcd66f17714143c2
-SHA1: 3b649c8e690c6faa30b2a7cd937169836c84a7d7
-SHA256: cd78a9b83e8aa1d9cb0344944830fd3366c487dd1c886c7fd0741870c5c1423b
+Size: 201012
+MD5sum: 618d5aa2e4ea8e32c8779aa9193c25f7
+SHA1: fa1019fe9aaa25701defaba96a001014eb81dea1
+SHA256: a5b62af3fc9d2d41ad360afeb3cdc943101ad662b5d8e195f766c4aa79d50962
 Section: 嗨-工具
 Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
 Author: raul saeed & 刀刀
@@ -3212,6 +3122,22 @@ Size: 221596
 MD5sum: 6d0a644c8633d1939706ce7b9a615312
 SHA1: 9aa381b8272734120ac6701e10cd3adacd3381a7
 SHA256: 48ff1b01c39ef54629e19480da11d0dca6e49b41f9fd0f9f8c3c0c4f390a5f25
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus
+
+Package: com.dao.infuseplus
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: rootful/InfusePlus_2.0.deb
+Size: 280096
+MD5sum: 5f79d44f84f2c02b1590541e4be0e505
+SHA1: 2c0bfb66ac4613d23e999766059fdd5eb42b9eb3
+SHA256: e6b9e24bd117d53e06163c7ad9b8acdcb1f50e30cc063a0843d9b1424c33448d
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -13742,96 +13668,6 @@ Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
 Package: com.dao.bhtiktok++
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.3.deb
-Size: 95104
-MD5sum: 1bb01118f2ca5ceacdf9e8193c090f66
-SHA1: 638181a373e5940ad9ec93a616249a0da9ef8687
-SHA256: dd43007b3cbf77ab8229e213e2e2294cf2e8f369f989a544e3c75dd97a7e24bb
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.3.5
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.3.5.deb
-Size: 95374
-MD5sum: c16c995fc4bf9fa73eec33aa2117459a
-SHA1: 181315caf05d66cbc7fc9b8d6633c37dd67356a9
-SHA256: 9b002a0a791da04472ed6819e0c3f75629d5099149af961835d0ba7e1629e592
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.5.deb
-Size: 96210
-MD5sum: abadc933ff25f877b6d25c876c33fe17
-SHA1: 1ff0fa570ad9c2a7fe2f586f4324a053620b2e9f
-SHA256: 9d9f80f41f26fd8e2aeb7767cb81dd1d96daee327992767468a1bfc69a9c9aa1
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.5.5.deb
-Size: 102656
-MD5sum: d756244329178c0c9a90f7f498668fb8
-SHA1: 440dd8c4f15821646541937dcf85490a4eaf0140
-SHA256: fab3bba027c3a0e2975fe17398158b388dafbd2715a35d8a753cb432685508eb
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 604
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.7.deb
-Size: 93824
-MD5sum: 111a1b502bda32a87cefd7cdffeb6977
-SHA1: cc19f10436f6ab2c210461ec1fdee3229f0c49f3
-SHA256: 41212186f9b7d73c69a17375f5ad2630011639336b3ad378d2356d09cd07df05
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
 Version: 1.7.1
 Architecture: iphoneos-arm64
 Maintainer: raul saeed & 刀刀
@@ -13903,12 +13739,12 @@ Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: raul saeed & 刀刀
 Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn, com.dao.bhtiktok++
 Filename: rootless/BHTikTok++ 原版(rootless)_1.9.3.deb
-Size: 198904
-MD5sum: 3c248787030d6da647674ef8baa1802e
-SHA1: a330e8dac6ec942975f3e72324daebf1c0271b07
-SHA256: 79657de30d260dc5a903b1b032767af8864c607289f06e541893438f745e4519
+Size: 198912
+MD5sum: 05135929df2a40c32fc17658a4f124ed
+SHA1: e7359e46800c3e2c4796908f4f8f8eb18fcef2ad
+SHA256: cd70b547d7bd2368fe68d031e0cf67632a44dd788547fae0edc241db3dad0e8c
 Section: 嗨-工具
 Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
 Author: raul saeed & 刀刀
@@ -14637,6 +14473,22 @@ Size: 221456
 MD5sum: 276234dc0712d54f85c9d2ed38856909
 SHA1: 18ad43f3384e3072a0c7b28d19643811f911ecdb
 SHA256: b64f7f4d8e22c96379dae40e077d088025675f7b46136e2a3be90fe95a8a6e3e
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus(rootless)
+
+Package: com.dao.infuseplus
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: rootless/Infuse Plus(rootless)_2.0.deb
+Size: 279928
+MD5sum: 79c73aa9159e1e07c882575d8691c7c7
+SHA1: 52b2365df7d562cfde096060e5a2e4a34b03e2bd
+SHA256: ab494c49fc9d8f6506adad401ea17f3d731e2bd81eacc7541d202a1032d87c6b
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -17923,96 +17775,6 @@ Author: NoisyFlake
 Name: BetterAlarm中文版(RootHide)
 
 Package: com.dao.bhtiktok++
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: roothide/BHTikTok++中文版(RootHide)_1.3.deb
-Size: 95032
-MD5sum: 3460c64cc98f89964398e1fd28a78124
-SHA1: f7b35de9fb4c476f07fa87653e3257bbce97904c
-SHA256: 616aec85c8b38f8febf6e394205a2713d4f4236407ee0b31e2414d946305eba4
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.3.5
-Architecture: iphoneos-arm64e
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: roothide/BHTikTok++中文版(RootHide)_1.3.5.deb
-Size: 95592
-MD5sum: 4216c90f8fbf9cbf2121500e44bf9405
-SHA1: 452558b5f3492398abd3989aa8b601596accb105
-SHA256: 50f33d5ca05ced023e3fc8fa2026b34694696e6a8f95c95c5772d42d4daecb5b
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: raul saeed & 刀刀
-Installed-Size: 552
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: roothide/BHTikTok++中文版(RootHide)_1.5.deb
-Size: 96074
-MD5sum: 8a9f55784c6ea70060d863e9dfe95d46
-SHA1: 9ae725a395e92ad33531ddf9cf24247915491fdc
-SHA256: 132034fd3f1b88fe98abad87f2b36201c319eca97f5dd3ee8070c760ffc5c38e
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.5.5
-Architecture: iphoneos-arm64e
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: roothide/BHTikTok++中文版(RootHide)_1.5.5.deb
-Size: 102594
-MD5sum: 28e8b53b0846eb4ca889098a1973a2a7
-SHA1: c09ac0ffaec573e2d8d2de1728bceba68b2ae306
-SHA256: 256660118c0397efc32cf4f1e844610c1a204768dac8ce0c6560f2f8260873b7
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
-Version: 1.7
-Architecture: iphoneos-arm64e
-Maintainer: raul saeed & 刀刀
-Installed-Size: 604
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: roothide/BHTikTok++中文版(RootHide)_1.7.deb
-Size: 93886
-MD5sum: 42f3188d2005fe22221ffb9fc840c25f
-SHA1: 931cce081a757a484092a84fc55c2b66b245e11c
-SHA256: 5a15e29120e15ec813ddbc1607da898ef71c56241d1157e8514f6a456606df7d
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok++
 Version: 1.7.1
 Architecture: iphoneos-arm64e
 Maintainer: raul saeed & 刀刀
@@ -18336,6 +18098,22 @@ Size: 220504
 MD5sum: a7873dd1409c91140a6c317e05e929ff
 SHA1: 668374095c19aa050fad0b474532fccb4edd7b50
 SHA256: c78281203af43103905768c210858588efe48fdee9279041a83bed8674fb4e9e
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus(RootHide)
+
+Package: com.dao.infuseplus
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: roothide/Infuse Plus(RootHide)_2.0.deb
+Size: 279188
+MD5sum: 0f6ba8ea90c9ea7ed517d21231fd1a02
+SHA1: 1beae712058466c1500b117d7a6b835f02457789
+SHA256: beb33af2ea9916631a19eeb0e96afcd0fedd2467dd86bad2df5ab46b54b753b8
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
