@@ -3324,6 +3324,22 @@ Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好�
 Author: Ruphane
 Name: PodsGrant
 
+Package: com.dao.pogr
+Version: 0.4.0~prerelease3
+Architecture: iphoneos-arm
+Maintainer: Ruphane
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: rootful/PodsGrant_0.4.0-3.deb
+Size: 79572
+MD5sum: c8d306f75917742fb9ad8aa7cd2c1916
+SHA1: 063c761f0c81ecae18d9b1b622f6ce5d91ed579d
+SHA256: 9a99795c0b9a511c39c29ad52a13926a79ce7336cbc52c1f5320f94b9060f9ba
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Author: Ruphane
+Name: PodsGrant
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -15038,6 +15054,22 @@ SHA1: 5eb166ab7bed68d3759f4cc1a0e74b8b37d3a788
 SHA256: b74be209d40c92b5c8c648ff60865d4bedf2f760de4b13bde45a1d74a45743c8
 Section: 嗨-工具
 Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。New：支持AirPods4(未测试)！
+Author: Ruphane
+Name: PodsGrant(rootless)
+
+Package: com.dao.pogr
+Version: 0.4.0~prerelease3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: rootless/PodsGrant(rootless)_0.4.0-3.deb
+Size: 74276
+MD5sum: e0b057c4d40cbb9172294daecf85a218
+SHA1: e8f35aa52a3c989ee8283cda3686e2960ff6c69e
+SHA256: e81039e615064c19a0dbe8b16886a5ebf264f7dc6e2d12dafbf9933ebd704dd5
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
 Author: Ruphane
 Name: PodsGrant(rootless)
 
