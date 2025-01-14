@@ -15523,6 +15523,23 @@ Author: Eevee
 Name: EeveeSpotify(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
+Package: com.dao.stella
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: yan & 刀刀
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: rootless/Stella 中文版(rootless)_1.1.4.deb
+Size: 400746
+MD5sum: 0bd85314d44768420a72bf665da99489
+SHA1: 5629cb01bc16e43c921afcd072f6aba8cdf9d703
+SHA256: 25f233eabf0b9d4cd8cbe881eac2b87af26ab9d86b292cc4336c4e58c0f623ba
+Section: 嗨-工具
+Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。
+Author: yan
+Name: Stella 中文版(rootless)
+
 Package: com.dao.storeswitchaccounts
 Version: 1.1-4
 Architecture: iphoneos-arm64
