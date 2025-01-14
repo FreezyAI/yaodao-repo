@@ -15506,6 +15506,23 @@ Author: Eevee
 Name: EeveeSpotify(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
+Package: com.dao.spotify
+Version: 5.8.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee & 妖刀
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Conflicts: com.eevee.spotify
+Filename: rootless/EeveeSpotify(rootless)_5.8.4.deb
+Size: 396196
+MD5sum: 340ba1e3f0705754c26d7ac0d76fe855
+SHA1: 9ae72ebc0de2b666a5cf630202c9f76ddd6c36e1
+SHA256: 5c149c8cbcfb51e494de9e5da315f1890c40a3e6d7d0777dd1cc25963d32a86d
+Section: 嗨-工具
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
+Author: Eevee
+Name: EeveeSpotify(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
 Package: com.dao.storeswitchaccounts
 Version: 1.1-4
 Architecture: iphoneos-arm64
@@ -17370,6 +17387,20 @@ Size: 1430280
 MD5sum: ed5f3c8dab70c1d35ac932052f2fa099
 SHA1: 8d50910e06b6e3eaf36cb0becd2684506d8216cc
 SHA256: 1c58dc522015e6c6b5b944ef33c93400c77c05c053fc8a914847bc6c2d874bb6
+Section: 嗨-工具
+Description: EeveeSpotify的依赖。
+Author: eevee
+Name: SwiftProtobuf(rootless)
+
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.28.2
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Filename: rootless/SwiftProtobuf(rootless)_1.28.2.deb
+Size: 1430272
+MD5sum: 328c6a92b4cdc9fc4db1833bd92626c2
+SHA1: a094058325fc93a166afde7ed9c3dab21b18c531
+SHA256: 674f045be520d53ee820d1143d2218e9b6ef25885a50fa28bf5dbab74d9b7c6c
 Section: 嗨-工具
 Description: EeveeSpotify的依赖。
 Author: eevee
