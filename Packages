@@ -3470,6 +3470,23 @@ Description: Souvenir 简体中文包。
 Author: 赵楠
 Name: Souvenir 简体中文包
 
+Package: com.dao.stella
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: yan & 刀刀
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: rootful/Stella_1.1.5.deb
+Size: 400936
+MD5sum: f3bf26f9ea149c7c4b3cff938a2b31e2
+SHA1: 2cfe5e70b8e1e0ae622d32534d9a9784f318b0b2
+SHA256: 2a087683ad0ca49f164fc1691cca468a3a2c9f8c3a7e9bde45711dcf31df1ea9
+Section: 嗨-工具
+Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。
+Author: yan
+Name: Stella 中文版
+
 Package: com.dao.sugarcane
 Version: 1.3
 Architecture: iphoneos-arm
@@ -15535,6 +15552,23 @@ Size: 400746
 MD5sum: 0bd85314d44768420a72bf665da99489
 SHA1: 5629cb01bc16e43c921afcd072f6aba8cdf9d703
 SHA256: 25f233eabf0b9d4cd8cbe881eac2b87af26ab9d86b292cc4336c4e58c0f623ba
+Section: 嗨-工具
+Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。
+Author: yan
+Name: Stella 中文版(rootless)
+
+Package: com.dao.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: yan & 刀刀
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: rootless/Stella 中文版(rootless)_1.1.5.deb
+Size: 400990
+MD5sum: bf5903d595f8b5884800c3885ea3da47
+SHA1: fb24aae8c3f452a04ddd7aa3123628e5925a3e07
+SHA256: 3bc60266ae538a8a5130bbd52b3716ceeef82286293c08722658ed43b783cfb5
 Section: 嗨-工具
 Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。
 Author: yan
