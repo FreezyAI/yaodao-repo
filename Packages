@@ -3112,22 +3112,6 @@ Author: sergy
 Name: Immortalizer
 
 Package: com.dao.infuseplus
-Version: 1.3.2
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: rootful/InfusePlus.deb
-Size: 221596
-MD5sum: 6d0a644c8633d1939706ce7b9a615312
-SHA1: 9aa381b8272734120ac6701e10cd3adacd3381a7
-SHA256: 48ff1b01c39ef54629e19480da11d0dca6e49b41f9fd0f9f8c3c0c4f390a5f25
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus
-
-Package: com.dao.infuseplus
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dvntm
@@ -3138,6 +3122,22 @@ Size: 280096
 MD5sum: 5f79d44f84f2c02b1590541e4be0e505
 SHA1: 2c0bfb66ac4613d23e999766059fdd5eb42b9eb3
 SHA256: e6b9e24bd117d53e06163c7ad9b8acdcb1f50e30cc063a0843d9b1424c33448d
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus
+
+Package: com.dao.infuseplus
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: rootful/InfusePlus.deb
+Size: 281616
+MD5sum: 36fc7f74b65e35eaf786aaba6464014a
+SHA1: 0df97f09f6c79366ebe65d9eed2cd764cae8dde9
+SHA256: 0665e546a1f6c6971aba20d8bfd6ad1a3aff0b54395b22d45af158b0541b748d
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -3392,15 +3392,15 @@ Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.safarix.cn
-Version: 1.9.3
+Version: 1.9.5
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/SafariX_CN.deb
-Size: 9064
-MD5sum: eedabc8c2239b5e7b77f30a8361aacdb
-SHA1: a413cd8d463ba5eb080877cd40d52357eb6697e2
-SHA256: c8f3bed9c75e2eb418c24e639a0ae4e54473121c1f759a5db0f620937fdf3c06
+Size: 9132
+MD5sum: c1f148b7f47ae2de3e565288058ca7b9
+SHA1: 70da258e5e33a042573d00725f036902ebfaa410
+SHA256: 32a7125b31950ff07e6c2e3da213b9649a2023e2d5db166dba2acf5e29015709
 Section: 嗨-汉化
 Description: SafariX 简体中文包。
 Author: 妖刀
@@ -12974,6 +12974,21 @@ Description: Safari 浏览器多功能增强插件；源内有汉化包；Safari
 Author: 0xkuj
 Name: SafariX-New(rootless)
 
+Package: com.0xkuj.safarix
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: rootless/SafariX-New(rootless)_1.9.5.deb
+Size: 298076
+MD5sum: 764dcb3aed04c0687e924d6eb8279364
+SHA1: 99df55ae4c87e50f43653797783796190fd801e7
+SHA256: 066469fa51fbcda0fe9de666f73815e63cffc70d72e79dfe2963f31b5a4519c3
+Section: 嗨-工具
+Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
+Author: 0xkuj
+Name: SafariX-New(rootless)
+
 Package: com.82flex.noredirect
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -14468,22 +14483,6 @@ Author: sergy
 Name: Immortalizer(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.3.2
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: rootless/Infuse Plus(rootless).deb
-Size: 221456
-MD5sum: 276234dc0712d54f85c9d2ed38856909
-SHA1: 18ad43f3384e3072a0c7b28d19643811f911ecdb
-SHA256: b64f7f4d8e22c96379dae40e077d088025675f7b46136e2a3be90fe95a8a6e3e
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus(rootless)
-
-Package: com.dao.infuseplus
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -14494,6 +14493,22 @@ Size: 279928
 MD5sum: 79c73aa9159e1e07c882575d8691c7c7
 SHA1: 52b2365df7d562cfde096060e5a2e4a34b03e2bd
 SHA256: ab494c49fc9d8f6506adad401ea17f3d731e2bd81eacc7541d202a1032d87c6b
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus(rootless)
+
+Package: com.dao.infuseplus
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: rootless/Infuse Plus(rootless).deb
+Size: 280856
+MD5sum: bce4fc6c2e0fbdb0ef8dab8010ee91e7
+SHA1: 5ae2006f7f95255374b6951da727852fee7ba868
+SHA256: d0c7805af865b48b14a504d71ad66c55fef1e7feae16ff786ee090cbce9c871e
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -15240,15 +15255,15 @@ Author: 0xkuj
 Name: SafariX(rootless)
 
 Package: com.dao.safarix.cn
-Version: 1.9.3
+Version: 1.9.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/SafariX 简体中文包(rootless).deb
-Size: 9228
-MD5sum: c115a703a63d3ae608478b685e55d8cf
-SHA1: 53056c4761c44e0ab6f2c5d2a91f352318e30c82
-SHA256: ff7290c035a0cfcd7437a723d3e650df5f783d4b351b15669f5ff1db23a23b0b
+Size: 9216
+MD5sum: 1477d3703bb6f74ed54f3aa86181d029
+SHA1: ebff41cc9ddb99e468a2d29560de6dabdf29ec2a
+SHA256: 310386f243d30239a46173bb9df89b572fd77941bf5c9dc5adc760296f866a30
 Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
@@ -18191,22 +18206,6 @@ Author: sergy
 Name: Immortalizer(RootHide)
 
 Package: com.dao.infuseplus
-Version: 1.3.2
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: roothide/Infuse Plus(RootHide).deb
-Size: 220504
-MD5sum: a7873dd1409c91140a6c317e05e929ff
-SHA1: 668374095c19aa050fad0b474532fccb4edd7b50
-SHA256: c78281203af43103905768c210858588efe48fdee9279041a83bed8674fb4e9e
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus(RootHide)
-
-Package: com.dao.infuseplus
 Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
@@ -18217,6 +18216,22 @@ Size: 279188
 MD5sum: 0f6ba8ea90c9ea7ed517d21231fd1a02
 SHA1: 1beae712058466c1500b117d7a6b835f02457789
 SHA256: beb33af2ea9916631a19eeb0e96afcd0fedd2467dd86bad2df5ab46b54b753b8
+Section: 嗨-工具
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Author: dvntm
+Name: Infuse Plus(RootHide)
+
+Package: com.dao.infuseplus
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: roothide/Infuse Plus(RootHide).deb
+Size: 280224
+MD5sum: b5510d525768316e480d20085bdf9dab
+SHA1: f46656f030158078f9f85647bf9fcdf93331d781
+SHA256: ca8edf8e142b0926e3ae4749bf498a5055b14c6e647c48a581994da5c3f27ee8
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -18390,15 +18405,15 @@ Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.safarix.cn
-Version: 1.9.3
+Version: 1.9.5
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/SafariX 简体中文包(RootHide).deb
 Size: 9180
-MD5sum: 92cf5011061e8bf125a0b822763506bc
-SHA1: 66125e4ffa54fd1d9700633bfb8e7268cdf28a4d
-SHA256: 528e23db9d0da473eacec2ba57b745cd339070bf0f188c2597d3e8e84753ea70
+MD5sum: b8a232b86c687d5ecac32de206afb54d
+SHA1: 884319aaec16629dc4ba5c8b851acdba66bdecd0
+SHA256: 2b174f8206c6361428ef9cee9fef464408d65bb91b1e4ee86ec9be30f3e42209
 Section: 嗨-汉化
 Description: SafariX 简体中文包(RootHide)。
 Author: 妖刀
