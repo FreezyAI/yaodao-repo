@@ -2690,6 +2690,23 @@ Description: Stylish11 简体中文包。
 Author: Sandy0 & Ball
 Name: Stylish11 简体中文包
 
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: 0xkuj & daodao
+Installed-Size: 492
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: rootful/3DAppVersionSpoofer.deb
+Size: 61402
+MD5sum: b29188b86dae697dddbdbbb8ca524fac
+SHA1: e4a993c0e14a451daab347be290f45290f3a393c
+SHA256: eb66ee52f11d50d12689b95a1a0c8a3c35fed583cc487910adc698a0c8387597
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+
 Package: com.dao.actk.cn
 Version: 1.1
 Architecture: iphoneos-arm
@@ -13199,6 +13216,23 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj & daodao
+Installed-Size: 492
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: rootless/3DAppVersionSpoofer(rootless).deb
+Size: 59350
+MD5sum: 45b9c12c49c985df2174a0343c928294
+SHA1: 5f4a6c4b4f7cd1b04df070f94f8a195fd3a32204
+SHA256: 8eb4fd7937919390e45ead17287e466d7258c5d04283b554cc463adffdf789f8
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer(rootless)
+
 Package: com.dao.3dbadgeclear
 Version: 1.6.8.1
 Architecture: iphoneos-arm64
@@ -17687,6 +17721,23 @@ Section: 嗨-工具
 Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(RootHide)
+
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj & daodao
+Installed-Size: 460
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: roothide/DAppVersionSpoofer(RootHide).deb
+Size: 57806
+MD5sum: d7dbb62b93daed4086c2cc533e1213bd
+SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
+SHA256: 745364d846898492f1b685d8d1e5b1434e077b9c3cd996eb0f8c0d2eca5c04c9
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer(RootHide)
 
 Package: com.dao.actk.cn
 Version: 1.1
