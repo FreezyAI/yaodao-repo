@@ -3129,22 +3129,6 @@ Author: sergy
 Name: Immortalizer
 
 Package: com.dao.infuseplus
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: rootful/InfusePlus_2.0.deb
-Size: 280096
-MD5sum: 5f79d44f84f2c02b1590541e4be0e505
-SHA1: 2c0bfb66ac4613d23e999766059fdd5eb42b9eb3
-SHA256: e6b9e24bd117d53e06163c7ad9b8acdcb1f50e30cc063a0843d9b1424c33448d
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus
-
-Package: com.dao.infuseplus
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
@@ -12962,21 +12946,6 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: com.0xkuj.safarix
-Version: 1.9.2
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: rootless/SafariX-New(rootless)_1.9.2.deb
-Size: 287248
-MD5sum: e2de44eaa73bbabd48e63fa53852e583
-SHA1: 370f353affca373d948e35e57ec1bb7e0c64387d
-SHA256: eab727d5676115c8680d72390eeb2d07ba2b76d2c5ce45cef4fa8fb841fb03e8
-Section: 嗨-工具
-Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
-Author: 0xkuj
-Name: SafariX-New(rootless)
-
-Package: com.0xkuj.safarix
 Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
@@ -13001,6 +12970,21 @@ Size: 298076
 MD5sum: 764dcb3aed04c0687e924d6eb8279364
 SHA1: 99df55ae4c87e50f43653797783796190fd801e7
 SHA256: 066469fa51fbcda0fe9de666f73815e63cffc70d72e79dfe2963f31b5a4519c3
+Section: 嗨-工具
+Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
+Author: 0xkuj
+Name: SafariX-New(rootless)
+
+Package: com.0xkuj.safarix
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: rootless/SafariX-New(rootless)_1.9.7.deb
+Size: 300320
+MD5sum: 4ef060a112226b4c27831aa34fbf63e4
+SHA1: e41e90cb3825afc57c47ea3f0cefdc0aae6bc45b
+SHA256: def4de19efe338d2c79ffdc4d18306b6657ff9c63ff30232eb1716e70022cdab
 Section: 嗨-工具
 Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
 Author: 0xkuj
@@ -14517,22 +14501,6 @@ Author: sergy
 Name: Immortalizer(rootless)
 
 Package: com.dao.infuseplus
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: rootless/Infuse Plus(rootless)_2.0.deb
-Size: 279928
-MD5sum: 79c73aa9159e1e07c882575d8691c7c7
-SHA1: 52b2365df7d562cfde096060e5a2e4a34b03e2bd
-SHA256: ab494c49fc9d8f6506adad401ea17f3d731e2bd81eacc7541d202a1032d87c6b
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus(rootless)
-
-Package: com.dao.infuseplus
 Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -15511,50 +15479,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 5.8.2
+Version: 5.8.7
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless)_5.8.2.deb
-Size: 394628
-MD5sum: 46bb06e49af47f606c1d205f5911257e
-SHA1: ec5e1956d08e9286fd314e484a1bf67e3b844967
-SHA256: a9adc44345254f2c9fd2f29dbdb97d3fb1f99992e995463faa868ed1fbe11d06
-Section: 嗨-工具
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Author: Eevee
-Name: EeveeSpotify(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
-
-Package: com.dao.spotify
-Version: 5.8.3
-Architecture: iphoneos-arm64
-Maintainer: Eevee & 妖刀
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless)_5.8.3.deb
-Size: 395812
-MD5sum: 46646232a4925b0469fc4f918a4d9b7e
-SHA1: 074b284872aef4ab5a8881dbe3100f20b18bfb20
-SHA256: f8c353c3aed32d962f0357a00fae5eeb4a96383b2457083769bcade9c48543f7
-Section: 嗨-工具
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Author: Eevee
-Name: EeveeSpotify(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
-
-Package: com.dao.spotify
-Version: 5.8.4
-Architecture: iphoneos-arm64
-Maintainer: Eevee & 妖刀
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless)_5.8.4.deb
-Size: 396196
-MD5sum: 340ba1e3f0705754c26d7ac0d76fe855
-SHA1: 9ae72ebc0de2b666a5cf630202c9f76ddd6c36e1
-SHA256: 5c149c8cbcfb51e494de9e5da315f1890c40a3e6d7d0777dd1cc25963d32a86d
+Filename: rootless/EeveeSpotify(rootless).deb
+Size: 397520
+MD5sum: 3ae1b4526a1076c64ebed364772ca5a6
+SHA1: 70cfc8cf27d8057409317880403b2f78cf08d6bb
+SHA256: 461ef53256d64f3922d5bcd4b90eae6e17986b0bd616875a02ea3fe2ebff56e9
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -18255,22 +18189,6 @@ Section: 嗨-工具
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
 Author: sergy
 Name: Immortalizer(RootHide)
-
-Package: com.dao.infuseplus
-Version: 2.0
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: roothide/Infuse Plus(RootHide)_2.0.deb
-Size: 279188
-MD5sum: 0f6ba8ea90c9ea7ed517d21231fd1a02
-SHA1: 1beae712058466c1500b117d7a6b835f02457789
-SHA256: beb33af2ea9916631a19eeb0e96afcd0fedd2467dd86bad2df5ab46b54b753b8
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus(RootHide)
 
 Package: com.dao.infuseplus
 Version: 2.0.1
