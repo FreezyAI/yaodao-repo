@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-5",
+                    "text": "4.3-6",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 15 日",
+                    "text": "2025 年 02 月 09 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.3-6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "布局调整可隐藏“视频”</br> 如果布局调整里看不见“视频”，点击右上角恢复按钮。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.3-5",
