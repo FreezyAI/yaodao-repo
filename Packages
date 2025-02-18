@@ -3799,11 +3799,29 @@ Maintainer: 妖刀
 Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
-Filename: rootful/GoodWiFi_ZH.deb
+Filename: rootful/GoodWiFi_ZH_1.1.deb
 Size: 32946
 MD5sum: 30cb347184e1f5d691f14586152a7a7f
 SHA1: 5bcf2de1503175a9610d0d2d89f3a47bc80a9278
 SHA256: 46ee0b6fa649ef62d86212be16965a8c6f3fc6ba56e97867b7ca7ae4adf4a99e
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: rootful/GoodWiFi_ZH_1.1.1.deb
+Size: 35478
+MD5sum: 4154391f7ee417b97547dbcf8bd500f7
+SHA1: a80573afe790515d5e66a6898afd2ad4c5dd8625
+SHA256: e631162faeeeeada78d5dcb29e59f51a984cfce336ebf0c1d8aeeda3a540e38a
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
@@ -15981,6 +15999,24 @@ Author: julioverne & 妖刀
 Name: GoodWiFi 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: rootless/GoodWiFi 中文版(rootless)_1.1.1.deb
+Size: 35292
+MD5sum: b93974b84ff102e11ef9bd4424865ebc
+SHA1: 71f4f973076060b64483c5305fdb1c7f2b25f2d9
+SHA256: 3f6127daa3d2f24a6c34deec1c7be04ce0e4b7a146716e8db4b7e6e59d52efb6
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.daodao.goodwifi16
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -15988,11 +16024,29 @@ Maintainer: 妖刀
 Installed-Size: 372
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
 Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
-Filename: rootless/GoodWiFi16 中文版(rootless).deb
+Filename: rootless/GoodWiFi16 中文版(rootless)_1.0.1.deb
 Size: 41340
 MD5sum: f5730a0f103ee196a268c190c8cd0d98
 SHA1: fa7e8aae41fad39bc77734a8a6beb80018e2307f
 SHA256: 4114211ba9a9045b7f7beb3a6c21530b9c09c0039dfe583778820726a92dbe03
+Section: 嗨-工具
+Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi16 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
+
+Package: com.daodao.goodwifi16
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
+Filename: rootless/GoodWiFi16 中文版(rootless)_1.0.2.deb
+Size: 43952
+MD5sum: 3fb7c1e02854b12e66a85bfebc2e0c08
+SHA1: dd34e6b9b1ce84bf5b4b3050f44b558edef83080
+SHA256: bccca4314c5f598a5efe2fcf6cc18576ca9500c3aebc153aa0ddfa785a5d6fb0
 Section: 嗨-工具
 Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
@@ -17718,6 +17772,23 @@ Maintainer: 0xkuj & daodao
 Installed-Size: 460
 Depends: com.opa334.altlist
 Conflicts: com.0xkuj.3dappversionspoofer
+Filename: roothide/3DAppVersionSpoofer(RootHide).deb
+Size: 57806
+MD5sum: d7dbb62b93daed4086c2cc533e1213bd
+SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
+SHA256: 745364d846898492f1b685d8d1e5b1434e077b9c3cd996eb0f8c0d2eca5c04c9
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer(RootHide)
+
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj & daodao
+Installed-Size: 460
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
 Filename: roothide/DAppVersionSpoofer(RootHide).deb
 Size: 57806
 MD5sum: d7dbb62b93daed4086c2cc533e1213bd
@@ -18826,6 +18897,24 @@ Author: julioverne & 妖刀
 Name: GoodWiFi 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: roothide/GoodWiFi 中文版(RootHide)_1.1.1.deb
+Size: 33262
+MD5sum: 1f17642a9c0f89f7b9b7408aac113b1c
+SHA1: 756c729d377430f87ff21d2b438b24975218b1c9
+SHA256: 67e6fa2290915be23d1e829544ee1bc288eb89244658f0f3895095c162a037f7
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.daodao.goodwifi16
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -18833,11 +18922,29 @@ Maintainer: 妖刀
 Installed-Size: 372
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
 Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
-Filename: roothide/GoodWiFi16 中文版(RootHide).deb
+Filename: roothide/GoodWiFi16 中文版(RootHide)_1.0.1.deb
 Size: 41340
 MD5sum: 09efc04b1d10276dafebbf02064c669f
 SHA1: cbd69c1d4a554a34203c1cf572716d84b63fd0f0
 SHA256: 7670fcede9cc9887c97689ef6175eb4da4fbe50240d87951ebd2c2ec1a2c4c68
+Section: 嗨-工具
+Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi16 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
+
+Package: com.daodao.goodwifi16
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
+Filename: roothide/GoodWiFi16 中文版(RootHide)_1.0.2.deb
+Size: 41630
+MD5sum: 6f7acd1ea5fbed4977c5db6171546b04
+SHA1: 460b80e68d2868a43da2376490a14175bb2ba8c9
+SHA256: de9552b249c78821fd522dea353be90739921659b60974a8d7225ba4186ac029
 Section: 嗨-工具
 Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
