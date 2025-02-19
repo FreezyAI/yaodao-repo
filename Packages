@@ -3095,6 +3095,24 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.classicfolders3
+Version: 3.0.6.1
+Architecture: iphoneos-arm
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: rootful/ClassicFolders3_3.0.6.1.deb
+Size: 3279526
+MD5sum: 5a663818c056fe7dfc23b3d7f5abc481
+SHA1: 9f0b343911061bfcade0b8877b041a376b19eae2
+SHA256: d183191e7b97e911d9e71a9a975c993010bedec35a9a82e43900a4be7f19db6a
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -3158,6 +3176,23 @@ Size: 49234
 MD5sum: a85339372ce58288e408805495a1cca2
 SHA1: a4bd530fdff8ab97cf10d044591e5817d945a1d8
 SHA256: f3b265fbd4190583af267e4dc0436fc1e0defaf80b41a0ec98aab499abc8ce65
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Name: Immortalizer
+
+Package: com.dao.immortalizer
+Version: 2.0.1.1
+Architecture: iphoneos-arm
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: rootful/Immortalizer_2.0.1.1.deb
+Size: 49628
+MD5sum: 1c2cd76b1d4a783ee4e6308a3cf6dbb9
+SHA1: bf809f8096bbc12ee940f1b1f60c52d8154f9e93
+SHA256: 110bfff8379d194c2713eaf84ca42827a3782dd67c79a472ee26adadf0cca370
 Section: 嗨-工具
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
 Author: sergy
@@ -14178,6 +14213,24 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.classicfolders3
+Version: 3.0.6.1
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: rootless/ClassicFolders 3(rootless)_3.0.6.1.deb
+Size: 3279198
+MD5sum: 9d6be1ccb683ef64e9fc56180d3c40d5
+SHA1: 8587e2afb7562cf6d708b963390557e8e9250203
+SHA256: c4e33fa4d23b22a80cbaf51f191773caa38509ae5304c155c9f9ca1abf7f2006
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
 Package: com.dao.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -14573,6 +14626,23 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer(rootless)
 
+Package: com.dao.immortalizer
+Version: 2.0.1.1
+Architecture: iphoneos-arm64
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: rootless/Immortalizer(rootless)_2.0.1.1.deb
+Size: 49494
+MD5sum: 7d0f905604a9e46b946d05c6ade6b546
+SHA1: c04cd798c70bbb09a4947ae37c78a69308a181cb
+SHA256: 8b204a6184fbc2003efb30713e97d1b02f25bf42c1cae621ade3238d3889efcf
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Name: Immortalizer(rootless)
+
 Package: com.dao.infuseplus
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -14863,10 +14933,10 @@ Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.0xkuj.notificationsgroupcount
 Filename: rootless/通知组计数(rootless)_1.0.6.deb
-Size: 34402
-MD5sum: 93150267890c41969c4ec0780d474c23
-SHA1: a8600c86fbb829cb410b32a0a460a6f406d538c1
-SHA256: 6dd9337dad5745366ecd4e4ec0168168d0ae68f44700c9717e067ff0dc2532df
+Size: 34394
+MD5sum: 452c8a06e27e6564f13a33c22509ea1d
+SHA1: a3e4e12f7d88c2489d9182a1d35a5d567228e407
+SHA256: f08de865603ae1c0e3765e23b546b5797d4c18d0791905ce24dc35109fc9aff8
 Section: 嗨-工具
 Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；根据开源编译并汉化。
 Author: 0xkuj
@@ -18214,6 +18284,24 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.classicfolders3
+Version: 3.0.6.1
+Architecture: iphoneos-arm64e
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4312
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: roothide/ClassicFolders 3(RootHide)_3.0.6.1.deb
+Size: 3277198
+MD5sum: e19d11d51eac972145782f7d816b159f
+SHA1: db1b56e5981ff27f0bb35201c57d7cecbf3937f1
+SHA256: dabc0cd88ac82b7f87e01356763ed5d3403d09571bd759cc0f08f59f6227d76f
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
 Package: com.dao.coolcc
 Version: 2.0.2
 Architecture: iphoneos-arm64e
@@ -18351,6 +18439,23 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer(RootHide)
 
+Package: com.dao.immortalizer
+Version: 2.0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: roothide/Immortalizer(RootHide)_2.0.1.1.deb
+Size: 46696
+MD5sum: 1a80ff0f3df38c05592c081f2431d2fa
+SHA1: 35ccdc79d724c2a12facdcabef048d48724bd47e
+SHA256: c475ea2b79bf26ab2aa7bbbeb9c71e1512fdc554a83ff5d65e5715d3bb7e2a6d
+Section: 嗨-工具
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Name: Immortalizer(RootHide)
+
 Package: com.dao.infuseplus
 Version: 2.0.1
 Architecture: iphoneos-arm64e
@@ -18417,6 +18522,23 @@ Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16�
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.ngc
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: roothide/通知组计数(RootHide)_1.0.6.deb
+Size: 32744
+MD5sum: 90ae4efd7c01dadb935590ac866bb471
+SHA1: 7dc4c0425b7dbf86b772615250ab21b46fdcb521
+SHA256: 02d6f1bbc006dd00d0da0d427784a9a06f2b5757dfdbe4ea204622c444975dbf
+Section: 嗨-工具
+Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；根据开源编译并汉化。
+Author: 0xkuj
+Name: 通知组计数(RootHide)
 
 Package: com.dao.noline
 Version: 1.0.1
