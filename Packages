@@ -2697,11 +2697,28 @@ Maintainer: 0xkuj & daodao
 Installed-Size: 492
 Depends: com.opa334.altlist
 Conflicts: com.0xkuj.3dappversionspoofer
-Filename: rootful/3DAppVersionSpoofer.deb
+Filename: rootful/3DAppVersionSpoofer_2.0.3.deb
 Size: 61402
 MD5sum: b29188b86dae697dddbdbbb8ca524fac
 SHA1: e4a993c0e14a451daab347be290f45290f3a393c
 SHA256: eb66ee52f11d50d12689b95a1a0c8a3c35fed583cc487910adc698a0c8387597
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3.1
+Architecture: iphoneos-arm
+Maintainer: 0xkuj & daodao
+Installed-Size: 492
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: rootful/3DAppVersionSpoofer_2.0.3.1.deb
+Size: 61532
+MD5sum: 68dcd9c1a92fec301d539228e2c2a00c
+SHA1: 179afb7d85345a256f411aa80320b8342ee40f87
+SHA256: ac59e6dde1be7f7cd1c9ebf2794c246134dca23cebace1d35ef9f0105a5de977
 Section: 嗨-工具
 Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
 Author: 0xkuj
@@ -13280,11 +13297,28 @@ Maintainer: 0xkuj & daodao
 Installed-Size: 492
 Depends: com.opa334.altlist
 Conflicts: com.0xkuj.3dappversionspoofer
-Filename: rootless/3DAppVersionSpoofer(rootless).deb
+Filename: rootless/3DAppVersionSpoofer(rootless)_2.0.3.deb
 Size: 59350
 MD5sum: 45b9c12c49c985df2174a0343c928294
 SHA1: 5f4a6c4b4f7cd1b04df070f94f8a195fd3a32204
 SHA256: 8eb4fd7937919390e45ead17287e466d7258c5d04283b554cc463adffdf789f8
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer(rootless)
+
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj & daodao
+Installed-Size: 492
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: rootless/3DAppVersionSpoofer(rootless)_2.0.3.1.deb
+Size: 61318
+MD5sum: 858d406c0bc03fe5d5d58c4fe7f00ae0
+SHA1: 39aacefda9cd4ff31ca463e42d61c0059e48ebbc
+SHA256: 446d703315ae58a6158d1dc83519f8d567ee175b8576e0019284155b81b0a1a2
 Section: 嗨-工具
 Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
 Author: 0xkuj
@@ -13421,6 +13455,24 @@ Section: 嗨-工具
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
 Author: Fouad Raheb
 Name: AppData(rootless)
+
+Package: com.dao.appinst
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Karen, Linus Yang
+Depends: firmware (>= 5.0), com.dao.appsyncunified (>= 112.0)
+Conflicts: ai.akemi.appinst, xyz.cypwn.appinst
+Replaces: ai.akemi.appinst
+Provides: ai.akemi.appinst (= 2.1)
+Filename: rootless/appinst(rootless).deb
+Size: 56336
+MD5sum: 2603694a131e831daea1e23768fa5b02
+SHA1: 298fe6b7e225703c8d5b7fb80d94296449093f27
+SHA256: 9818c0222142b32d60c6b1fe2c0fc5638a4648ffb3c3d0b1019e351173ddd932
+Section: 嗨-系统
+Description: 命令行IPA应用程序安装器；目前明美源gg中，上架备份。
+Author: Karen, Linus Yang
+Name: appinst(rootless)
 
 Package: com.dao.appprotect
 Version: 1.9.3
@@ -13718,13 +13770,29 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.linusyang.appinst
 Conflicts: xyz.cypwn.azule
-Filename: rootless/Azule(rootless).deb
+Filename: rootless/Azule(rootless)_0.8.2.deb
 Size: 2241412
 MD5sum: 8ad9cce216082e7e73a1171304601caf
 SHA1: c2633bafcbe4ce30b0cd1435e27bbeb566a64a5c
 SHA256: 8e0d02fc1fa0c4691d60e21932debac2c5cd64dc28399072ac38a172428532a0
 Section: 嗨-工具
 Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。
+Author: Alaise, Sudo
+Name: Azule(rootless)
+
+Package: com.dao.azule
+Version: 0.8.2.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.dao.appinst
+Conflicts: xyz.cypwn.azule
+Filename: rootless/Azule(rootless)_0.8.2.1.deb
+Size: 2244136
+MD5sum: b05e21f771bb8dbe93fecb4640365ca4
+SHA1: cd31249345c816234990fa7fd8114046d5e6de10
+SHA256: 95d3b175144f557bb9797a6eb3a5156cf86a59e51cb3eba7a052facb0547159f
+Section: 嗨-工具
+Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。v0.8.2.1：因为明美源目前gg中，把必要依赖上架刀刀源了，方便安装！
 Author: Alaise, Sudo
 Name: Azule(rootless)
 
@@ -17842,7 +17910,7 @@ Maintainer: 0xkuj & daodao
 Installed-Size: 460
 Depends: com.opa334.altlist
 Conflicts: com.0xkuj.3dappversionspoofer
-Filename: roothide/3DAppVersionSpoofer(RootHide).deb
+Filename: roothide/3DAppVersionSpoofer(RootHide)_2.0.3.deb
 Size: 57806
 MD5sum: d7dbb62b93daed4086c2cc533e1213bd
 SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
@@ -17864,6 +17932,23 @@ Size: 57806
 MD5sum: d7dbb62b93daed4086c2cc533e1213bd
 SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
 SHA256: 745364d846898492f1b685d8d1e5b1434e077b9c3cd996eb0f8c0d2eca5c04c9
+Section: 嗨-工具
+Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Name: 3DAppVersionSpoofer(RootHide)
+
+Package: com.dao.3dappversionspoofer
+Version: 2.0.3.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj & daodao
+Installed-Size: 460
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: roothide/3DAppVersionSpoofer(RootHide)_2.0.3.1.deb
+Size: 59496
+MD5sum: e6593d3f5ba3d45f0f4c0c4e0c06b4e0
+SHA1: ff3f911dc3ebeb73194eea62d53aebb4db0ba75c
+SHA256: 68a1c308dff00ebeb3ce3b200cfac767c251adb99812c374cbbb54d15dd25871
 Section: 嗨-工具
 Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
 Author: 0xkuj
