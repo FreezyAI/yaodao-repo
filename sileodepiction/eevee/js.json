@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.7",
+                    "text": "5.8.7.5",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 06 日",
+                    "text": "2025 年 02 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,7 +86,18 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.8.x",
+                    "title": "5.8.7.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "去除“更新”检测、按钮等",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.8.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -104,17 +115,6 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步更新，参与者内容也汉化了！",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.8.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步更新",
                     "useRawFormat": true
                 }
             ]

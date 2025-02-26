@@ -2825,57 +2825,6 @@ Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版
 
-Package: com.dao.bhtiktok++
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.7.1.deb
-Size: 103310
-MD5sum: d18889ce564fb62d64505057fd3120ab
-SHA1: bc57df5426ba5bd8a8a82e72e7acf0bdb450db06
-SHA256: ffda82c83c53fcf005501c0a73c415a210cfec5ced3b8156ae2b4f3513950cb3
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok.cn
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.hk.bhtiktok.cn.rl
-Filename: rootful/BHTikTok_CN.deb
-Size: 8730
-MD5sum: fee435e082771958e482f072f6863047
-SHA1: 72da01ef1221f947a12cf9bcb8c7227f7a0f7a90
-SHA256: 3540a0cac5b9fed1c0f75becaeae35e9f9f70306b2a551d24bfc7d367defd6a5
-Section: 嗨-汉化
-Description: BHTikTok 简体中文包。
-Author: 妖刀
-Name: BHTikTok 简体中文包
-
-Package: com.dao.bhtkplus
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: raul saeed & 刀刀
-Depends: mobilesubstrate, com.dao.bhtkplus.cn
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootful/BHTikTok++_1.8.deb
-Size: 136964
-MD5sum: b15f380948ee61f937465e8297149af2
-SHA1: 986f68fb57c0ff992d1696813a722e022dd58bb6
-SHA256: a117d6569e0334252b403bc600ffab769caf55233cdac4f909552dbbe20e6cb8
-Section: 嗨-工具
-Description: raulsaeed制作的全新的TikTok多功能插件，新版没开源，无法制作中文版，需要安装中文包插件。
-Author: raul saeed & 刀刀
-Name: BHTikTok++ 原版
-
 Package: com.dao.bhtkplus
 Version: 1.9.3
 Architecture: iphoneos-arm
@@ -2891,22 +2840,6 @@ Section: 嗨-工具
 Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
 Author: raul saeed & 刀刀
 Name: BHTikTok++ 原版
-
-Package: com.dao.bhtkplus.cn
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: rootful/BHTikTok++_CN.deb
-Size: 8608
-MD5sum: c2f8d919fd898aa4c4efcbcd1717e073
-SHA1: 020fd5fb8cd4ce4541e0caad7cce39d6fa0a2eff
-SHA256: 18b5254b8d2d81e8905608c58f57a1c159e23ea5d21e3bbc5cae21affc9fdb82
-Section: 嗨-工具
-Description: BHTikTok++ 简体中文包。
-Author: 妖刀
-Name: BHTikTok++ 简体中文包
 
 Package: com.dao.bhtwitter
 Version: 4.3-1
@@ -13846,41 +13779,6 @@ Description: Instagram多功能插件，可去广告、下载等，源内有汉�
 Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
-Package: com.dao.bhtiktok++
-Version: 1.7.1
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.7.1.deb
-Size: 103322
-MD5sum: 56c786c8dcafbdc2caf95c89cf5f7205
-SHA1: caf32798a617175f0c106bf0b16207a5921dd16a
-SHA256: 05179f55a46c2a13cc941fb2e17f3177175e97380b507fcf8fa21a2751e39ae2
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Name: BHTikTok++中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok.cn
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.hk.bhtiktok.cn.rl
-Filename: rootless/BHTikTok 简体中文包(rootless).deb
-Size: 8782
-MD5sum: 1dc542a531f98729afd7a3f08f521841
-SHA1: 17d42ae566c7d5f2c2a0581d2b93696b34d5b952
-SHA256: 68ee2951e7ebd9e88ff31208b268f45be948251b53049bc77b957b300a6e94b6
-Section: 嗨-汉化
-Description: BHTikTok 简体中文包(rootless)。
-Author: 妖刀
-Name: BHTikTok 简体中文包(rootless)
-
 Package: com.dao.bhtiktokmod
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -13898,22 +13796,6 @@ Author: Bandar Alruwaili
 Name: BHTikTok Plus(rootless)
 
 Package: com.dao.bhtkplus
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Depends: mobilesubstrate, com.dao.bhtkplus.cn
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++ 原版(rootless)_1.8.deb
-Size: 137420
-MD5sum: bebe89db508d814e778bfde129e4798a
-SHA1: 8e73c69401cb912a9fbf1ce41935f04caa06f33f
-SHA256: f925fd33426ee357ee6ca52285427fa1bae3dbaf4df130d749314c4c3f36ad4a
-Section: 嗨-工具
-Description: raulsaeed制作的全新的TikTok多功能插件，新版没开源，无法制作中文版，需要安装中文包插件。
-Author: raul saeed & 刀刀
-Name: BHTikTok++ 原版(rootless)
-
-Package: com.dao.bhtkplus
 Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: raul saeed & 刀刀
@@ -13928,22 +13810,6 @@ Section: 嗨-工具
 Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
 Author: raul saeed & 刀刀
 Name: BHTikTok++ 原版(rootless)
-
-Package: com.dao.bhtkplus.cn
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: rootless/BHTikTok++ 简体中文包(rootless).deb
-Size: 8588
-MD5sum: e598728876ebcc16aabb70cbaa22da32
-SHA1: e9f4425e409a69976ef6140c028ca7bb3a5c6cfe
-SHA256: 93dcf2b4e7874027b49d4b1d6299bc61c7d36b6823b3f0333c19f0f56369af2f
-Section: 嗨-工具
-Description: BHTikTok++ 简体中文包(rootless)。
-Author: 妖刀
-Name: BHTikTok++ 简体中文包(rootless)
 
 Package: com.dao.bhtwitter
 Version: 4.3-1
@@ -15290,6 +15156,21 @@ Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好�
 Author: Ruphane
 Name: PodsGrant(rootless)
 
+Package: com.dao.pokeboxreborn.cn
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Pokébox Reborn 简体中文包(rootless).deb
+Size: 1392
+MD5sum: e0a3c723f7667722db1743cfe2ae5f30
+SHA1: f1999000155d8d259d68472c6d46053a20ef0539
+SHA256: c193f8c0bf56f8fe1a795c7039ca6fa268fc014374cda1efce914941d33481ce
+Section: 嗨-汉化
+Description: Pokébox Reborn 简体中文包(rootless)。
+Author: 妖刀
+Name: Pokébox Reborn 简体中文包(rootless)
+
 Package: com.dao.popbuttons.cn
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -15695,11 +15576,28 @@ Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless).deb
+Filename: rootless/EeveeSpotify(rootless)_5.8.7.deb
 Size: 397520
 MD5sum: 3ae1b4526a1076c64ebed364772ca5a6
 SHA1: 70cfc8cf27d8057409317880403b2f78cf08d6bb
 SHA256: 461ef53256d64f3922d5bcd4b90eae6e17986b0bd616875a02ea3fe2ebff56e9
+Section: 嗨-工具
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
+Author: Eevee
+Name: EeveeSpotify(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
+Package: com.dao.spotify
+Version: 5.8.7.5
+Architecture: iphoneos-arm64
+Maintainer: Eevee & 妖刀
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Conflicts: com.eevee.spotify
+Filename: rootless/EeveeSpotify(rootless)_5.8.7.5.deb
+Size: 395520
+MD5sum: fe247149064b9b249cab9b372bd85faa
+SHA1: c82f336be78c0b42b23e6237369ae91c1218ee4f
+SHA256: 51f8ed76820edd43842af6bc5cccfdfd1a44541233e89b919d76ecc0f922e518
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -18175,23 +18073,6 @@ Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化�
 Author: raul saeed & 刀刀
 Name: BHTikTok++中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtiktok.cn
-Version: 0.2
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.hk.bhtiktok.cn.rl
-Filename: roothide/BHTikTok 简体中文包(RootHide).deb
-Size: 8740
-MD5sum: 987850d12c736202c2cd8f4784a36dac
-SHA1: dc9e95f15223ddd617b2b25cfdef046d0cb49f47
-SHA256: a7f117a99cd7686b0cad9514ff7da72f8ce523a91248eed927146093b2c3bc9e
-Section: 嗨-汉化
-Description: BHTikTok 简体中文包(RootHide)。
-Author: 妖刀
-Name: BHTikTok 简体中文包(RootHide)
 
 Package: com.dao.bhtwitter
 Version: 4.3-4
