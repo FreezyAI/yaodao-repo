@@ -15161,7 +15161,7 @@ Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Pokébox Reborn 简体中文包(rootless).deb
+Filename: rootless/Pokébox Reborn 简体中文包(rootless).deb
 Size: 1392
 MD5sum: e0a3c723f7667722db1743cfe2ae5f30
 SHA1: f1999000155d8d259d68472c6d46053a20ef0539
@@ -17800,23 +17800,6 @@ Section: 嗨-工具
 Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(RootHide)
-
-Package: com.dao.3dappversionspoofer
-Version: 2.0.3
-Architecture: iphoneos-arm64e
-Maintainer: 0xkuj & daodao
-Installed-Size: 460
-Depends: com.opa334.altlist
-Conflicts: com.0xkuj.3dappversionspoofer
-Filename: roothide/DAppVersionSpoofer(RootHide).deb
-Size: 57806
-MD5sum: d7dbb62b93daed4086c2cc533e1213bd
-SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
-SHA256: 745364d846898492f1b685d8d1e5b1434e077b9c3cd996eb0f8c0d2eca5c04c9
-Section: 嗨-工具
-Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
-Author: 0xkuj
-Name: 3DAppVersionSpoofer(RootHide)
 
 Package: com.dao.3dappversionspoofer
 Version: 2.0.3
