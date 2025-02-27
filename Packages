@@ -15161,7 +15161,7 @@ Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Pokébox Reborn 简体中文包(rootless).deb
+Filename: rootless/Pokébox Reborn 简体中文包(rootless).deb
 Size: 1392
 MD5sum: e0a3c723f7667722db1743cfe2ae5f30
 SHA1: f1999000155d8d259d68472c6d46053a20ef0539
@@ -17808,7 +17808,7 @@ Maintainer: 0xkuj & daodao
 Installed-Size: 460
 Depends: com.opa334.altlist
 Conflicts: com.0xkuj.3dappversionspoofer
-Filename: roothide/3DAppVersionSpoofer(RootHide)_2.0.3.deb
+Filename: roothide/DAppVersionSpoofer(RootHide).deb
 Size: 57806
 MD5sum: d7dbb62b93daed4086c2cc533e1213bd
 SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
@@ -17825,7 +17825,7 @@ Maintainer: 0xkuj & daodao
 Installed-Size: 460
 Depends: com.opa334.altlist
 Conflicts: com.0xkuj.3dappversionspoofer
-Filename: roothide/DAppVersionSpoofer(RootHide).deb
+Filename: roothide/3DAppVersionSpoofer(RootHide)_2.0.3.deb
 Size: 57806
 MD5sum: d7dbb62b93daed4086c2cc533e1213bd
 SHA1: 07b18a172df36657d5fe9a4c2f3553215b881439
