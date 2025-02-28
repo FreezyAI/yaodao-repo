@@ -19409,10 +19409,10 @@ Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring,  com.skypain.ccvpn, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, com.ichitaso.ringertoggle, com.mtac.uptime
 Filename: roothide/CCHide++(RootHide)_1.0.2.deb
-Size: 167420
-MD5sum: 618d18462b7c6fd8a3cef1b7ff3b4f47
-SHA1: 49ed5a9dcdfbfdcc97d672f7029e984b85a20bfe
-SHA256: 826c40a9a41a20e74fae90ee82b89721f6f0bed2666b4438f6b8906937b71813
+Size: 167472
+MD5sum: b942fe9fa057e5abf5349e4c087ab2b7
+SHA1: ef47412a047c27710f4c60922df0f0f9a1cf8bca
+SHA256: 342a9b07122c3b3def7806cf4e100ee47fed540321b78dd1182abba8329477de
 Section: 嗨-工具
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！
 Author: 妖刀
