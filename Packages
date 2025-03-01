@@ -3248,6 +3248,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Conflicts: com.nightwind.lockbuttonx
+Filename: rootful/LockButtonX.deb
+Size: 22628
+MD5sum: 21befbabde17632f4672ff0a4083b1b5
+SHA1: 711ad6367375ab5ca7c12dbf24ca9b337d155203
+SHA256: 0943fcbb58c7738ba26ed9834b31324f8167cc52b9d32fd25a2c2d7b327c47de
+Section: 嗨-工具
+Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
+Author: Nightwind
+Name: LockButtonX
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -3377,6 +3394,23 @@ Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
+
+Package: com.dao.powersettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind& 刀刀
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.nightwind.powersettings
+Filename: rootful/PowerSettings.deb
+Size: 31806
+MD5sum: ff52ef18b8f3c07aa0b15924afa94457
+SHA1: 733b89f6b8c88c2e218dd860c5c75a0f6fcf23eb
+SHA256: 47965d08f61a5fa8d0b812e6583351686a3568382b0f9b89b3c9e689dd89a08e
+Section: 嗨-工具
+Description: 将电源菜单(注销、重启等)添加到“设置”右上角！
+Author: Nightwind
+Name: PowerSettings 简体中文版
 
 Package: com.dao.replaced
 Version: 1.0
@@ -14742,6 +14776,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Conflicts: com.nightwind.lockbuttonx
+Filename: rootless/LockButtonX(rootless).deb
+Size: 22722
+MD5sum: 66f59c263912e7c465c58907d6d7dec9
+SHA1: f02b0e080acb0f874ed3fb80f9a5b74ce49367bb
+SHA256: 1d83842c000e5e5e4a59f81c0e06e02828691e28099b62f1d024d720f0fd12c0
+Section: 嗨-工具
+Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
+Author: Nightwind
+Name: LockButtonX(rootless)
+
 Package: com.dao.lpmnotification
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -15202,6 +15253,23 @@ Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(rootless)
+
+Package: com.dao.powersettings
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind& 刀刀
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.nightwind.powersettings
+Filename: rootless/PowerSettings 简体中文版(rootless).deb
+Size: 31822
+MD5sum: d35509c6fa2aba0d5f28dbc40969bd0a
+SHA1: 4039a7a178b97a3492500e7b5e0bcbf00928024d
+SHA256: 4ae2115c45f283664dbe35ee598c3063f7eb38cc01e6e879b0adc23a5a057804
+Section: 嗨-工具
+Description: 将电源菜单(注销、重启等)添加到“设置”右上角！
+Author: Nightwind
+Name: PowerSettings 简体中文版(rootless)
 
 Package: com.dao.primalfolder2
 Version: 0.1.1
@@ -18471,6 +18539,23 @@ Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16�
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Conflicts: com.nightwind.lockbuttonx
+Filename: roothide/LockButtonX(RootHide).deb
+Size: 22664
+MD5sum: 9b73d7c0c64c9c6520020fba4f375809
+SHA1: 9c5a62b3ee72ed6f4a57ffca4a3ed98e5d446319
+SHA256: 89b97350192bba854c2912649619273317c061c4ce7b96e2f155205f19b41773
+Section: 嗨-工具
+Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
+Author: Nightwind
+Name: LockButtonX(RootHide)
 
 Package: com.dao.ngc
 Version: 1.0.6
