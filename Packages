@@ -18355,6 +18355,23 @@ Author: alias20
 Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
+Package: com.dao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
+Filename: roothide/Filza Crack(RootHide).deb
+Size: 5160
+MD5sum: 1eb4882a1ff66793c4f322f2a4960fb8
+SHA1: 75dc1d80edcbf3e2e7106248a92608f79e0d2b8b
+SHA256: 5b41c5f41805be2851b7b5f737ff1a5476ccccf63aeae9a75c6c7df346d3b837
+Section: 嗨-工具
+Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份；转换支持 roothide。
+Author: Netskao
+Name: Filza Crack(RootHide)
+
 Package: com.dao.griddy
 Version: 1.0.4
 Architecture: iphoneos-arm64e
@@ -18768,6 +18785,21 @@ Section: 嗨-工具
 Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
 Author: SOPPPra
 Name: SettingsRevamp(RootHide)
+
+Package: com.dao.sileo.cn
+Version: 2.5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/Sileo 中文增补包(RootHide).deb
+Size: 8124
+MD5sum: 14a9ce26b9e8885a83b562f02e91cefb
+SHA1: 229bd7b4759248bef4d6784433ab0e5d44784192
+SHA256: e1924222c3db413fff881d5e26fa2b22b1a5ffd52cde1434c627d5120e8ff413
+Section: 嗨-汉化
+Description: Sileo和Sileo-Nightly 中文增补包(RootHide)。
+Author: 妖刀
+Name: Sileo 中文增补包(RootHide)
 
 Package: com.dao.storeswitcher2
 Version: 1.0.5
@@ -19700,6 +19732,24 @@ Section: 嗨-汉化
 Description: Zetsu 简体中文包(RootHide)。
 Author: 妖刀
 Name: Zetsu 简体中文包(RootHide)
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: roothide/LibGcUniversal(RootHide).deb
+Size: 53264
+MD5sum: 30838d97382d4b33c398d2cb50cf36ca
+SHA1: e80f5901448c4d00d5b3f021473e5147a5e0522c
+SHA256: d44a8e1b356125f570bc2a71d2c258b4998c38aa1e2f36d09eac60b33892d4e2
+Section: Development
+Description: 开发通用库，例如SettingsRevamp就需要依赖此；转换支持roothide。
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal(RootHide)
 
 Package: com.qms.cpudasher
 Version: 1.1
