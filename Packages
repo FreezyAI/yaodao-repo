@@ -3382,15 +3382,15 @@ Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.safarix.cn
-Version: 1.9.7
+Version: 1.9.8
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/SafariX_CN.deb
-Size: 9784
-MD5sum: 1685006c5c49d3800ecc60937180538f
-SHA1: 4482235baab62d71c3a5bf507f22206cbbe09dca
-SHA256: 9eadfbc92dccf348d3bfb8d4daa94c538903c76bcac9352d20486b6eccbb090f
+Size: 9804
+MD5sum: f561fa690d68a2eac2935c93c7da13c2
+SHA1: a6a7416fb7bbfaf543df81ceb60cf3abe47212d7
+SHA256: bc505d1f60cbe9cbcd4ad7089da3d8fb47471c84ca275ebdfbc920eaac3155d9
 Section: 嗨-汉化
 Description: SafariX 简体中文包。
 Author: 妖刀
@@ -12953,21 +12953,6 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: com.0xkuj.safarix
-Version: 1.9.5
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: rootless/SafariX-New(rootless)_1.9.5.deb
-Size: 298076
-MD5sum: 764dcb3aed04c0687e924d6eb8279364
-SHA1: 99df55ae4c87e50f43653797783796190fd801e7
-SHA256: 066469fa51fbcda0fe9de666f73815e63cffc70d72e79dfe2963f31b5a4519c3
-Section: 嗨-工具
-Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
-Author: 0xkuj
-Name: SafariX-New(rootless)
-
-Package: com.0xkuj.safarix
 Version: 1.9.7
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
@@ -12977,6 +12962,21 @@ Size: 300320
 MD5sum: 4ef060a112226b4c27831aa34fbf63e4
 SHA1: e41e90cb3825afc57c47ea3f0cefdc0aae6bc45b
 SHA256: def4de19efe338d2c79ffdc4d18306b6657ff9c63ff30232eb1716e70022cdab
+Section: 嗨-工具
+Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
+Author: 0xkuj
+Name: SafariX-New(rootless)
+
+Package: com.0xkuj.safarix
+Version: 1.9.8
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: rootless/SafariX-New(rootless)_1.9.8.deb
+Size: 311852
+MD5sum: ab51ff2b786eadc244960ad938914a2c
+SHA1: cc5406d466ffa214a866d7d1d8d259cba57a0c0f
+SHA256: b38fa708ef86d3ae43c0ebe9f50d94d1c650405b260f549be61acd953bd1168c
 Section: 嗨-工具
 Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
 Author: 0xkuj
@@ -15287,15 +15287,15 @@ Author: 0xkuj
 Name: SafariX(rootless)
 
 Package: com.dao.safarix.cn
-Version: 1.9.7
+Version: 1.9.8
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/SafariX 简体中文包(rootless).deb
-Size: 9936
-MD5sum: f085b6f6bca268b9f80c22a7af11b0cd
-SHA1: e7e16260db424f46daaafd627834ebefad0bdd20
-SHA256: c8f719f39ee382fd91af74899cb3f4f14e5f9325806decb44886985d5b467efa
+Size: 9952
+MD5sum: fbccdcf46eb889aa80c34337ed92ffc6
+SHA1: 6f6c6fbe2ab93572bfc4f5b281997a4035011048
+SHA256: 71589185f7a97887a5020ec0fbff5ab76e4501075e460ad0c0535dc7da521b41
 Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
@@ -18544,15 +18544,15 @@ Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.safarix.cn
-Version: 1.9.7
+Version: 1.9.8
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/SafariX 简体中文包(RootHide).deb
-Size: 9792
-MD5sum: 41017eab18980c16158848fcfce475d9
-SHA1: 0b210259b5fddb8a1a2b4c0d242a0e4c66fec9fb
-SHA256: 2d2b2b9fbb06c9d696d6ff4a854bf8b34f77bd5f2e68f98e53c3cdfe6672d47d
+Size: 9820
+MD5sum: 31800f2b9d680e032ab928ba52502370
+SHA1: bd8cbd60fc6fdefddee04fb0b7bfd4735b558044
+SHA256: 4d3a924b20746c2edd1c437c0f71538ac36d5ef22fa9639045c92c6a5f7296eb
 Section: 嗨-汉化
 Description: SafariX 简体中文包(RootHide)。
 Author: 妖刀
