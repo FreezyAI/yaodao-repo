@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-6",
+                    "text": "4.3-7",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 09 日",
+                    "text": "2025 年 03 月 03 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.3-7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复roothide版本的错误",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.3-6",
