@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.7.5",
+                    "text": "5.8.8",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 27 日",
+                    "text": "2025 年 03 月 06 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,13 +86,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.8.7.5",
+                    "title": "5.8.8",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "去除“更新”检测、按钮等",
+                    "markdown": "同步更新，修复支持9.0.22。",
                     "useRawFormat": true
                 },
                 {

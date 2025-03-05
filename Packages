@@ -256,6 +256,24 @@ Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 5400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootful/cn.octoforce.copyvault_1.8.2_iphoneos-arm.deb
+Size: 1695708
+MD5sum: b8dd99f5c7f78419e865ca3f27d3b61b
+SHA1: 2ce337cb2e8cb42e2d48617156b98755cf2ec00f
+SHA256: 724fd546908b3c94fc9a83477be8756ee999ec21146d3acc7b2f82f58514a7a1
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: com..hk.netskao.pulloverpro
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -12952,6 +12970,24 @@ Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 5508
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootless/cn.octoforce.copyvault_1.8.2_iphoneos-arm64.deb
+Size: 1725192
+MD5sum: 7616a24e81f8aec37114a606865f2f76
+SHA1: dbebff8a949e04c5bbb922e4b6c6e47d176e268b
+SHA256: 317c10fdbb2749be465a251f8c3f230b64e64274a16d070366260e5f01598f41
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: com.0xkuj.safarix
 Version: 1.9.7
 Architecture: iphoneos-arm64
@@ -15526,16 +15562,16 @@ Name: EeveeSpotify(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
 Package: com.dao.spotify
-Version: 5.8.7.5
+Version: 5.8.8
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless)_5.8.7.5.deb
-Size: 395520
-MD5sum: fe247149064b9b249cab9b372bd85faa
-SHA1: c82f336be78c0b42b23e6237369ae91c1218ee4f
-SHA256: 51f8ed76820edd43842af6bc5cccfdfd1a44541233e89b919d76ecc0f922e518
+Filename: rootless/EeveeSpotify(rootless)_5.8.8.deb
+Size: 397652
+MD5sum: 6ecfe631c5d522e89f8f45f3f2e1ce49
+SHA1: 89351e9abc1f39fbfdb099ef365dc336d87066ca
+SHA256: 68899b9249681467165b28de62f3edabbcfe2aacbb5544442a5892296348fa13
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -17495,6 +17531,20 @@ Description: EeveeSpotify的依赖。
 Author: eevee
 Name: SwiftProtobuf(rootless)
 
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.29.0
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Filename: rootless/SwiftProtobuf(rootless)_1.29.0.deb
+Size: 1445248
+MD5sum: 253722a464387da97b9bbf6184b78e98
+SHA1: fa3d46af1f89c542e97052269aa67dc6807a3972
+SHA256: 44df6d91a97af07cd50118ee13e6de518a0b97d213f3cad3696de2fd459f4d54
+Section: 嗨-工具
+Description: EeveeSpotify的依赖。
+Author: eevee
+Name: SwiftProtobuf(rootless)
+
 Package: cn.octoforce.copyvault
 Version: 1.3.0
 Architecture: iphoneos-arm64e
@@ -17718,6 +17768,24 @@ Size: 1672978
 MD5sum: 73fbbca90bdd68440b682f19305a353e
 SHA1: c5636e519381c2e5da591730ecda778ce48407b2
 SHA256: 5609bd7edd625ca11e2c023773b8fdc08f662119a2af8635c028a46b4360b7b1
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.8.2
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 5356
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: roothide/cn.octoforce.copyvault_1.8.2_iphoneos-arm64e.deb
+Size: 1690798
+MD5sum: d0bc8c1ed07a8f67fd67e4411603cd16
+SHA1: c201c944a6fe8f9145120f0ffcfb35f7f55dd5c6
+SHA256: 5a64af3776ebaba5ab50c122e75e3bb40f994958e6d32d6cc7b8ea73b4c6bbe3
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
