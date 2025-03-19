@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强和添加 iOS16 支持！",
+                    "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强，支持 iOS14~16！",
                     "useRawFormat": true,
                 },
                 {
@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.7",
+                    "text": "2.8",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 30 日",
+                    "text": "2025 年 03 月 15 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "激活方式添加“编辑菜单”",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.7",
