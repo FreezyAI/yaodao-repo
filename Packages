@@ -2927,42 +2927,6 @@ Author: 妖刀
 Name: Choicy 自用中文包
 
 Package: com.dao.classicfolders3
-Version: 3.0.5.5
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4360
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.5.5.deb
-Size: 3287402
-MD5sum: 0b5ce496654500334227cbdcb1706a33
-SHA1: c25b730eed4da8a86a47d508c9dff9726796a366
-SHA256: e30a6efea7089b4aa330714a5e2e52aa65affbad02bcdcb61cd26d38225768bc
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.5.7
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4360
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.5.7.deb
-Size: 3287448
-MD5sum: 485f8f7abbe95809b50789f6ec9fde39
-SHA1: 3384be59f52a34113fc78c96e7bcc405a0a7f89c
-SHA256: 29d8114c42af2621b59ba49fa4ac83f770c9c982e9ceeedb18e63748b60052f8
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
 Version: 3.0.5.8
 Architecture: iphoneos-arm
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -3134,57 +3098,6 @@ Author: Lakr Aream
 Name: Iridium 中文版
 
 Package: com.dao.kayoko
-Version: 2.3
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootful/Kayoko_2.3.deb
-Size: 119296
-MD5sum: 9cd715c3877ae7c917a42bebbb2d762a
-SHA1: 54bfc89a83eadf0dc7ec3e500a2d02e1d66f37de
-SHA256: c4dad594e766a03fb8e8c7abc8ec621211f0ad0e0fb1a955aacf3ddd5ba37eca
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.5
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootful/Kayoko_2.5.deb
-Size: 126056
-MD5sum: cc6fea35accd48fc651021c343b7e3c8
-SHA1: 55199ee9ed71a23cb378c6486c85a280162cc8a1
-SHA256: 3427a7178e15aff87fd03f7b156e1a90637d824987a7141f110df2662d8cc1cb
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.6
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootful/Kayoko_2.6.deb
-Size: 126752
-MD5sum: 143ee056b2788fa2a65e43960207198b
-SHA1: dddc0494cc826deec36191245b5e1b4b2b5f0bf6
-SHA256: c20f3b690ef8648cb1b242b03b9fde00c3899c84c03c51890e2e6d340d53d81b
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
 Version: 2.7
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
@@ -3195,6 +3108,23 @@ Size: 124004
 MD5sum: f4d4ad3175c86447a26ab30ff1aee2c3
 SHA1: 879b7c3209e76ca4c7a7f649d88dc89c78a77b79
 SHA256: 43a5a395b88c001d32989150415bdee5b232bf141e8595481266ae65d33bfcc7
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootful/Kayoko_2.8.deb
+Size: 126912
+MD5sum: 38b26f0ed88184f0472625e49e6b8804
+SHA1: aedc168e7d7b7437e46d672ad92156429ebb7c64
+SHA256: 47e23d5f0b629c7ddb63145c2850ca12bc553af1b16b18a1aa35cb04184f7119
 Section: 嗨-工具
 Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
 Author: Alexandra Aurora Göttlicher
@@ -3799,22 +3729,6 @@ Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方�
 Author: julioverne & 妖刀
 Name: GoodWiFi 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.kayoko
-Version: 1.2-3
-Architecture: iphoneos-arm
-Maintainer: Traurige <hello@traurige.dev>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.dao.kayoko, com.hk.kayoko
-Filename: rootful/Kayoko_Mod.deb
-Size: 121144
-MD5sum: c263eec0511304c102ab68d4f7050e7d
-SHA1: bf7ea1560454ac477c6a0bcd070d5486e24d06e2
-SHA256: 8df7cf5d2358fc7724e9706b6d7299c4783c2a4500e9761f5c310a9693f0ac82
-Section: 嗨-工具
-Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等，汉化包在源内。此版本为Lessica编译魔改版本，魔改日志：1、加了个高度、音效、振动反馈；2、听写图标改成了剪贴板图标；3、按钮配色换了；4、修了个收藏夹切回来，原本内容无法正常显示的Bug；5、优化了条目删除或者移动时候的动画效果；6、修复了其他bug；7、修复了偶发粘贴失败的情况；8、加了个禁用粘贴浮动提示的功能；9、iOS14及以下不修改听写图标(修改会有问题)。
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko魔改版
 
 Package: com.eclipsex.cn
 Version: 5.0.9-1
@@ -8369,21 +8283,6 @@ Section: 嗨-汉化
 Description: Kalm 简体中文包。Ball补全，完整中文了。
 Author: 妖刀
 Name: Kalm 简体中文包
-
-Package: com.hk.kayoko.cn
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootful/Kayoko_CN.deb
-Size: 5868
-MD5sum: 8c270d0d23cec9896854edc9dd73b53c
-SHA1: 52ff0584403aec14329126bf8e50b16a1d835602
-SHA256: 1e50e5467b8d9def54a788e636895e9cb2884e617ec8959968e88ed1343192c3
-Section: 嗨-汉化
-Description: Kayoko 简体中文包。
-Author: 妖刀
-Name: Kayoko 简体中文包
 
 Package: com.hk.keepitsimple.cn
 Version: 1.2.1
@@ -13413,57 +13312,6 @@ Author: Karen, Linus Yang
 Name: appinst(rootless)
 
 Package: com.dao.appprotect
-Version: 1.9.3
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: rootless/AppProtect 隐私保护(rootless)_1.9.3.deb
-Size: 158944
-MD5sum: 9ef817585aafcbd4a3201625db08c460
-SHA1: 8297553c9c3360794c51073767053a29e920c812
-SHA256: 55e9d0fa74e5c75786383c90e40f19570e89a55cb4b27d23faa9a019aa91f4c2
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 1.9.5
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: rootless/AppProtect 隐私保护(rootless)_1.9.5.deb
-Size: 510688
-MD5sum: 784329a56ab4951a03dcbb85feced5d8
-SHA1: 0b38c9873cb0fb062983ee9eba0c77bf3059256e
-SHA256: 342da6c90e3a863488f617df117e19ec1844b5dba10921055c36c7e611da3326
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 1.9.7
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: rootless/AppProtect 隐私保护(rootless)_1.9.7.deb
-Size: 504740
-MD5sum: a6d6a89cc655017a91771b3ed7110412
-SHA1: 436597d752f48e82556afe3fac7dc2ac0203e62b
-SHA256: b7afd0db86a98ce2cf72640ca9eccb81f6596e0fc52cccc86bc048f02d9fe8a9
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
 Version: 1.9.8
 Architecture: iphoneos-arm64
 Maintainer: aReo
@@ -14033,42 +13881,6 @@ Author: 妖刀
 Name: Choicy 自用中文包(rootless)
 
 Package: com.dao.classicfolders3
-Version: 3.0.5.5
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4360
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.0.5.5.deb
-Size: 3287346
-MD5sum: bb29e8383300531392820ee5a9674f9c
-SHA1: 5a0b8f7082b9ba7cc96236782aeee115670ab7eb
-SHA256: b3fc14366c6e63365cd4a2b6b7a72c6bf7ad8d9b8d6a449db866b771e547494f
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.5.7
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4360
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.0.5.7.deb
-Size: 3287432
-MD5sum: 8aa3d0087447bdffe65f584ab695a591
-SHA1: da2b75e2d00447e43d07e335a9f228db8bd74907
-SHA256: ceefaeb68e59385c29b37d4c3b055168350f8bac6f44d654668f339a0685188b
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
 Version: 3.0.5.8
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -14615,74 +14427,6 @@ Author: 佚名
 Name: 清爽酷安(rootless)
 
 Package: com.dao.kayoko
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootless/Kayoko(rootless)_2.3.deb
-Size: 119088
-MD5sum: 8f39acedd6dde383fceb4f646b2ba2ac
-SHA1: 766ea9f1ca66544767da9364046afa60acbae53a
-SHA256: d163e764c5c6eae55340162d85cfa46c26b2b68b0fba611361a87b1322b9323c
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.4
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootless/Kayoko(rootless)_2.4.deb
-Size: 125748
-MD5sum: 08d2405cf4da6dcc75871a329bb9d86c
-SHA1: c971a3412c9fb47ac1080295640bde2abec4e20f
-SHA256: e428605700d32c9f08fc3a6df0971176c04c07baf495827454ca55afcca9f803
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.5
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootless/Kayoko(rootless)_2.5.deb
-Size: 125748
-MD5sum: 99160950c07627bbae143a42e2355db5
-SHA1: f6f9242192bf195cf2ec9ecb995364a797261677
-SHA256: bdab0f5a3926492d68e7ac8b312f1984f0c48aa1a0cc14d21be7d79ea81e2231
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.6
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootless/Kayoko(rootless)_2.6.deb
-Size: 126544
-MD5sum: af6ec3ecc804a94a9ab4e33aab89245f
-SHA1: 38466894061e3739778d3d7e3a769abcfa5d4720
-SHA256: fff508e8b3f4ec86f8f8479bfbea682ef86ccd3af5fbd7249008cf4dfbcb4649
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -14693,6 +14437,23 @@ Size: 124048
 MD5sum: eb471ffec7c6a6aa72e647ca0cfe292c
 SHA1: a97c01d43f489c4ea604b14e76b6941ca7f50448
 SHA256: b3bd6cfb523e13031b15b36800ae6779f715a0b54b889a4249e0f7529a41b592
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.8.deb
+Size: 127256
+MD5sum: 2c4b5c24071f96403bf73d8896034918
+SHA1: 4c97828d59653b780558f675d4b5f54a8938f059
+SHA256: 8fade3271f9708398805a94e308e2ff177870de4fd625bddcfa588fd11cc3529
 Section: 嗨-工具
 Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
 Author: Alexandra Aurora Göttlicher
@@ -16671,21 +16432,6 @@ Description: Shadow 简体中文包(rootless)。
 Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
-Package: com.hk.kayoko.cn.rl
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/Kayoko 简体中文包(rootless).deb
-Size: 6752
-MD5sum: 93f970811d82d08fdca61a059929eba1
-SHA1: 86406fa82d08404f996664f3d9469d9f85ff19b0
-SHA256: 67151d866a4938e22d88cd26f01ac250c0fc148c07f50d22a04b73dfeb8629de
-Section: 嗨-汉化
-Description: Kayoko 简体中文包(rootless)。
-Author: 妖刀
-Name: Kayoko 简体中文包(rootless)
-
 Package: com.hk.kbapp.cn.rl
 Version: 1.5-1
 Architecture: iphoneos-arm64
@@ -18168,42 +17914,6 @@ Name: CCBorder16(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.5.5
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4364
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.0.5.5.deb
-Size: 3287550
-MD5sum: 5807b1a69f529607d0c86c0e1367a627
-SHA1: 81c2b982d2e871702e1e929adfbc5a9debd3c0f9
-SHA256: 8bf565bd9ff0f7a93317ff6f97f9cec33b4375d29eba416e679f58b618bf6840
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.5.7
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4364
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.0.5.7.deb
-Size: 3287588
-MD5sum: b694c144e4bf836824da74d737cd7a53
-SHA1: cb441396d631a532afdd880ff9c32f5650a89714
-SHA256: 685ffbee9998be3378b6fbb27c995aba84c0b9b77945b08c2ffbb8b414ed02c7
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
 Version: 3.0.5.8
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -18445,40 +18155,6 @@ Author: dvntm
 Name: Infuse Plus(RootHide)
 
 Package: com.dao.kayoko
-Version: 2.5
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: roothide/Kayoko(RootHide)_2.5.deb
-Size: 126256
-MD5sum: 142288b639bfee23284cb58974a15c0a
-SHA1: d476049a8ec99e9bda69a133ed4f988189d5de03
-SHA256: 807ae517911bec8a33d836868a9830126e270295327ef115c2bda9a2e27a23db
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.6
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: roothide/Kayoko(RootHide)_2.6.deb
-Size: 126528
-MD5sum: ec7b60aea507dc1e79cb2ca2066400f5
-SHA1: b3e47c0c0b30b80f57a6ebcbc7c9924252c497b1
-SHA256: 3e3dab8a4504474be301ef30529f41e66a60967fd914395902d5db7b85833f7d
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
@@ -18489,6 +18165,23 @@ Size: 123996
 MD5sum: a27fc9994b8ff3cf88941e032a15faac
 SHA1: f4f7101a1004be3c81b4e9f6f3f4a004f584c6b4
 SHA256: 26c4b2e49cbb933af1a179f889159a7f6ad72f99ffa33e63cb514c73e5628481
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: roothide/Kayoko(RootHide)_2.8.deb
+Size: 127840
+MD5sum: 7ca7f5c2663b4edecf45edb5bc1072e7
+SHA1: db8d62f2c011bda9ce147aaee720419e0cacf0b6
+SHA256: ee56a5689a4bd6ae57a19a4c7a536cebdf48369fad0a2ae4a985ee4fd14dbef3
 Section: 嗨-工具
 Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
 Author: Alexandra Aurora Göttlicher
@@ -19333,21 +19026,6 @@ Section: 嗨-汉化
 Description: Halo 简体中文包(RootHide)。
 Author: P神
 Name: Halo 简体中文包(RootHide)
-
-Package: com.hk.kayoko.cn.rl
-Version: 2.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: roothide/Kayoko 简体中文包(RootHide).deb
-Size: 3240
-MD5sum: 7575c83b85e55f848e54d40b9055f5fc
-SHA1: 4d7785c7c709f7c0f46432135be5ecf217e42f4d
-SHA256: a5382e64e53a941bee4265f92fe0cc2760136ccd54490b946e86ad15d1dc4d76
-Section: 嗨-汉化
-Description: Kayoko 简体中文包(RootHide)。
-Author: 妖刀
-Name: Kayoko 简体中文包(RootHide)
 
 Package: com.hk.kbapp.cn.rl
 Version: 1.5-1
