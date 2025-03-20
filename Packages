@@ -15323,23 +15323,6 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 5.8.7
-Architecture: iphoneos-arm64
-Maintainer: Eevee & 妖刀
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless)_5.8.7.deb
-Size: 397520
-MD5sum: 3ae1b4526a1076c64ebed364772ca5a6
-SHA1: 70cfc8cf27d8057409317880403b2f78cf08d6bb
-SHA256: 461ef53256d64f3922d5bcd4b90eae6e17986b0bd616875a02ea3fe2ebff56e9
-Section: 嗨-工具
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Author: Eevee
-Name: EeveeSpotify(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
-
-Package: com.dao.spotify
 Version: 5.8.8
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
@@ -15350,6 +15333,23 @@ Size: 397652
 MD5sum: 6ecfe631c5d522e89f8f45f3f2e1ce49
 SHA1: 89351e9abc1f39fbfdb099ef365dc336d87066ca
 SHA256: 68899b9249681467165b28de62f3edabbcfe2aacbb5544442a5892296348fa13
+Section: 嗨-工具
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
+Author: Eevee
+Name: EeveeSpotify(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
+Package: com.dao.spotify
+Version: 5.9
+Architecture: iphoneos-arm64
+Maintainer: Eevee & 妖刀
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Conflicts: com.eevee.spotify
+Filename: rootless/EeveeSpotify(rootless)_5.9.deb
+Size: 405004
+MD5sum: de43fef8514515089bd5fa98c86f7e83
+SHA1: 2de4c3101c45442ad149c5bf05018022f6b4776b
+SHA256: e279a62e8717736eff9db40286fc6b2e6f66d5ff9427ab2cacdcacc0814837a5
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
