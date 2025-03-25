@@ -13850,6 +13850,24 @@ Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
 
+Package: com.dao.ccborder
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: rootless/CCBorder16(rootless)_1.2.deb
+Size: 41270
+MD5sum: 2dcda5200f843da3b45d3e4803bad145
+SHA1: e2da8b17561dde5bfa7f18971e74c5157230fcdf
+SHA256: 10ef3d0963123f9149ffbcc82cb2cdf38b7780a1044f69578bd3d1f18f635c95
+Section: 嗨-工具
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Name: CCBorder16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
+
 Package: com.dao.choicy.cn
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -17894,6 +17912,24 @@ Size: 39868
 MD5sum: b21072015bfcd98b5053e44f3d7f2c51
 SHA1: c0c3bf3283b3c7112e16ec96269cbecb41c6f141
 SHA256: 212745b4ff26df9b8bbae215cae4b8c1edd78db5d3ae5edfbc85478f3a129cb1
+Section: 嗨-工具
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Name: CCBorder16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
+
+Package: com.dao.ccborder
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: roothide/CCBorder16(RootHide)_1.2.deb
+Size: 40002
+MD5sum: 6f7ba050c6e202c27c9cd0dfaf50c10e
+SHA1: 85bb40d4ee7ff05cfc04fbf10035735527505dd5
+SHA256: cc38a33eb2bc3e141eee0e6faff2ae3945b4c136b9006132bdafe5f700ec5841
 Section: 嗨-工具
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
