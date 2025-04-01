@@ -13584,6 +13584,22 @@ Description: 一个自动化注入工具，为iOS应用程序注入插件。具�
 Author: Alaise, Sudo
 Name: Azule(rootless)
 
+Package: com.dao.azule
+Version: 0.8.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.linusyang.appinst | com.dao.appinst | ai.akemi.appinst
+Conflicts: xyz.cypwn.azule
+Filename: rootless/Azule(rootless)_0.8.3.deb
+Size: 2241572
+MD5sum: 2a7cea6f1bf51e4a01614b80b38e1f7d
+SHA1: baec877801a1d4d4ab3a85d536e042b826507b21
+SHA256: 7f0c46168413d753382f088e1c8407d7ba85391dbcb00495fbf93d40c0173ddf
+Section: 嗨-工具
+Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。
+Author: Alaise, Sudo
+Name: Azule(rootless)
+
 Package: com.dao.batteryhealth
 Version: 1.0.1
 Architecture: iphoneos-arm64
