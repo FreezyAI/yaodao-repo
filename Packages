@@ -3526,6 +3526,22 @@ Description: TVLock 简体中文包。
 Author: 妖刀
 Name: TVLock 简体中文包
 
+Package: com.dao.uiscroller
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: iamdega & daodao
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.iamdega.uiscroller
+Filename: rootful/UIScroller_ZH.deb
+Size: 9512
+MD5sum: 98dfd0d74334ecb2c0871f182a8be388
+SHA1: 0344d7d3d06da5416f92c3c9a710d7d8d1f9a9d2
+SHA256: c523fc1ef51b2b21c19f379852b06ea95161eb989daeac9fd4886148a89ae134
+Section: 嗨-工具
+Description: 放松手指，自动滚动任何页面，全局生效，App内双指长按出现菜单。
+Author: iamdega & daodao
+Name: UIScroller 中文版
+
 Package: com.dao.underdock.cn
 Version: 1.3
 Architecture: iphoneos-arm
@@ -15573,6 +15589,23 @@ Description: TVLock 简体中文包(rootless)。
 Author: 妖刀
 Name: TVLock 简体中文包(rootless)
 
+Package: com.dao.uiscroller
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: iamdega & daodao
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.iamdega.uiscroller
+Filename: rootless/UIScroller 中文版(rootless).deb
+Size: 9528
+MD5sum: f86acfdedf9c98034a5a4cae8b3c1e93
+SHA1: 5bec22380bef99135c38e1966e3a3240a5a871ae
+SHA256: a70445e693d88817c514b6638a46f223bd3874f3f949d7eaa7183ddca4e973ee
+Section: 嗨-工具
+Description: 放松手指，自动滚动任何页面，全局生效，App内双指长按出现菜单。
+Author: iamdega & daodao
+Name: UIScroller 中文版(rootless)
+
 Package: com.dao.underdock.cn
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -18508,6 +18541,22 @@ Section: 嗨-汉化
 Description: TVLock 简体中文包(RootHide)。
 Author: 妖刀
 Name: TVLock 简体中文包(RootHide)
+
+Package: com.dao.uiscroller
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: iamdega & daodao
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.iamdega.uiscroller
+Filename: roothide/UIScroller 中文版(RootHide).deb
+Size: 9516
+MD5sum: ece3803e884eaa93b97b0420541c91de
+SHA1: d970d387b9e8a5c79fd2a88c998998b8a57f28aa
+SHA256: 754161c216b387a78707f270682693c5b7bcd4975510cd5b127799d5e6005cf8
+Section: 嗨-工具
+Description: 放松手指，自动滚动任何页面，全局生效，App内双指长按出现菜单。
+Author: iamdega & daodao
+Name: UIScroller 中文版(RootHide)
 
 Package: com.dao.underdock.cn
 Version: 1.3
