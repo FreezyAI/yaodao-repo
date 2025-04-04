@@ -15359,16 +15359,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 5.9.1
+Version: 5.9.2
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 404052
-MD5sum: 1c737df9be772edc2f42434c72328771
-SHA1: b06daa6f865855f82a297f0acb2beca548caa918
-SHA256: f53257d4f591b9d94db007e31077152dc5d3b186431d1140c2de107d0b52c197
+Size: 403924
+MD5sum: 5d0079c29ff6d34bc4cc2f776228404f
+SHA1: 41f2c2cfb7ce2c3b231d8b9a77aefd120051f10e
+SHA256: d31957bc0b4aaf5b96d3f5921971b6085764488844973c9c316416d4c2b2cb1c
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
