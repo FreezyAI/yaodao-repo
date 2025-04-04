@@ -13329,23 +13329,6 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
-Package: com.dao.appprotect
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: rootless/AppProtect 隐私保护(rootless)_2.0.deb
-Size: 177996
-MD5sum: 57db29ea22d11aa1de0be89faca94a04
-SHA1: 6f7209aff11096fbdfe5155a18ccba6f983a5ea5
-SHA256: 842ec8ef990dfd1b3c25446d9fa80fa0e55b117336799e7507d75f29bd9d848b
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
 Package: com.dao.appstoretroller
 Version: 0.0.9
 Architecture: iphoneos-arm64
@@ -17623,23 +17606,6 @@ Size: 497116
 MD5sum: 8593a0b845a8374dd9c33e77a92dc7b7
 SHA1: 7ee17f5927e63970d24967869b9f4d383d4743be
 SHA256: 5f8c8fa17130aaa062b4a55ed1e266df7753288a3690594bb234fd5d87f0941f
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 2.0
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: roothide/AppProtect 隐私保护(RootHide)_2.0.deb
-Size: 168920
-MD5sum: ebba7d3eb3ef96abee2c8fdb4347c446
-SHA1: 3581af41f80b77537048e41c36deaa24c0540719
-SHA256: b0de362e4e469ac387a7e738e9c2fe13d5fce1836b73fcb795aa39a34fa972f6
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
