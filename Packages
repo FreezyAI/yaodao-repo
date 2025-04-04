@@ -13346,6 +13346,22 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: rootless/AppStoreTroller(rootless).deb
+Size: 32332
+MD5sum: 0be097d29b0fd64d379148e886a186d1
+SHA1: 6a933abf485b1751dee8d343b65b9c0f95140a88
+SHA256: 6f3c8b36d38a28bbc2a79a2d7eac29765c27173bf1b662493e1b8fd61fb6235f
+Section: 嗨-工具
+Description: 将iOS版本伪装成合理的版本，并获取需求高iOS版本的应用。
+Author: Mineek
+Name: AppStoreTroller(rootless)
+
 Package: com.dao.appsyncunified
 Version: 112.0
 Architecture: iphoneos-arm64
