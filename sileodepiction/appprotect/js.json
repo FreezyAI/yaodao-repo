@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.9",
+                    "text": "2.0",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 17 日",
+                    "text": "2025 年 04 月 04 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "一、修复</br> 1、修复静默验证可能不生效问题；</br> 2、修复锁屏清理通知白名单不生效问题；</br> </br> 二、优化</br> 1、优化激活逻辑，解决注销出现的未激活问题；</br> 2、优化设置中应用程序选择，添加应用搜索功能；</br> 3、设置中加密的项目支持静默验证；</br> 4、优化激活方式，支持直接跳转支付宝；</br> 5、优化插件设置 UI，更简洁美观。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.9.9",
