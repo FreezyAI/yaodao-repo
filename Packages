@@ -10380,6 +10380,22 @@ Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本�
 Author: SOPPPra
 Name: SettingsRevamp
 
+Package: com.hk.settingsrevamp
+Version: 3.0.1.1
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: rootful/SettingsRevamp_3.0.1.1.deb
+Size: 408392
+MD5sum: 09ed4f6415dc2a8c9673d6b2ae1c2667
+SHA1: 97e154b401b4756f8aa290d31e0a9ca26c84eb26
+SHA256: 67445deadbb4fe3e9f839559dd0b26b38a828b501bf2aab7125b86f5613af55a
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp
+
 Package: com.hk.settingsrevamp.cn
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -15264,6 +15280,22 @@ Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本�
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
+Package: com.dao.settingsrevamp
+Version: 3.0.1.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn.rl
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: rootless/SettingsRevamp(rootless)_3.0.1.1.deb
+Size: 408236
+MD5sum: 71ba333486cdad6bd9c5b1b6a5703bf7
+SHA1: 76d69aace1f60502ea046d7bca3f9e1bf734bd68
+SHA256: 7d94840e0ff4127365f3be4a8d9ce4c8da489f374b7c506a46daedf8954bb41d
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp(rootless)
+
 Package: com.dao.showmytouches
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -18405,6 +18437,22 @@ Size: 242584
 MD5sum: a29abb2f7dcc549e2b0e6538c114ad76
 SHA1: 594f69948e832d4ef1756581075d1a46ae721224
 SHA256: 07f9b6fe074d9a318d51c41258f8eb8f2f6f87883a75789e4c6926142f6669bf
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp(RootHide)
+
+Package: com.dao.settingsrevamp
+Version: 3.0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn.rl
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: roothide/SettingsRevamp(RootHide)_3.0.1.1.deb
+Size: 408120
+MD5sum: 62944430c975e25f84e1b0d421dfb798
+SHA1: 306174e2b598351e6cd5d521f70d16e7318d8869
+SHA256: 4801a5a2fbf715091caa0b495677acc901d433dfc829da6732f779bbc6ab9a85
 Section: 嗨-工具
 Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
 Author: SOPPPra
