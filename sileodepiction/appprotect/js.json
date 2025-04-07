@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0",
+                    "text": "2.0.1",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 04 日",
+                    "text": "2025 年 04 月 08 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "一、修复</br> 1、修复上个版本个别用户出现的崩溃和异常问题；</br> 2、修复卸载设置静默验证不生效问题；</br> </br> 二、优化</br> 1、优化加密设置中时间设置；</br> 2、优化锁屏关闭程序功能，锁屏关闭应用同时自动清理后台。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0",
