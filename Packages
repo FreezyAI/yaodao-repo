@@ -3695,16 +3695,16 @@ Author: dvntm
 Name: YTLite
 
 Package: com.dao.ytmusicultimate
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: Ginsu & dvntm
 Depends: mobilesubstrate
 Conflicts: com.ginsu.ytmusicultimate
 Filename: rootful/YTMusicUltimate.deb
-Size: 6793328
-MD5sum: 1c7f7e51ef5ab788f079579c2e8118f7
-SHA1: 964d800cea706ef29442f88c5a6beca87663422b
-SHA256: 531c85d194475fc933f6e02070417591aafa1136f0cce3abf88f63281c407af1
+Size: 6786144
+MD5sum: 393ca84d03ad540e67d22791cd17c2b4
+SHA1: 04e94853281a260a558736fe8eb350acf2056082
+SHA256: 0e4e22720d1546c47f004f235d77ebbe7c4d853c86f00973962ed79603656f86
 Section: 嗨-工具
 Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
 Author: Ginsu & dvntm
@@ -15822,16 +15822,16 @@ Author: dvntm
 Name: YTLite(rootless)
 
 Package: com.dao.ytmusicultimate
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm64
 Maintainer: Ginsu & dvntm
 Depends: mobilesubstrate
 Conflicts: com.ginsu.ytmusicultimate
 Filename: rootless/YTMusicUltimate(rootless).deb
-Size: 6793280
-MD5sum: 50b1c9cfc2b723a0b3e69d6c12675662
-SHA1: 2dfc749f339f20a260da24026efabcfd0b01305f
-SHA256: 1380f1d11696d76236ce47f1adad3bfd04ac07ef5cf6a84a134736cb35dadc65
+Size: 6790612
+MD5sum: db7578a89c76df955000766db10df082
+SHA1: 6b0e4fbcc1a1cb7d3f697aa7f2a4c6a73a3e6a79
+SHA256: 0689f14820c1f546cfb044fa85bb3e28465938569f2b3bd54f200325d42a16b7
 Section: 嗨-工具
 Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
 Author: Ginsu & dvntm
@@ -18791,16 +18791,16 @@ Author: dvntm
 Name: YTLite(RootHide)
 
 Package: com.dao.ytmusicultimate
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm64e
 Maintainer: Ginsu & dvntm
 Depends: mobilesubstrate
 Conflicts: com.ginsu.ytmusicultimate
 Filename: roothide/YTMusicUltimate(RootHide).deb
-Size: 6790252
-MD5sum: e60bf4b619501aa574d4801906869290
-SHA1: 2f4cfb382b9de25b3c0740ba04d44063d992b54a
-SHA256: 42eec9760f703a382e17c5bf2ccc69e851e021176a553e93880eacd120d1cf14
+Size: 6790640
+MD5sum: f8bafe40a9e4bef559dbf1a7fa415349
+SHA1: f2660ddf5054c675d987193cdd0f2aba351d47a7
+SHA256: a214d3456d6890c8dc60e87a4b053732026120a30bb4c2a825aec40dc56e1566
 Section: 嗨-工具
 Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
 Author: Ginsu & dvntm
