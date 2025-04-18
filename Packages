@@ -13362,6 +13362,23 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
+Filename: rootless/AppProtect 隐私保护(rootless)_2.0.2.deb
+Size: 538020
+MD5sum: 45ba55a31aa60ea7e0f43cc05ed97938
+SHA1: 00ff6a39e7473ed4e96f7fc984bc43430a9019aa
+SHA256: ca5debcbdc2663b5235d188e4864986a4400293ec84f11e5a592c08c281da543
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appstoretroller
 Version: 0.0.9
 Architecture: iphoneos-arm64
@@ -15424,16 +15441,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 5.9.2
+Version: 5.9.3
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 403924
-MD5sum: 5d0079c29ff6d34bc4cc2f776228404f
-SHA1: 41f2c2cfb7ce2c3b231d8b9a77aefd120051f10e
-SHA256: d31957bc0b4aaf5b96d3f5921971b6085764488844973c9c316416d4c2b2cb1c
+Size: 404112
+MD5sum: d7d1b40f80df7eca24f725052a15c99c
+SHA1: d45f078b221a57de20a209b3340ab32c9ab98538
+SHA256: cf596ec3760e5324a0adf0c27c19a9d08bb21e046f452632a9bd2ff90399add8
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -17689,6 +17706,23 @@ Size: 515600
 MD5sum: 8aa0bda28af2a7432bee6fe3198b85fb
 SHA1: f2154755c262ccd32250c3096d06f626ac748162
 SHA256: 554f76791932cf1e6e3ce455b7496f0d8753fabd91dd26b8495d15b22e82ab9c
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
+Package: com.dao.appprotect
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
+Filename: roothide/AppProtect 隐私保护(RootHide)_2.0.2.deb
+Size: 517300
+MD5sum: 56974334c663e4b59b05d3df3fe9dd26
+SHA1: 4691a9111e2a1a64afca7303af69f3d0ab7f1d89
+SHA256: aca7d0b28de81ca6cd7d6b95bd4623886adf7c4a3f5c8970fab57c3baafe66df
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
