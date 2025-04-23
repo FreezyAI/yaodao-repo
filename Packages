@@ -3285,11 +3285,28 @@ Maintainer: 刀刀源
 Installed-Size: 180
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
-Filename: rootful/Powercuff.deb
+Filename: rootful/Powercuff_1.0.1.deb
 Size: 14224
 MD5sum: 8ef009d07fac1940dc995143fd30b588
 SHA1: 31874f440578396057583a71eccf84d8325dc5c3
 SHA256: 9afcd70f47f25c6e518671c53fa452f55ceb2731cea22cebd389daff2270cb2d
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff
+
+Package: com.dao.powercuff
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 刀刀源
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
+Filename: rootful/Powercuff_1.1.deb
+Size: 13452
+MD5sum: 7c5cefcce1d77abf007a73b745998b02
+SHA1: 5e0013ba99574e5294da707e6f2603cd0740d693
+SHA256: 11189277607b83ca5646f0e20a5b08e46db89b92d3c682b811bba4f0824faa2b
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -3575,23 +3592,6 @@ Section: 嗨-工具
 Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
 Author: Alexandra Aurora Göttlicher, 74k1_
 Name: Vē 通知记录
-
-Package: com.dao.velvet2
-Version: 2.2
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: rootful/Velvet2_ZH.deb
-Size: 100164
-MD5sum: 7bd1e7b3cc10616d0b938fd0b084faf5
-SHA1: 631ad7cbe8ca8645015346d818a16c47d011b13b
-SHA256: 19512f9535eabcef914c4051e0de688404c3cf5faa1b30eb1349e1b9f56dbbe7
-Section: 嗨-工具
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Author: NoisyFlake
-Name: Velvet 2 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
 Version: 1.2-1
@@ -11700,21 +11700,6 @@ Description: Velvet 简体中文包。
 Author: 妖刀
 Name: Velvet 简体中文包
 
-Package: com.hk.velvet2.cn
-Version: 2.1.2
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootful/Velvet2_CN.deb
-Size: 6816
-MD5sum: 6d53bf19ac48a5c378b09f1a74989fab
-SHA1: 8e2968f30484947d6571e938fbf83db138b9448e
-SHA256: 030d2584df84dee87284d74cf266630cf1454dc6474ce23a9d3d76119e62f61b
-Section: 嗨-汉化
-Description: Velvet 2 简体中文包。
-Author: 妖刀
-Name: Velvet 2 简体中文包
-
 Package: com.hk.ventana.cn
 Version: 1.4
 Architecture: iphoneos-arm
@@ -15030,11 +15015,28 @@ Maintainer: 刀刀源
 Installed-Size: 180
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless).deb
+Filename: rootless/Powercuff(rootless)_1.0.1.deb
 Size: 14292
 MD5sum: 99c79c4086d1e2fb214df2c76b70d9ee
 SHA1: daf2b822b21cffef58065fe587bd6771058c6658
 SHA256: 145ebe6b154c3b5250099c86774843e000e9cb3fe86231d3a57c82d72f332af6
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff(rootless)
+
+Package: com.dao.powercuff
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 刀刀源
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
+Filename: rootless/Powercuff(rootless)_1.1.deb
+Size: 13554
+MD5sum: 21e36ce352e17f8363207fc61a77d1d5
+SHA1: 77f545c73e835c52fe63b6a1dfdb6de4d4298f62
+SHA256: e7f1a440859703dfb11dc5ec834d8d8ae6b92d4a6774224916089cf8de48c03d
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -16895,21 +16897,6 @@ Description: 迷你锁屏播放器，无设置。
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: MiniLsp(rootless)
 
-Package: com.hk.rootless.velvet2
-Version: 2.1.2
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake <support@noisyflake.com>
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
-Filename: rootless/Velvet 2(rootless).deb
-Size: 96096
-MD5sum: f9815c89ba8e0872b4981ed58875a248
-SHA1: 0f65af4deb11c9784f463a384607fc9294dc9abd
-SHA256: d640a4f31217daf2f62917c461efda6a9d74b8edcd817b9a77f941598c2731fd
-Section: 嗨-工具
-Description: 完全可自由定制的通知横幅，源内安装汉化包。
-Name: Velvet 2(rootless)
-
 Package: com.hk.rune.cn.rl
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -17848,6 +17835,23 @@ Author: aReo
 Name: AppTools15-16(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Version: 1.3.8
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: roothide/AppTools15-16(RootHide)_1.3.8.deb
+Size: 627756
+MD5sum: 6666122857a85d477e75ab39fbec2db9
+SHA1: 901959e14823cb8925ec360d99318f2b4ca830fc
+SHA256: 2938592f6a5e654daebdc848d6c03a12621ce351f81f37a6ea5916eedce3db0b
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64e
@@ -18421,11 +18425,28 @@ Maintainer: 刀刀源
 Installed-Size: 180
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
-Filename: roothide/Powercuff(RootHide).deb
+Filename: roothide/Powercuff(RootHide)_1.0.1.deb
 Size: 14250
 MD5sum: 4ea18b6640cf247b42b31cfa6ae33fc7
 SHA1: e91a20eb056b93df0b678ce0db6b5259d300150b
 SHA256: c68a9f63e9d434763d6752afaf67dc3d7cf0a85601a154cd646cbfc7e19a7c95
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff(RootHide)
+
+Package: com.dao.powercuff
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀源
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
+Filename: roothide/Powercuff(RootHide)_1.1.deb
+Size: 13494
+MD5sum: 85a5d4eb7d7020d1c7c85a1fdc775c50
+SHA1: d593327e5d4e8e92fd06ac031ad4b3388b22b554
+SHA256: bafd54775ce88e5a56bdd32ec52a87a547b5cefb29a737fd9b93ea7fbdb40934
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
