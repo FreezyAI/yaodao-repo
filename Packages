@@ -17910,10 +17910,10 @@ Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
 Filename: roothide/AppTools15-16(RootHide)_1.3.9.deb
-Size: 566780
-MD5sum: 54067cb3eff6ee3473ae008f6a9a84c3
-SHA1: 0f8dcd8ebc6461f1d8095463b2e3149930eeaa66
-SHA256: f58ec980c2c52aad9cfa4a0cc083395bbc98bc88488019035c00bf7abdf89766
+Size: 567136
+MD5sum: 64c58ae27425a4da2e52e720809c68fc
+SHA1: 84372eb9e3cb9a2c509b8aaef1636e1c79859d89
+SHA256: c25cf526244444fa51d41cef31cf08ff01b2abc797f1d5c31434d963e880a793
 Section: 嗨-付费
 Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
