@@ -13619,6 +13619,23 @@ Author: aReo
 Name: AppTools15-16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: rootless/AppTools15-16(rootless)_1.0.4.deb
+Size: 576592
+MD5sum: e7755a9c07e9ed1ef42cdccfd3636e31
+SHA1: c4526eb092ed3f08bd197f4d24d14243d2a2e9c7
+SHA256: 3850db129e9240ed6d2d3b1fc72fc287a3fa0f358f44d8a666e43628d18a59c6
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -15511,16 +15528,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 5.9.5
+Version: 5.9.6
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 403884
-MD5sum: 734021b474d5c3284ba6ec04c29d1baa
-SHA1: 97f753f34663f6422775fc9a468f451663bed02d
-SHA256: c61dd33f4280658a30247e888d663e798b4c2629aec02419629be7635b4caf35
+Size: 404352
+MD5sum: 563077e172a44efd7590ab8b2bec7113
+SHA1: 959cb3f426e6a3716886a691e796253ab42755f5
+SHA256: cc7367579005d7c7d5cfd556b8bcb94ccb805bdf03f36b5e5a622a86c38dfd3a
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -17801,6 +17818,23 @@ Author: aReo
 Name: AppProtect 隐私保护(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Version: 2.0.4
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
+Filename: roothide/AppProtect 隐私保护(RootHide)_2.0.4.deb
+Size: 508292
+MD5sum: 0da062550c504028bba0e118de709d6a
+SHA1: 4e7798ce237d91c16994678aa5894d3460b467e7
+SHA256: e4cc77784ea5279e29e32549cf23411c8216e40c92e39b52702df2925a9d27d7
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.apptools15
 Version: 1.3.1
 Architecture: iphoneos-arm64e
@@ -17948,6 +17982,23 @@ Size: 567136
 MD5sum: 64c58ae27425a4da2e52e720809c68fc
 SHA1: 84372eb9e3cb9a2c509b8aaef1636e1c79859d89
 SHA256: c25cf526244444fa51d41cef31cf08ff01b2abc797f1d5c31434d963e880a793
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: roothide/AppTools15-16(RootHide)_1.0.4.deb
+Size: 564452
+MD5sum: 7feee3fcb475799eb00818e06787b30d
+SHA1: c807eb75870708d5393ca4494cf82d1d322d5419
+SHA256: 9e50579b9fa66f787d48beb775fdec9866c1c164593189ac5131618c9d094eee
 Section: 嗨-付费
 Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
