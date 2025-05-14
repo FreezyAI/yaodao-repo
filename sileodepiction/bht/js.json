@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.4-1",
+                    "text": "4.4-2",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 30 日",
+                    "text": "2025 年 05 月 15 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.4-2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步BHT 4.4-1最新源码，但是因为之前更新过，所以插件版本号为4.4-2。</br> </br> 修复新版本中的所有崩溃问题；将新标签添加到隐藏页面；</br> 新功能：DM 重播后续页面和标签；</br> 新功能：上传 4K 媒体；</br> 新功能：帖子和回复中的语音功能</br> 更新本地化；</br> 删除不必要的选项。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.4-1",
