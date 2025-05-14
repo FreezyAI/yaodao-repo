@@ -2844,17 +2844,16 @@ Author: NoisyFlake
 Name: BetterAlarm中文版
 
 Package: com.dao.bhinsta
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Bandar Alruwaili & daodao
-Installed-Size: 440
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn, com.hk.bhinsta.cn.rl
-Filename: rootful/BHInsta_ZH.deb
-Size: 73968
-MD5sum: 983436f3897289125fc2f792b2fdb870
-SHA1: 913bceb8d2db3f4be7ebd1bd8da34e2205f0b3b3
-SHA256: 707915d84795f3880f0b5db0f6a14fd579516782ea6789bc70cf5c6370247699
+Filename: rootful/BHInsta.deb
+Size: 69200
+MD5sum: daa62af0ea6390ccde9446ab06ac43a0
+SHA1: ddcc15da9747d90e83f0bba08b2bb53d9570c40a
+SHA256: 7e7feff96a1be5e30fe59702cde45b74f72d658cabda701d0f84921a5fcb8f6b
 Section: 嗨-工具
 Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
 Author: Bandar Alruwaili
@@ -2921,6 +2920,23 @@ Size: 7620336
 MD5sum: bb8462e9650beefcc2752842491332e3
 SHA1: 4dd01266549b137a87e22c7edf068177a7581d05
 SHA256: 46531a4edfc247ba364ddc37ad80df83b1a65a8d0b61758e374e0e2a98f387fd
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
+Package: com.dao.bhtwitter
+Version: 4.4-2
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootful/BHTwitter_4.4-2.deb
+Size: 6713532
+MD5sum: 491ffdcdfdafb2d17e8ea699a57b7b21
+SHA1: 436c3909171ec9cdcf95019b6526978c7156aa0e
+SHA256: 63dc1442d0017971ad078b8f0212606aadb5875aaaecd20f16bdb67ccf25ed88
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -3100,16 +3116,16 @@ Author: sergy
 Name: Immortalizer
 
 Package: com.dao.infuseplus
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootful/InfusePlus.deb
-Size: 401044
-MD5sum: 36f7b95f8fe65faf6253d7557fa32bff
-SHA1: 18544d9fe3eeb8725d2c6f7411e3fa628c2ec6b6
-SHA256: 7de3bd6d99071f33c6f7a01f7478fd922fbc647c98f58b08c52d46d94c912567
+Size: 407480
+MD5sum: e77ab2ef4906d4e2cc74db6e7447bd09
+SHA1: 3ee063e653c500843bdf9deaac0e890b01cb3649
+SHA256: a6b951a0fe540444570c6560f82b56539f5e22ea600ffebc739609feaddbd70a
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -13770,17 +13786,17 @@ Author: NoisyFlake
 Name: BetterAlarm中文版(rootless)
 
 Package: com.dao.bhinsta
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili & daodao
-Installed-Size: 440
+Installed-Size: 460
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn, com.hk.bhinsta.cn.rl
 Filename: rootless/BHInsta 中文版(rootless).deb
-Size: 74006
-MD5sum: acf330887d65aaa3c80b83a1403be7cf
-SHA1: 1a9d4d23b8e88599e37858b3955c86745e294e44
-SHA256: a82eedbaf8da7212fed3cf5c850eb8fa221ed97f203015331911f6e9286ec832
+Size: 69240
+MD5sum: 8e68859c8d7f5378fc962b7e3323bb55
+SHA1: 43678546dac4a7e8a6a7e445483033937a8db9c1
+SHA256: 0506379fcedf9396524135b1d31e3af5298034f1f7a4804ce0b513f0603b51c4
 Section: 嗨-工具
 Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
 Author: Bandar Alruwaili
@@ -13863,6 +13879,23 @@ Size: 7623764
 MD5sum: 4d3b97b7f421885b71feca47cf00a8fe
 SHA1: e0a0eeaf23b5b08d8d2cf2708ec34a03ac546c84
 SHA256: 394fcb388ebba654bbee7e95f5e4e8366701720a5927bb9563c0cc31f9297136
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
+Package: com.dao.bhtwitter
+Version: 4.4-2
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootless/BHTwitter 中文版(rootless)_4.4-2.deb
+Size: 6712332
+MD5sum: 729ed6114dc4410d9d50764a540e6989
+SHA1: 55788dceda0f06cb0b69e9146a7593cae50f1f77
+SHA256: 1ac5ffa061cd8f05d57d499d37f9b52c6847eda8634c4670ec0152ebf5d4d870
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -14519,16 +14552,16 @@ Author: sergy
 Name: Immortalizer(rootless)
 
 Package: com.dao.infuseplus
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 401012
-MD5sum: 804a5b214dc1ea46e805fa1be92a1cef
-SHA1: 163b960063586a35f4f594c5a2d02e53062fc064
-SHA256: a7c11f159771930d65d57fbc97fbf3f997aa6c69a01a36f796300ab16c0f4171
+Size: 407120
+MD5sum: 7983558522c6cca2328b96c7bcd8239e
+SHA1: f982abc9ec647c38354519c9bc51356a756c11ee
+SHA256: c22c19e3d2f3c418708dbf5fab588091c149978c5308b3dacd6cec11a6da3e5c
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
@@ -18075,17 +18108,16 @@ Author: NoisyFlake
 Name: BetterAlarm中文版(RootHide)
 
 Package: com.dao.bhinsta
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: Bandar Alruwaili & daodao
-Installed-Size: 440
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn, com.hk.bhinsta.cn.rl
 Filename: roothide/BHInsta 中文版(RootHide).deb
-Size: 74106
-MD5sum: 274afc5ee660854d5fb54434985b05c3
-SHA1: ec24d9eb1230f40fdf0b93cb69cf3169c5ada01d
-SHA256: aba3d42f5f4cd4a004a7df19786e3e5225085e98dd4cdb9e99d94821428c27c7
+Size: 69288
+MD5sum: 7e8c2286f62368df08ca2c319f960d2a
+SHA1: 1eb41ce54acde32d2f4f7a39db98591c27304415
+SHA256: 7bd2d02c96709cb0c7c067de5dfe5870977e0a9ae10ffb6c83f459504d7a2fb8
 Section: 嗨-工具
 Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
 Author: Bandar Alruwaili
@@ -18137,6 +18169,23 @@ Size: 7619376
 MD5sum: 69d8505400406a1a1b87466ce384b9a9
 SHA1: d7d3cfa9a4355702296529ae61051ae55c45a8a2
 SHA256: e4a3da6a73906a09242d36623f1f9190a4ca533595730b183ca7f359951e4aa5
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
+Package: com.dao.bhtwitter
+Version: 4.4-2
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: roothide/BHTwitter 中文版(RootHide)_4.4-2.deb
+Size: 6715124
+MD5sum: a63819d28e499b0e4ecae5129cf89623
+SHA1: f11739ed81be71bac591ab2f8cecacbbaeb9b5b0
+SHA256: 9c1c88b79457daa45e5a046be167608952e28c226cbeba011b7c2f408dc5a552
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -18440,16 +18489,16 @@ Author: sergy
 Name: Immortalizer(RootHide)
 
 Package: com.dao.infuseplus
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: roothide/Infuse Plus(RootHide).deb
-Size: 400356
-MD5sum: bc9ada1da960c87f7758af2a7c1ed156
-SHA1: c2125c6e6902a5c2732386153536e60df78d7717
-SHA256: 0051a440c8667a84e1bf0896aab8138d9853a563b17ca9208de1577a3f99329a
+Size: 406196
+MD5sum: f2bfcb4135582a7e2902e6f1c588efa9
+SHA1: 7467b78871cb2094f18ccc6bc09abfe04143ce5d
+SHA256: f8769bdd7f3197bc528a22f10cce54dc1259eaeb1b1e3d8c09f12c56bd3b8b96
 Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
