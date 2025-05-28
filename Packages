@@ -13466,13 +13466,29 @@ Architecture: iphoneos-arm64
 Maintainer: Mineek
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: dev.mineek.appstoretroller
-Filename: rootless/AppStoreTroller(rootless).deb
+Filename: rootless/AppStoreTroller(rootless)_0.0.9.deb
 Size: 32332
 MD5sum: 0be097d29b0fd64d379148e886a186d1
 SHA1: 6a933abf485b1751dee8d343b65b9c0f95140a88
 SHA256: 6f3c8b36d38a28bbc2a79a2d7eac29765c27173bf1b662493e1b8fd61fb6235f
 Section: 嗨-工具
 Description: 将iOS版本伪装成合理的版本，并获取需求高iOS版本的应用。
+Author: Mineek
+Name: AppStoreTroller(rootless)
+
+Package: com.dao.appstoretroller
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: rootless/AppStoreTroller(rootless)_0.1.1.deb
+Size: 21040
+MD5sum: afe924703f57ea59dbf6edd11326fe8c
+SHA1: d89e6d4da557b177c70eab97aabc8e41d985d806
+SHA256: 532cb5f40c5a7665296c339cc148e44db41ec4f2edb02afa08d03ffc3616cc04
+Section: 嗨-工具
+Description: 伪装成合适的iOS版本，并获取需高iOS版本的应用。
 Author: Mineek
 Name: AppStoreTroller(rootless)
 
