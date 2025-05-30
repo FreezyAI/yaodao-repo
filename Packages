@@ -3544,12 +3544,12 @@ Architecture: iphoneos-arm
 Maintainer: waruhachi
 Conflicts: com.choco.tg
 Filename: rootful/TGExtra_1.2-2.deb
-Size: 4788552
-MD5sum: 24e322e58e47f361b72830eae1f3a139
-SHA1: bbfd08227ea0e14e8f7f0fcbd9ae75d63bd3036e
-SHA256: 082691e6bdfd9f93c8f5adb2f28dc7542c44d38bda9c527aad6d1f151fa4ae9a
+Size: 4790672
+MD5sum: eb6d9165fc8bdcac8f2248c2bfb60520
+SHA1: 17739ab1cdc21d3ad19d8eee54ee3e23ff17127c
+SHA256: bf350d0547e4b6c0e9bc278a83024a1a23223edc990019c4dcf2a8ce3f8cf8eb
 Section: 嗨-工具
-Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮；添加三指长按手势打开设置。
+Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮；添加三指长按手势打开设置。
 Name: TGExtra
 
 Package: com.dao.trollstore.cn
@@ -15790,12 +15790,12 @@ Architecture: iphoneos-arm64
 Maintainer: waruhachi
 Conflicts: com.choco.tg
 Filename: rootless/TGExtra(rootless)_1.2-2.deb
-Size: 4787128
-MD5sum: fe809962ea0c8bd08619bfd38906d8bb
-SHA1: 43a5fab67fe4911959e14a72c796e418a9dd166e
-SHA256: 70583ca34b5c8ff1c0a122bf8a0e3c3c57936fd67b57cbb7c8e262df734653d7
+Size: 4791056
+MD5sum: 53ac001ce18a1d1fa3b1abb751886767
+SHA1: bacef4aff4c86ef76dedb9afbe8644d38ad1f5af
+SHA256: 63a2198c50b7089555f6f0a6c09303750a0c891e3e7e2cf93558184271cdd0a0
 Section: 嗨-工具
-Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮；添加三指长按手势打开设置。
+Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮；添加三指长按手势打开设置。
 Name: TGExtra(rootless)
 
 Package: com.dao.trollpad.cn
@@ -18989,12 +18989,12 @@ Architecture: iphoneos-arm64e
 Maintainer: waruhachi
 Conflicts: com.choco.tg
 Filename: roothide/TGExtra(RootHide)_1.2-2.deb
-Size: 4786144
-MD5sum: 953652b00ecb935ff4d4f5796d9a07f7
-SHA1: 9acbc7706ee28c841f99b05eff92e3e4a25c309f
-SHA256: 121a951f4863e6fc2b7b7758b7ec51dc7ede310241f86390dfb5d8b7fa3d3970
+Size: 4785756
+MD5sum: cd150893f976c01071561ba099ba8572
+SHA1: 7ec1520e3d161750b5ff3f25efe83867ef0e0b0d
+SHA256: 8dfa6d1ac8dee7daf287ab044ffe705647dcf821a5c4442797babc14325a3dba
 Section: 嗨-工具
-Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮；添加三指长按手势打开设置。
+Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮；添加三指长按手势打开设置。
 Name: TGExtra(RootHide)
 
 Package: com.dao.trollstore.cn
