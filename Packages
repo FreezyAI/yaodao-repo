@@ -14283,6 +14283,22 @@ Description: 修复CopyLog不能在iOS16上使用的问题，但听写键呼出�
 Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
+Package: com.dao.ct5
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Conflicts: com.hk.ct5.cn.rl, xyz.cypwn.cracktool5, xyz.cypwn.ct5extra
+Filename: rootless/CrackTool5(rootless)_5.1.deb
+Size: 1116592
+MD5sum: a87e364366eeff88f99f7a5421b47ec8
+SHA1: 9b430e500d24aede72186b56e8a2ba7c1ec191a4
+SHA256: 9c1fbed0ed4b256a45432b6c8fa4de59400ead3923fa8c39a4abee11f5723fa6
+Section: 嗨-系统
+Description: 一键破解插件，具体效果自测！
+Author: julioverne
+Name: CrackTool5(rootless)
+
 Package: com.dao.designer
 Version: 1.4.5
 Architecture: iphoneos-arm64
@@ -15637,16 +15653,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 5.9.8
+Version: 5.9.9
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 398160
-MD5sum: beb0a67826e177c566d8f88b320201eb
-SHA1: a1f92f70c9fb74af213ac1ff280d28ed6fcd54fa
-SHA256: 16788f284d3a71e28a7a1608d1cc6767e0417624c0490b81ff96bbb1b25e1482
+Size: 398120
+MD5sum: 5c627184a057faf354b8bbd9b63a31eb
+SHA1: 660eb8ae7381c4248a5331b38ed827fa030b45c4
+SHA256: 3debfc7d17a7661356bb334690e02707d2426ffaaefbaa6a846e4f1cc90ce146
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
