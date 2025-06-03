@@ -16,6 +16,18 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/bht.png",
+   "title": "NeoFreeBird",
+   "package": "com.dao.neofreebird.bht",
+   "hideShadow": false
+  },
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/tw.png",
+   "title": "BHTwitter",
+   "package": "com.dao.bhtwitter",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
    "title": "Kayoko",
    "package": "com.dao.kayoko",

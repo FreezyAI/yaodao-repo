@@ -2943,6 +2943,23 @@ Author: Bandar Alruwaili
 Name: BHTwitter 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
+Package: com.dao.bhtwitter
+Version: 4.4-3
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootful/BHTwitter_4.4-3.deb
+Size: 6715048
+MD5sum: 9753b9dc5ed7617ea0c84fdd4fa47b0d
+SHA1: 53b8f92bb0936d798152a9a37e8b63bcb5897278
+SHA256: 442c24d03d5b5ec03f2bcbcd79156871ed02a14810e5ba045f13aeb7d4391ebc
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
 Package: com.dao.blurrybadges
 Version: 1.5.2.1
 Architecture: iphoneos-arm
@@ -3181,6 +3198,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootful/Kayoko_2.9.deb
+Size: 128952
+MD5sum: 6929b503c8df8ca3d67575599066cc97
+SHA1: b6b162010f287585e9e3d3c4548d9bea1c2ea254
+SHA256: aa414523436a6a69a41c19b17f41876c2d460feaebee85363192065757ebc9d2
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.lockbuttonx
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -3212,6 +3246,23 @@ Section: 嗨-汉化
 Description: Mypomonella 简体中文包。
 Author: 妖刀
 Name: Mypomonella 简体中文包
+
+Package: com.dao.neofreebird.bht
+Version: 5.0-1
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
+Filename: rootful/NeoFreeBird-BHT_5.0-1.deb
+Size: 7704084
+MD5sum: aa1a860e8b0566b294062b2710246c39
+SHA1: 0bf227d19abdb0ea8acd19d11b35c2c84d747bb9
+SHA256: 24a492e9b107995249aad90513de2db24d20c7ec4fcc550a324a872ecbbccaeb
+Section: 嗨-工具
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: NeoFreeBird-BHT 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.noline
 Version: 1.0.1
@@ -13978,6 +14029,23 @@ Author: Bandar Alruwaili
 Name: BHTwitter 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
+Package: com.dao.bhtwitter
+Version: 4.4-3
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootless/BHTwitter 中文版(rootless)_4.4-3.deb
+Size: 6712892
+MD5sum: 4c52a6f4d61ed4fb0088cbe084f81eeb
+SHA1: f2d2620f6b8b2d29281735af2135f5639e047c51
+SHA256: 5933e7a4ab4792ff150d05681159788f1099bbf4deaa6b5c03ee22a55aeebefb
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
 Package: com.dao.bigshotsnapper3plugin
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -14757,6 +14825,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.9.deb
+Size: 128816
+MD5sum: c2035c6f91007e89be613fb21aecedf4
+SHA1: 16ea8b1fa73a9c8f55c2940e6679e8f6ff80d5d6
+SHA256: 716f8525ea94d7af3dad7042630a55826402c22147ae616c54b55ec3f81f44c9
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.lockbuttonx
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -14822,6 +14907,23 @@ Section: 嗨-汉化
 Description: Misaki 中文补充包(rootless)。
 Author: 妖刀
 Name: Misaki 中文补充包(rootless)
+
+Package: com.dao.neofreebird.bht
+Version: 5.0-1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
+Filename: rootless/NeoFreeBird-BHT 中文版(rootless)_5.0.-1.deb
+Size: 7705724
+MD5sum: 64a0911f77d070ff8db38d894ec57d96
+SHA1: b62a76b366582d2021c5cb02bf87961069b54c01
+SHA256: b63d69f328cb3374e67832d6c9c31ead8f79e309e2b6692e77b3651760055f8f
+Section: 嗨-工具
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: NeoFreeBird-BHT 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.ngc
 Version: 1.0.0
@@ -18329,6 +18431,23 @@ Author: Bandar Alruwaili
 Name: BHTwitter 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
+Package: com.dao.bhtwitter
+Version: 4.4-3
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: roothide/BHTwitter 中文版(RootHide)_4.4-3.deb
+Size: 6713056
+MD5sum: 2d59f51b2d457c0a3175b87ccdcece11
+SHA1: aa75a77bd8098d9697bc91621a185e9752d84636
+SHA256: 4025cc9ab08a479faf41b66331560472590e215628fd39295dcf07f741608744
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
+
 Package: com.dao.blurrybadges
 Version: 1.5.2.1
 Architecture: iphoneos-arm64e
@@ -18675,6 +18794,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: roothide/Kayoko(RootHide)_2.9.deb
+Size: 128788
+MD5sum: 3cfae96996e252a3aafee85d65528b17
+SHA1: 30075663b06ea3e4398cd042975ab1e06631b140
+SHA256: 52996b4d067e50958534875480f0903d5c4c4759b70ed05edfdb5916b6fe04af
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.lockbuttonx
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -18691,6 +18827,23 @@ Section: 嗨-工具
 Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
 Author: Nightwind
 Name: LockButtonX(RootHide)
+
+Package: com.dao.neofreebird.bht
+Version: 5.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
+Filename: roothide/NeoFreeBird-BHT 中文版(RootHide)_5.0-1.deb
+Size: 7709236
+MD5sum: 95058d4f769afc76111166f4d1668845
+SHA1: c61a7685368c44c19833581c80fc1b4e6500d66d
+SHA256: 1019f6fa84e13b2c987161382c1a900304858e8c498149714461c20f74b86e14
+Section: 嗨-工具
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: NeoFreeBird-BHT 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.ngc
 Version: 1.0.6
