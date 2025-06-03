@@ -2950,10 +2950,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
 Filename: rootful/BHTwitter_4.4-3.deb
-Size: 6715048
-MD5sum: 9753b9dc5ed7617ea0c84fdd4fa47b0d
-SHA1: 53b8f92bb0936d798152a9a37e8b63bcb5897278
-SHA256: 442c24d03d5b5ec03f2bcbcd79156871ed02a14810e5ba045f13aeb7d4391ebc
+Size: 6712160
+MD5sum: 7ceb3af62f96c52738f089b38b49fa40
+SHA1: 3de699d726ccef67982f2d4180f9adb0bc3be1b8
+SHA256: 545aabefd5a2b3481b9ce5f3eec31a7611bce9a26d7e93365e8fb2fb0bd64739
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -3254,10 +3254,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
 Filename: rootful/NeoFreeBird-BHT_5.0-1.deb
-Size: 7704084
-MD5sum: aa1a860e8b0566b294062b2710246c39
-SHA1: 0bf227d19abdb0ea8acd19d11b35c2c84d747bb9
-SHA256: 24a492e9b107995249aad90513de2db24d20c7ec4fcc550a324a872ecbbccaeb
+Size: 7708940
+MD5sum: e6e583e584407eab3b63590c5727c9db
+SHA1: 5e734a176553586302b37477e0a01941a87d7ecd
+SHA256: c99b76500a986fdd49548b1090172d79f1383a493c8c81dc9d48104917fb4b0c
 Section: 嗨-工具
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -14036,10 +14036,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
 Filename: rootless/BHTwitter 中文版(rootless)_4.4-3.deb
-Size: 6712892
-MD5sum: 4c52a6f4d61ed4fb0088cbe084f81eeb
-SHA1: f2d2620f6b8b2d29281735af2135f5639e047c51
-SHA256: 5933e7a4ab4792ff150d05681159788f1099bbf4deaa6b5c03ee22a55aeebefb
+Size: 6704420
+MD5sum: aa632aed9242d3dcc7bf61c7e4acf9c8
+SHA1: d20c7eedf8853e5adceab92b09ba3fe08142eb99
+SHA256: 8c74db3eae0520107f455ad675b7c86f2d53fcb1dde228dfd9c1fb2a5318ba11
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -14915,10 +14915,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
 Filename: rootless/NeoFreeBird-BHT 中文版(rootless)_5.0.-1.deb
-Size: 7705724
-MD5sum: 64a0911f77d070ff8db38d894ec57d96
-SHA1: b62a76b366582d2021c5cb02bf87961069b54c01
-SHA256: b63d69f328cb3374e67832d6c9c31ead8f79e309e2b6692e77b3651760055f8f
+Size: 7697160
+MD5sum: f8a7b739ea363fc66a4cdf6a43f5a5b8
+SHA1: ad77c088cf1b9bfacc3ca920deda7592b6b4596b
+SHA256: bf7ec6015a62cc7856ca62ff8971b04896c07906c6be3963b7250957fa245d07
 Section: 嗨-工具
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -18438,10 +18438,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
 Filename: roothide/BHTwitter 中文版(RootHide)_4.4-3.deb
-Size: 6713056
-MD5sum: 2d59f51b2d457c0a3175b87ccdcece11
-SHA1: aa75a77bd8098d9697bc91621a185e9752d84636
-SHA256: 4025cc9ab08a479faf41b66331560472590e215628fd39295dcf07f741608744
+Size: 6713312
+MD5sum: dc90af686afcddff0ce2759127953c78
+SHA1: 0f0ef857ba441f9480b4fb20d95517fff665575d
+SHA256: 7c7ff27d226fb89bdd7d4b642ded71adb2b3177370263da9ebdc6d7bf91b2c68
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -18835,10 +18835,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
 Filename: roothide/NeoFreeBird-BHT 中文版(RootHide)_5.0-1.deb
-Size: 7709236
-MD5sum: 95058d4f769afc76111166f4d1668845
-SHA1: c61a7685368c44c19833581c80fc1b4e6500d66d
-SHA256: 1019f6fa84e13b2c987161382c1a900304858e8c498149714461c20f74b86e14
+Size: 7705484
+MD5sum: 756f31958a875169d96a46ae07ae3921
+SHA1: 7c878b70c837dfc4446b0b8e3fdb256e7549ec11
+SHA256: 2a56d16f43aaddd187c50651a2a67027367b58a4648cfd746cb9c93724a9e9f9
 Section: 嗨-工具
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
