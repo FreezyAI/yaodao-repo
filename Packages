@@ -3213,6 +3213,23 @@ Author: Bandar Alruwaili
 Name: NeoFreeBird-BHT 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Version: 5.0-3
+Architecture: iphoneos-arm
+Maintainer: actuallyaridan & 刀刀
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
+Filename: rootful/NeoFreeBird-BH_5.0-3.deb
+Size: 7691712
+MD5sum: 37cc66f3f677313aeb1926c4b6018e03
+SHA1: 36b987c604e588e3d24ad4eaf3ece113b587bac4
+SHA256: 38a533f92476729f552dd66504d342fc26bf90bfd8ebfa914fcb8d2bfc97ebc7
+Section: 嗨-工具
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: BandarHelal & actuallyaridan
+Name: NeoFreeBird-BHT 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -14823,6 +14840,23 @@ Author: Bandar Alruwaili
 Name: NeoFreeBird-BHT 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Version: 5.0-3
+Architecture: iphoneos-arm64
+Maintainer: actuallyaridan & 刀刀
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
+Filename: rootless/NeoFreeBird-BHT 中文版(rootless)_5.0-3.deb
+Size: 7703848
+MD5sum: 845a620a3802baf5a89227d191063a70
+SHA1: 2f9f9bcfc7e27553b21a9d5c0319ec53e61889d3
+SHA256: 0b15ae236de999f008fbca62cf58ff03f92d57f8c8df094dde63a15f31023757
+Section: 嗨-工具
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: BandarHelal & actuallyaridan
+Name: NeoFreeBird-BHT 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.dao.ngc
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -18706,6 +18740,23 @@ SHA256: 8fffdd91f8d96fb45b95375dff71bd87075b24a3d3c4064b3f622872789928e7
 Section: 嗨-工具
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
+Name: NeoFreeBird-BHT 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Version: 5.0-3
+Architecture: iphoneos-arm64e
+Maintainer: actuallyaridan & 刀刀
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
+Filename: roothide/NeoFreeBird-BHT 中文版(RootHide)_5.0-3.deb
+Size: 7690640
+MD5sum: 85a6742d1569889cf3df5ba2718ae00d
+SHA1: 13bc8432bb78460ebdc0b56b4ba82473b4659cf0
+SHA256: 65a3f43d278f59eb17c44434d74aa8f89a910ea20e66de0e019a547b8e4474b0
+Section: 嗨-工具
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: BandarHelal & actuallyaridan
 Name: NeoFreeBird-BHT 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 

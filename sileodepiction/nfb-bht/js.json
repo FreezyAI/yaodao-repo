@@ -59,17 +59,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "actuallyaridan",
+                    "text": "BandarHelal & actuallyaridan",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "actuallyaridan & 妖刀",
+                    "text": "actuallyaridan & 刀刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.0-2",
+                    "text": "5.0-3",
                     "title": "最新版本"
                 },
                 {
@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 07 日",
+                    "text": "2025 年 06 月 09 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -92,6 +92,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.0-3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步 0609 源码编译</br> </br> 多项优化和修复</br> 新增“显示标签”功能",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "5.0-2",
