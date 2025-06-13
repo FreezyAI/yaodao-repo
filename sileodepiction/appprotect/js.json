@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.5",
+                    "text": "2.0.6",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 28 日",
+                    "text": "2025 年 06 月 13 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增相册验证功能：支持微信、QQ应用内打开相册验证；</br> 2、优化激活文件位置：防止被误清理后导致掉激活问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0.5",
