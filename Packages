@@ -2758,6 +2758,24 @@ Description: ACTikTok 简体中文包(rootless)。
 Author: 妖刀
 Name: ACTikTok 简体中文包
 
+Package: com.dao.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm
+Maintainer: Karen, Linus Yang
+Depends: mobilesubstrate, firmware (<= 16.5.1)
+Conflicts: ai.akemi.appsyncunified, xyz.cypwn.appsyncunified, byg.iosios.net.appsyncunified
+Replaces: ai.akemi.appsyncunified
+Provides: ai.akemi.appsyncunified (= 112.0)
+Filename: rootful/AppSyncUnified_116.0.deb
+Size: 35372
+MD5sum: 32c6b73bc574a4e8425bc92a9283ccd4
+SHA1: 0d372b853b5fbcb02985f8112b545fa54a0e8d5e
+SHA256: e22c748e3fe06a9b9687247d172e584c087225c50fcf0123b3a844d18fb3eb1c
+Section: 嗨-系统
+Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序；目前明美源gg中，上架备份。
+Author: Karen, Linus Yang
+Name: AppSync Unified
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm
@@ -13553,6 +13571,24 @@ Size: 34108
 MD5sum: 164f1b5ae6096a6cecc1e0f8a5af988f
 SHA1: 43202d1a31544fd8cf1ce3e7529c02784df8597e
 SHA256: 103397882b248055fef301ddd9786ad95b354bf13ce2a455ddaa1b21263b120d
+Section: 嗨-系统
+Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序；目前明美源gg中，上架备份。
+Author: Karen, Linus Yang
+Name: AppSync Unified(rootless)
+
+Package: com.dao.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm64
+Maintainer: Karen, Linus Yang
+Depends: mobilesubstrate, firmware (<= 16.5.1)
+Conflicts: ai.akemi.appsyncunified, xyz.cypwn.appsyncunified, byg.iosios.net.appsyncunified
+Replaces: ai.akemi.appsyncunified
+Provides: ai.akemi.appsyncunified (= 112.0)
+Filename: rootless/AppSync Unified(rootless)_116.0.deb
+Size: 34052
+MD5sum: c62d03f53e68c8eccb80c2d27f91ea2b
+SHA1: fe6247d49bea2ff0d76be7e04c388391bf4f917e
+SHA256: d6da4a7b7ac4e4a0f5d2aa0a6ae6baaa53f629d17fa8aaeb6c44735bd5f9d287
 Section: 嗨-系统
 Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序；目前明美源gg中，上架备份。
 Author: Karen, Linus Yang
