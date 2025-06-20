@@ -56,12 +56,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Eevee & 妖刀",
+                    "text": "Eevee & Lessica",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.9.9",
+                    "text": "6.0",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 01 日",
+                    "text": "2025 年 06 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "6.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更换为💋乌龙工作室优化版：在官方Eevee基础上新增控制中心/锁屏显示歌词</br> 启用：Eevee——>歌词——>发送到媒体控制",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "5.9.x",

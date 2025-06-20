@@ -15762,11 +15762,28 @@ Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
 Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless).deb
+Filename: rootless/EeveeSpotify(rootless)_5.9.9.deb
 Size: 398120
 MD5sum: 5c627184a057faf354b8bbd9b63a31eb
 SHA1: 660eb8ae7381c4248a5331b38ed827fa030b45c4
 SHA256: 3debfc7d17a7661356bb334690e02707d2426ffaaefbaa6a846e4f1cc90ce146
+Section: 嗨-工具
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
+Author: Eevee
+Name: EeveeSpotify(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
+Package: com.dao.spotify
+Version: 6.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Conflicts: com.eevee.spotify
+Filename: rootless/EeveeSpotify(rootless)_6.0.deb
+Size: 430788
+MD5sum: b054327383d11b9d8e8b7098d12672cc
+SHA1: 6f844e69d9eb10ace7a16b9608452f03497879ae
+SHA256: 8013014d022edc4e0d50068cb9eb00979c8fe53b3050860ba0e0c5c01301a150
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -18307,6 +18324,23 @@ Size: 554552
 MD5sum: b9482340ae14318e37b4d97b3d810f1c
 SHA1: 27e12d0f70df2397ec33a922a91c41d168058ecc
 SHA256: d4406aa1d3d17f60ab573ec9004d6799a37cb0c6f70f926a7a306dad8d7fb6bb
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Version: 1.4.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
+Filename: roothide/AppTools15-16(RootHide)_1.4.2.deb
+Size: 556504
+MD5sum: dc9a72ec1b3bb2a5fa4a540c406f38f5
+SHA1: 18a77c40a6154ac710841c0695530a758a3f2f7a
+SHA256: c07f07ffb50ed37e07d1a174f1a2437fa12816e17eae27412e255b92a4a2befa
 Section: 嗨-付费
 Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
